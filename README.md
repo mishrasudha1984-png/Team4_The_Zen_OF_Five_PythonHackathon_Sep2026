@@ -31,7 +31,7 @@ The project follows the complete data-analysis workflow:
 >>>>>>> 777660308f46c9cdb388cc2ba297478ab487876e
 | Priya Annamalai | Data Visualization |
 | Kokila Thanukumar | Machine Learning |
-| Team Member 5 | Documentation |
+| Priyankha Kumar | Documentation |
 
 ---
 
