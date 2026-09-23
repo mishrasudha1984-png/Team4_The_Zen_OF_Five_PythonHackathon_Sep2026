@@ -30,7 +30,7 @@ The project follows the complete data-analysis workflow:
 | Komalatha Deivasigamani| Data Analysis |
 >>>>>>> 777660308f46c9cdb388cc2ba297478ab487876e
 | Priya Annamalai | Data Visualization |
-| Team Member 4 | Machine Learning |
+| Kokila Thanukumar | Machine Learning |
 | Team Member 5 | Documentation |
 
 ---
