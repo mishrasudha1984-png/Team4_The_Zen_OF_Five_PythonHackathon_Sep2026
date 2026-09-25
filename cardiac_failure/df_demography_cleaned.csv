@@ -1,0 +1,2009 @@
+inpatient_number,gender,weight,height,bmi,occupation,agecat,flag_invalid_height,flag_invalid_weight,bmi_category
+827040,Female,50.0,1.45,23.781212841854934,Unspecified,69-79,False,False,Normal
+857781,Male,50.0,1.64,18.590124925639504,Urban Resident,69-79,False,False,Normal
+743087,Female,51.0,1.63,19.195302796492154,Urban Resident,69-79,False,False,Normal
+866418,Male,70.0,1.7,24.221453287197235,Farmer,59-69,False,False,Normal
+775928,Male,65.0,1.7,22.49134948096886,Urban Resident,69-79,False,False,Normal
+810128,Female,76.0,1.55,31.63371488033298,Urban Resident,69-79,False,False,Obese
+823318,Female,45.0,1.56,18.49112426035503,Urban Resident,79-89,False,False,Underweight
+844094,Male,60.0,1.65,22.03856749311295,Urban Resident,79-89,False,False,Normal
+787530,Female,50.0,1.55,20.811654526534856,Urban Resident,69-79,False,False,Normal
+795420,Female,60.0,1.55,24.97398543184183,Urban Resident,79-89,False,False,Overweight
+829801,Female,56.0,1.56,23.011176857330703,Urban Resident,69-79,False,False,Normal
+807741,Female,35.0,1.55,14.5681581685744,Worker,49-59,False,False,Underweight
+748109,Female,45.0,1.56,18.49112426035503,Urban Resident,89-110,False,False,Underweight
+802296,Male,70.0,1.72,23.661438615467823,Urban Resident,79-89,False,False,Normal
+744167,Male,55.0,1.6,21.484374999999996,Farmer,49-59,False,False,Normal
+780534,Female,50.0,1.5,22.22222222222222,Urban Resident,79-89,False,False,Normal
+852562,Female,40.0,1.53,17.087444999786406,Urban Resident,89-110,False,False,Underweight
+759947,Male,60.0,1.6,23.437499999999996,Urban Resident,79-89,False,False,Normal
+825016,Female,35.0,1.42,17.35766712953779,Urban Resident,79-89,False,False,Underweight
+820101,Female,53.0,1.58,21.230572023714146,Urban Resident,59-69,False,False,Normal
+729522,Male,60.0,1.7,20.761245674740486,Urban Resident,49-59,False,False,Normal
+764082,Female,44.0,1.56,18.080210387902692,Urban Resident,69-79,False,False,Underweight
+765801,Female,55.0,1.58,22.031725684986377,Urban Resident,69-79,False,False,Normal
+868777,Female,35.0,1.4,17.85714285714286,Urban Resident,79-89,False,False,Underweight
+821261,Female,55.0,1.58,22.031725684986377,Urban Resident,59-69,False,False,Normal
+814869,Male,62.0,1.68,21.9671201814059,Urban Resident,59-69,False,False,Normal
+818671,Female,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+846186,Female,42.5,1.5,18.88888888888889,Urban Resident,59-69,False,False,Normal
+818948,Female,60.0,1.55,24.97398543184183,Urban Resident,79-89,False,False,Overweight
+764380,Male,56.0,1.68,19.841269841269845,Urban Resident,69-79,False,False,Normal
+861240,Male,57.5,1.6,22.460937499999996,Urban Resident,79-89,False,False,Normal
+743467,Female,33.0,1.45,15.695600475624257,Urban Resident,79-89,False,False,Underweight
+814480,Female,60.0,1.6,23.437499999999996,Urban Resident,89-110,False,False,Normal
+783621,Female,46.0,1.5,20.444444444444443,Urban Resident,79-89,False,False,Normal
+766383,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+848044,Male,55.0,1.66,19.959355494266223,Urban Resident,69-79,False,False,Normal
+821472,Female,50.0,1.5,22.22222222222222,Urban Resident,89-110,False,False,Normal
+866373,Female,41.0,1.5,18.22222222222222,Urban Resident,79-89,False,False,Underweight
+793147,Female,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+739615,Male,45.0,1.6,17.578124999999996,Farmer,59-69,False,False,Underweight
+817939,Female,30.0,1.49,13.512904824107023,Urban Resident,79-89,False,False,Underweight
+760822,Female,43.0,1.48,19.631117604090576,Urban Resident,79-89,False,False,Normal
+831189,Female,49.0,1.5,21.77777777777778,Urban Resident,79-89,False,False,Normal
+837384,Male,78.0,1.6,30.468749999999993,Urban Resident,59-69,False,False,Obese
+798240,Male,65.0,1.65,23.875114784205696,Farmer,69-79,False,False,Normal
+857297,Male,62.0,1.65,22.77318640955005,Urban Resident,59-69,False,False,Normal
+727376,Female,60.0,1.52,25.969529085872576,Urban Resident,49-59,False,False,Overweight
+865365,Female,52.0,1.5,23.11111111111111,Farmer,79-89,False,False,Normal
+859976,Male,45.0,1.65,16.528925619834713,Urban Resident,69-79,False,False,Underweight
+806646,Female,48.0,1.5,21.333333333333332,Urban Resident,79-89,False,False,Normal
+862491,Female,78.0,1.6,30.468749999999993,Farmer,79-89,False,False,Obese
+858732,Female,47.0,1.5,20.88888888888889,Urban Resident,79-89,False,False,Normal
+870127,Female,34.0,1.57,13.793663028926122,Urban Resident,59-69,False,False,Underweight
+763014,Male,45.0,1.6,17.578124999999996,Urban Resident,79-89,False,False,Underweight
+814592,Female,54.5,1.6,21.289062499999996,Urban Resident,69-79,False,False,Normal
+742279,Female,40.0,1.5,17.77777777777778,Urban Resident,59-69,False,False,Underweight
+735209,Female,50.0,1.5,22.22222222222222,Urban Resident,79-89,False,False,Normal
+736105,Female,45.0,1.6,17.578124999999996,Others,79-89,False,False,Underweight
+726990,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+794078,Male,65.0,1.65,23.875114784205696,Urban Resident,79-89,False,False,Normal
+814928,Female,55.0,1.54,23.19109461966605,Urban Resident,69-79,False,False,Normal
+793939,Male,55.0,1.6,21.484374999999996,Urban Resident,79-89,False,False,Normal
+864312,Female,45.0,1.52,19.47714681440443,Urban Resident,69-79,False,False,Normal
+864678,Male,55.0,1.7,19.031141868512112,Urban Resident,79-89,False,False,Normal
+859541,Female,42.0,1.48,19.174579985390796,Urban Resident,79-89,False,False,Normal
+815319,Female,48.0,1.52,20.775623268698062,Urban Resident,79-89,False,False,Normal
+738529,Female,50.0,1.55,20.811654526534856,Urban Resident,79-89,False,False,Normal
+796227,Male,70.0,1.6,27.343749999999996,Urban Resident,69-79,False,False,Overweight
+865930,Female,49.0,1.5,21.77777777777778,Urban Resident,89-110,False,False,Normal
+779834,Male,60.0,1.6,23.437499999999996,Urban Resident,69-79,False,False,Normal
+759361,Female,50.0,1.55,20.811654526534856,Urban Resident,79-89,False,False,Normal
+804640,Female,65.0,1.6,25.390624999999996,Urban Resident,69-79,False,False,Overweight
+778545,Female,45.0,1.43,22.005966061910122,Urban Resident,69-79,False,False,Normal
+821564,Male,44.0,1.56,18.080210387902692,Urban Resident,79-89,False,False,Underweight
+833497,Male,45.0,1.57,18.25631871475516,Urban Resident,29-39,False,False,Underweight
+733308,Female,43.0,1.54,18.13121942992073,Urban Resident,69-79,False,False,Underweight
+844138,Female,41.5,1.6,16.210937499999996,Urban Resident,69-79,False,False,Underweight
+736369,Female,55.0,1.65,20.202020202020204,Urban Resident,59-69,False,False,Normal
+793801,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+866371,Female,36.0,1.45,17.122473246135552,Urban Resident,69-79,False,False,Underweight
+746924,Male,65.0,1.72,21.971335857220122,Urban Resident,79-89,False,False,Normal
+746782,Female,50.0,1.5,22.22222222222222,Farmer,59-69,False,False,Normal
+743908,Female,60.0,1.58,24.034609838166958,Others,69-79,False,False,Normal
+791627,Male,72.0,1.66,26.1286108288576,Urban Resident,79-89,False,False,Overweight
+775978,Male,68.0,1.6,26.562499999999996,Urban Resident,69-79,False,False,Overweight
+782224,Female,42.0,1.46,19.703509101144682,Urban Resident,79-89,False,False,Normal
+793425,Male,50.0,1.6,19.531249999999996,Urban Resident,69-79,False,False,Normal
+791903,Female,53.0,1.52,22.939750692520775,Urban Resident,49-59,False,False,Normal
+817300,Male,75.0,1.68,26.573129251700685,Urban Resident,89-110,False,False,Overweight
+863747,Male,65.0,1.51,28.507521599929827,Urban Resident,79-89,False,False,Overweight
+773090,Male,60.0,1.77,19.15158479364167,Urban Resident,79-89,False,False,Normal
+755700,Female,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+731805,Female,47.0,1.55,19.562955254942764,Farmer,39-49,False,False,Normal
+788057,Female,40.0,1.45,19.024970273483948,Urban Resident,69-79,False,False,Normal
+850730,Male,73.0,1.74,24.111507464658473,Urban Resident,69-79,False,False,Normal
+777721,Male,55.0,1.68,19.48696145124717,Urban Resident,79-89,False,False,Normal
+836612,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+741000,Female,45.0,1.55,18.730489073881373,Farmer,59-69,False,False,Normal
+751159,Female,62.0,1.54,26.14268848035082,Farmer,59-69,False,False,Overweight
+842939,Male,90.0,1.64,33.462224866151104,Urban Resident,79-89,False,False,Obese
+837785,Female,50.0,1.58,20.028841531805796,Urban Resident,89-110,False,False,Normal
+813168,Female,38.0,1.45,18.07372175980975,Urban Resident,69-79,False,False,Underweight
+817948,Female,41.0,1.5,18.22222222222222,Urban Resident,69-79,False,False,Underweight
+797752,Male,64.0,1.58,25.63691716071142,Urban Resident,79-89,False,False,Overweight
+828763,Male,61.0,1.65,22.4058769513315,Urban Resident,79-89,False,False,Normal
+747856,Female,40.0,1.45,19.024970273483948,Others,79-89,False,False,Normal
+866380,Male,73.0,1.75,23.836734693877553,Urban Resident,69-79,False,False,Normal
+803171,Male,60.0,1.7,20.761245674740486,Farmer,79-89,False,False,Normal
+749183,Female,45.0,1.5,20.0,Urban Resident,79-89,False,False,Normal
+796520,Male,65.0,1.7,22.49134948096886,Urban Resident,59-69,False,False,Normal
+863085,Male,50.0,1.7,17.301038062283737,Farmer,69-79,False,False,Underweight
+734027,Female,45.0,1.45,21.40309155766944,Urban Resident,69-79,False,False,Normal
+822474,Male,45.0,1.62,17.146776406035663,Urban Resident,79-89,False,False,Underweight
+789207,Male,50.0,1.6,19.531249999999996,Urban Resident,69-79,False,False,Normal
+841390,Female,45.0,1.55,18.730489073881373,Others,69-79,False,False,Normal
+860301,Female,48.0,1.53,20.504933999743688,Urban Resident,69-79,False,False,Normal
+784134,Female,54.0,1.45,25.68370986920333,Urban Resident,89-110,False,False,Overweight
+853810,Male,64.0,1.65,23.507805325987146,Urban Resident,59-69,False,False,Normal
+834556,Female,44.0,1.52,19.04432132963989,Urban Resident,79-89,False,False,Normal
+754799,Male,60.0,1.8,18.51851851851852,Urban Resident,59-69,False,False,Normal
+857432,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+800848,Female,55.0,1.52,23.80540166204986,Farmer,59-69,False,False,Normal
+863086,Female,42.0,1.48,19.174579985390796,Urban Resident,69-79,False,False,Normal
+824845,Female,53.0,1.55,22.060353798126947,Urban Resident,69-79,False,False,Normal
+754196,Female,45.0,1.45,21.40309155766944,Urban Resident,89-110,False,False,Normal
+828662,Female,50.0,1.5,22.22222222222222,Urban Resident,79-89,False,False,Normal
+804100,Female,45.0,1.52,19.47714681440443,Urban Resident,79-89,False,False,Normal
+815585,Female,43.0,1.46,20.172640270219556,Urban Resident,79-89,False,False,Normal
+799827,Male,73.0,1.7,25.25951557093426,Urban Resident,79-89,False,False,Overweight
+735827,Male,55.0,1.6,21.484374999999996,Urban Resident,79-89,False,False,Normal
+757269,Male,65.0,1.7,22.49134948096886,Urban Resident,79-89,False,False,Normal
+729949,Male,48.0,1.58,19.227687870533565,Urban Resident,79-89,False,False,Normal
+787061,Female,54.0,1.45,25.68370986920333,Urban Resident,49-59,False,False,Overweight
+730551,Male,63.0,1.65,23.140495867768596,Urban Resident,59-69,False,False,Normal
+854856,Male,45.0,1.58,18.02595737862522,Urban Resident,69-79,False,False,Underweight
+747852,Female,49.0,1.5,21.77777777777778,Others,79-89,False,False,Normal
+780824,Female,45.0,1.6,17.578124999999996,Urban Resident,69-79,False,False,Underweight
+860037,Male,74.0,1.69,25.909456951787405,Urban Resident,59-69,False,False,Overweight
+866587,Female,45.0,1.5,20.0,Others,69-79,False,False,Normal
+790695,Male,80.0,1.6,31.249999999999993,Urban Resident,39-49,False,False,Obese
+744861,Male,84.0,1.68,29.761904761904766,Urban Resident,89-110,False,False,Overweight
+860325,Female,50.0,1.45,23.781212841854934,Urban Resident,69-79,False,False,Normal
+759442,Female,35.0,1.45,16.646848989298455,Urban Resident,59-69,False,False,Underweight
+808358,Male,60.0,1.6,23.437499999999996,Urban Resident,69-79,False,False,Normal
+866826,Male,55.0,1.6,21.484374999999996,Farmer,69-79,False,False,Normal
+863869,Male,48.0,1.5,21.333333333333332,Farmer,69-79,False,False,Normal
+787629,Male,63.0,1.56,25.88757396449704,Urban Resident,69-79,False,False,Overweight
+760181,Female,55.0,1.5,24.444444444444443,Others,49-59,False,False,Normal
+863531,Female,50.0,1.5,22.22222222222222,Urban Resident,79-89,False,False,Normal
+808020,Male,60.0,1.7,20.761245674740486,Urban Resident,79-89,False,False,Normal
+799246,Male,56.0,1.64,20.820939916716245,Urban Resident,79-89,False,False,Normal
+730183,Female,43.0,1.51,18.85882198149204,Urban Resident,69-79,False,False,Normal
+791736,Female,40.0,1.55,16.649323621227886,Urban Resident,79-89,False,False,Underweight
+791071,Female,50.0,1.58,20.028841531805796,Urban Resident,79-89,False,False,Normal
+858901,Female,40.0,1.48,18.261504747991236,Urban Resident,79-89,False,False,Underweight
+758048,Female,45.0,1.48,20.54419284149014,Urban Resident,69-79,False,False,Normal
+852624,Male,65.0,1.68,23.030045351473927,Urban Resident,59-69,False,False,Normal
+830545,Female,39.0,1.53,16.660258874791747,Urban Resident,79-89,False,False,Underweight
+822745,Female,57.0,1.55,23.725286160249738,Urban Resident,59-69,False,False,Normal
+770254,Female,44.0,1.5,19.555555555555557,Urban Resident,79-89,False,False,Normal
+739419,Female,40.0,1.55,16.649323621227886,Urban Resident,79-89,False,False,Underweight
+760189,Male,70.0,1.75,22.857142857142858,Urban Resident,59-69,False,False,Normal
+738683,Male,58.0,1.6,22.656249999999996,Urban Resident,79-89,False,False,Normal
+747597,Male,56.0,1.7,19.377162629757787,Others,69-79,False,False,Normal
+757630,Female,50.0,1.54,21.0828132906055,Farmer,69-79,False,False,Normal
+804572,Male,55.0,1.7,19.031141868512112,Urban Resident,59-69,False,False,Normal
+757020,Female,40.0,1.45,19.024970273483948,Urban Resident,79-89,False,False,Normal
+861557,Female,60.0,1.52,25.969529085872576,Urban Resident,79-89,False,False,Overweight
+759931,Female,75.0,1.5,33.333333333333336,Urban Resident,79-89,False,False,Obese
+810758,Female,55.0,1.52,23.80540166204986,Urban Resident,69-79,False,False,Normal
+778525,Female,75.0,1.6,29.296874999999993,Urban Resident,79-89,False,False,Overweight
+749435,Female,50.0,1.55,20.811654526534856,Urban Resident,49-59,False,False,Normal
+809784,Female,70.0,1.55,29.1363163371488,Urban Resident,79-89,False,False,Overweight
+791219,Male,60.0,1.65,22.03856749311295,Urban Resident,79-89,False,False,Normal
+803586,Male,60.0,1.59,23.73323840037973,Worker,69-79,False,False,Normal
+736734,Male,60.0,1.58,24.034609838166958,Urban Resident,69-79,False,False,Normal
+817246,Male,58.0,1.56,23.83300460223537,Urban Resident,59-69,False,False,Normal
+803338,Female,60.0,1.56,24.654832347140037,Urban Resident,59-69,False,False,Normal
+786199,Male,54.0,1.64,20.077334919690664,Urban Resident,79-89,False,False,Normal
+829953,Female,46.0,1.48,21.00073046018992,Urban Resident,79-89,False,False,Normal
+796930,Female,56.0,1.6,21.874999999999996,Urban Resident,59-69,False,False,Normal
+844447,Female,40.0,1.68,14.172335600907031,Others,79-89,False,False,Underweight
+791588,Female,61.0,1.5,27.11111111111111,Urban Resident,79-89,False,False,Overweight
+786403,Male,70.0,1.68,24.801587301587304,Urban Resident,69-79,False,False,Normal
+775922,Female,73.0,1.57,29.61580591504726,Urban Resident,79-89,False,False,Overweight
+864097,Male,46.0,1.55,19.14672216441207,Urban Resident,69-79,False,False,Normal
+830110,Male,72.0,1.66,26.1286108288576,Urban Resident,49-59,False,False,Overweight
+770442,Female,65.0,1.59,25.71100826707804,Urban Resident,69-79,False,False,Overweight
+742223,Male,71.0,1.78,22.408786769347305,Urban Resident,49-59,False,False,Normal
+843550,Female,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+848849,Female,41.0,1.53,17.51463112478107,Urban Resident,69-79,False,False,Underweight
+726342,Female,58.0,1.5,25.77777777777778,Urban Resident,69-79,False,False,Overweight
+726695,Male,46.0,1.6,17.968749999999996,Farmer,59-69,False,False,Underweight
+764366,Male,50.0,1.66,18.144868631151112,Urban Resident,79-89,False,False,Underweight
+765771,Female,57.0,1.7,19.723183391003463,Urban Resident,39-49,False,False,Normal
+865824,Female,35.0,1.5,15.555555555555555,Urban Resident,89-110,False,False,Underweight
+780251,Female,55.0,1.51,24.121749046094468,Urban Resident,69-79,False,False,Normal
+795001,Male,62.0,1.65,22.77318640955005,Urban Resident,59-69,False,False,Normal
+743061,Female,50.0,1.58,20.028841531805796,Farmer,79-89,False,False,Normal
+729509,Male,50.0,1.65,18.36547291092746,Urban Resident,89-110,False,False,Underweight
+813738,Female,50.0,1.5,22.22222222222222,Urban Resident,69-79,False,False,Normal
+801411,Male,63.0,1.55,26.22268470343392,Urban Resident,59-69,False,False,Overweight
+736771,Male,60.0,1.7,20.761245674740486,Urban Resident,69-79,False,False,Normal
+780942,Female,56.0,1.55,23.309053069719038,Urban Resident,79-89,False,False,Normal
+805096,Female,55.0,1.53,23.49523687470631,Urban Resident,59-69,False,False,Normal
+863400,Male,70.0,1.65,25.71166207529844,Urban Resident,49-59,False,False,Overweight
+850346,Female,50.0,1.5,22.22222222222222,Urban Resident,69-79,False,False,Normal
+762987,Male,55.0,1.6,21.484374999999996,Urban Resident,59-69,False,False,Normal
+789269,Female,56.0,1.52,24.238227146814403,Urban Resident,79-89,False,False,Normal
+777006,Female,40.0,1.46,18.765246762994934,Urban Resident,79-89,False,False,Normal
+809217,Female,50.0,1.5,22.22222222222222,Urban Resident,69-79,False,False,Normal
+728236,Female,48.0,1.55,19.979188345473464,Farmer,39-49,False,False,Normal
+821841,Male,72.0,1.6,28.124999999999993,Urban Resident,59-69,False,False,Overweight
+800343,Male,58.0,1.7,20.06920415224914,Urban Resident,69-79,False,False,Normal
+799322,Female,45.0,1.5,20.0,Urban Resident,79-89,False,False,Normal
+821985,Male,54.0,1.59,21.359914560341757,Farmer,69-79,False,False,Normal
+740596,Female,40.0,1.55,16.649323621227886,Farmer,89-110,False,False,Underweight
+834535,Female,35.0,1.58,14.020189072264058,Urban Resident,59-69,False,False,Underweight
+835675,Male,52.0,1.54,21.926125822229718,Urban Resident,59-69,False,False,Normal
+791069,Female,40.0,1.4,20.408163265306126,Urban Resident,59-69,False,False,Normal
+863951,Female,48.0,1.48,21.91380569758948,Urban Resident,69-79,False,False,Normal
+802669,Male,57.0,1.64,21.192742415229034,Urban Resident,89-110,False,False,Normal
+826731,Male,60.0,1.68,21.258503401360546,Urban Resident,69-79,False,False,Normal
+835944,Female,41.0,1.5,18.22222222222222,Farmer,89-110,False,False,Underweight
+832868,Male,70.0,1.63,26.346494034400994,Urban Resident,59-69,False,False,Overweight
+778259,Male,55.0,1.59,21.75546853368142,Urban Resident,59-69,False,False,Normal
+831437,Female,52.0,1.54,21.926125822229718,Farmer,79-89,False,False,Normal
+728768,Male,56.0,1.7,19.377162629757787,Farmer,69-79,False,False,Normal
+798947,Female,65.0,1.58,26.037493991347535,Urban Resident,59-69,False,False,Overweight
+745252,Female,40.0,1.5,17.77777777777778,Farmer,69-79,False,False,Underweight
+745505,Male,52.0,1.43,25.42911633820725,Urban Resident,79-89,False,False,Overweight
+777291,Female,55.0,1.5,24.444444444444443,Urban Resident,69-79,False,False,Normal
+802377,Female,55.0,1.5,24.444444444444443,Urban Resident,79-89,False,False,Normal
+821057,Female,50.0,1.5,22.22222222222222,Urban Resident,69-79,False,False,Normal
+738666,Male,43.0,1.6,16.796874999999996,Farmer,69-79,False,False,Underweight
+801331,Male,60.0,1.65,22.03856749311295,Urban Resident,69-79,False,False,Normal
+775717,Female,33.0,1.43,16.137708445400754,Urban Resident,79-89,False,False,Underweight
+805803,Male,87.0,1.7,30.103806228373706,Officer,49-59,False,False,Obese
+865526,Male,42.5,1.6,16.601562499999996,Urban Resident,69-79,False,False,Underweight
+785494,Male,85.0,1.68,30.116213151927443,Urban Resident,79-89,False,False,Obese
+775532,Female,65.0,1.56,26.709401709401707,Urban Resident,69-79,False,False,Overweight
+753061,Female,56.0,1.55,23.309053069719038,Urban Resident,69-79,False,False,Normal
+805829,Female,41.0,1.52,17.74584487534626,Urban Resident,79-89,False,False,Underweight
+865548,Female,75.0,1.6,29.296874999999993,Urban Resident,59-69,False,False,Overweight
+855972,Male,62.0,1.65,22.77318640955005,Urban Resident,89-110,False,False,Normal
+831570,Female,65.0,1.55,27.055150884495315,Urban Resident,69-79,False,False,Overweight
+863648,Female,65.0,1.5,28.88888888888889,Urban Resident,79-89,False,False,Overweight
+814224,Male,40.0,1.4,20.408163265306126,Urban Resident,79-89,False,False,Normal
+785451,Male,70.0,1.75,22.857142857142858,Urban Resident,39-49,False,False,Normal
+790372,Female,45.0,1.46,21.110902608369305,Urban Resident,79-89,False,False,Normal
+869954,Female,48.5,1.58,19.427976285851624,Urban Resident,49-59,False,False,Normal
+771843,Female,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+801364,Male,47.5,1.5,21.11111111111111,Urban Resident,69-79,False,False,Normal
+795154,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+748428,Male,49.0,1.5,21.77777777777778,Urban Resident,79-89,False,False,Normal
+785252,Female,49.0,1.48,22.37034331628926,Urban Resident,69-79,False,False,Normal
+800350,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+807080,Female,55.0,1.45,26.159334126040427,Urban Resident,79-89,False,False,Overweight
+808801,Female,45.0,1.5,20.0,Urban Resident,29-39,False,False,Normal
+870646,Female,77.0,1.68,27.281746031746035,Urban Resident,69-79,False,False,Overweight
+826184,Female,41.0,1.5,18.22222222222222,Urban Resident,79-89,False,False,Underweight
+820582,Male,49.5,1.5,22.0,Urban Resident,59-69,False,False,Normal
+823432,Male,65.0,1.6,25.390624999999996,Urban Resident,89-110,False,False,Overweight
+766605,Male,46.0,1.55,19.14672216441207,Urban Resident,79-89,False,False,Normal
+778629,Female,48.5,1.45,23.067776456599287,Urban Resident,79-89,False,False,Normal
+810425,Male,47.0,1.55,19.562955254942764,Urban Resident,69-79,False,False,Normal
+796716,Female,53.0,1.6,20.703124999999996,Others,69-79,False,False,Normal
+745311,Female,50.0,1.7,17.301038062283737,Urban Resident,49-59,False,False,Underweight
+802512,Male,60.0,1.48,27.39225712198685,Farmer,59-69,False,False,Overweight
+784132,Female,45.0,1.55,18.730489073881373,Urban Resident,59-69,False,False,Normal
+785929,Female,62.5,1.72,21.12628447809627,Urban Resident,79-89,False,False,Normal
+736358,Female,50.0,1.6,19.531249999999996,Urban Resident,69-79,False,False,Normal
+836026,Female,78.0,1.6,30.468749999999993,Urban Resident,21-29,False,False,Obese
+807165,Female,45.0,1.65,16.528925619834713,Urban Resident,59-69,False,False,Underweight
+731237,Female,55.0,1.7,19.031141868512112,Farmer,69-79,False,False,Normal
+738813,Male,56.0,1.62,21.338210638622158,Urban Resident,69-79,False,False,Normal
+831859,Male,49.0,1.68,17.361111111111114,Urban Resident,79-89,False,False,Underweight
+790571,Female,48.0,1.53,20.504933999743688,Urban Resident,79-89,False,False,Normal
+797183,Female,55.0,1.68,19.48696145124717,Urban Resident,69-79,False,False,Normal
+793909,Male,58.0,1.54,24.456063417102378,Urban Resident,69-79,False,False,Normal
+820961,Male,47.0,1.56,19.312952005259696,Others,69-79,False,False,Normal
+749047,Male,50.0,1.7,17.301038062283737,Urban Resident,79-89,False,False,Underweight
+758056,Male,51.0,1.67,18.286779733945284,Urban Resident,79-89,False,False,Underweight
+777978,Male,45.0,1.45,21.40309155766944,Urban Resident,59-69,False,False,Normal
+784079,Female,51.0,1.58,20.429418362441915,Urban Resident,79-89,False,False,Normal
+819641,Female,65.0,1.6,25.390624999999996,Urban Resident,79-89,False,False,Overweight
+837728,Female,65.0,1.55,27.055150884495315,Urban Resident,79-89,False,False,Overweight
+780506,Female,51.0,1.65,18.73278236914601,Farmer,59-69,False,False,Normal
+735111,Female,40.0,1.52,17.31301939058172,Urban Resident,79-89,False,False,Underweight
+728787,Male,65.0,1.55,27.055150884495315,Urban Resident,79-89,False,False,Overweight
+826477,Female,65.0,1.5,28.88888888888889,Urban Resident,69-79,False,False,Overweight
+776619,Female,45.0,1.55,18.730489073881373,Farmer,59-69,False,False,Normal
+866986,Male,60.0,1.72,20.281233098972418,Urban Resident,69-79,False,False,Normal
+864492,Female,64.0,1.6,24.999999999999996,Others,49-59,False,False,Overweight
+858640,Male,52.0,1.56,21.367521367521366,Urban Resident,69-79,False,False,Normal
+762948,Female,45.0,1.6,17.578124999999996,Others,79-89,False,False,Underweight
+810074,Male,55.0,1.6,21.484374999999996,Urban Resident,69-79,False,False,Normal
+790124,Male,50.0,1.7,17.301038062283737,Urban Resident,79-89,False,False,Underweight
+749285,Male,40.0,1.5,17.77777777777778,Urban Resident,49-59,False,False,Underweight
+723617,Male,70.0,1.5,31.11111111111111,Urban Resident,79-89,False,False,Obese
+785404,Female,60.0,1.53,25.63116749967961,Urban Resident,79-89,False,False,Overweight
+770338,Male,40.0,1.68,14.172335600907031,Farmer,69-79,False,False,Underweight
+821205,Female,55.0,1.61,21.218317194552675,Urban Resident,69-79,False,False,Normal
+822964,Female,60.0,1.6,23.437499999999996,Urban Resident,59-69,False,False,Normal
+791740,Male,45.0,1.55,18.730489073881373,Urban Resident,79-89,False,False,Normal
+731496,Male,45.0,1.6,17.578124999999996,Urban Resident,69-79,False,False,Underweight
+861518,Female,48.5,1.5,21.555555555555557,Urban Resident,89-110,False,False,Normal
+786996,Male,50.0,1.65,18.36547291092746,Urban Resident,69-79,False,False,Underweight
+801768,Male,49.0,1.59,19.382144693643447,Urban Resident,69-79,False,False,Normal
+827228,Male,50.0,1.52,21.641274238227147,Urban Resident,69-79,False,False,Normal
+845081,Male,49.5,1.7,17.128027681660903,Farmer,69-79,False,False,Underweight
+792690,Female,48.0,1.5,21.333333333333332,Others,69-79,False,False,Normal
+784935,Male,53.0,1.63,19.94805976890361,Urban Resident,69-79,False,False,Normal
+805212,Female,58.0,1.5,25.77777777777778,Urban Resident,59-69,False,False,Overweight
+847868,Female,48.0,1.5,21.333333333333332,Urban Resident,69-79,False,False,Normal
+784508,Male,72.0,1.65,26.44628099173554,Urban Resident,39-49,False,False,Overweight
+787991,Female,68.0,1.58,27.239224483255885,Urban Resident,79-89,False,False,Overweight
+837041,Female,49.0,,,Urban Resident,69-79,True,False,
+869207,Female,47.5,1.4,24.234693877551024,Urban Resident,79-89,False,False,Normal
+815840,Male,62.0,1.62,23.624447492760247,Urban Resident,69-79,False,False,Normal
+815731,Male,49.5,,,Farmer,49-59,True,False,
+757078,Female,40.0,1.5,17.77777777777778,Farmer,29-39,False,False,Underweight
+764372,Male,50.0,1.55,20.811654526534856,Urban Resident,69-79,False,False,Normal
+798431,Female,48.0,1.5,21.333333333333332,Others,89-110,False,False,Normal
+845830,Male,49.5,1.58,19.82855311648774,Urban Resident,69-79,False,False,Normal
+801008,Female,52.0,1.55,21.64412070759625,Urban Resident,79-89,False,False,Normal
+808811,Female,53.0,1.57,21.50188648626719,Urban Resident,79-89,False,False,Normal
+837564,Male,48.5,1.6,18.945312499999996,Urban Resident,79-89,False,False,Normal
+864856,Female,47.0,1.5,20.88888888888889,Urban Resident,59-69,False,False,Normal
+796275,Male,68.0,1.5,30.22222222222222,Urban Resident,79-89,False,False,Obese
+809347,Male,48.0,1.5,21.333333333333332,Urban Resident,59-69,False,False,Normal
+822272,Female,50.0,1.55,20.811654526534856,Urban Resident,79-89,False,False,Normal
+803419,Female,45.0,1.58,18.02595737862522,Urban Resident,59-69,False,False,Underweight
+787764,Female,62.0,1.5,27.555555555555557,Urban Resident,79-89,False,False,Overweight
+810978,Female,47.5,1.6,18.554687499999996,Urban Resident,69-79,False,False,Normal
+805044,Male,50.0,,,Urban Resident,59-69,True,False,
+785379,Male,48.0,1.48,21.91380569758948,Urban Resident,79-89,False,False,Normal
+789355,Female,77.5,1.58,31.044704374298984,Urban Resident,89-110,False,False,Obese
+785410,Female,48.5,1.5,21.555555555555557,Urban Resident,79-89,False,False,Normal
+731623,Female,58.0,1.45,27.586206896551722,Urban Resident,79-89,False,False,Overweight
+838426,Male,49.0,1.66,17.78197125852809,Urban Resident,59-69,False,False,Underweight
+814293,Female,46.0,1.52,19.909972299168974,Urban Resident,59-69,False,False,Normal
+869987,Male,47.5,1.7,16.435986159169552,Urban Resident,79-89,False,False,Underweight
+747336,Male,67.0,1.52,28.999307479224377,Farmer,69-79,False,False,Overweight
+744357,Male,78.0,1.65,28.650137741046834,Farmer,79-89,False,False,Overweight
+835430,Female,60.0,1.53,25.63116749967961,Urban Resident,69-79,False,False,Overweight
+809600,Male,40.0,1.68,14.172335600907031,Urban Resident,69-79,False,False,Underweight
+796221,Female,55.0,1.61,21.218317194552675,Urban Resident,69-79,False,False,Normal
+825763,Female,60.0,1.6,23.437499999999996,Urban Resident,69-79,False,False,Normal
+818293,Female,45.0,1.55,18.730489073881373,Urban Resident,69-79,False,False,Normal
+728122,Female,45.0,1.6,17.578124999999996,Farmer,69-79,False,False,Underweight
+733863,Male,55.0,1.6,21.484374999999996,Urban Resident,79-89,False,False,Normal
+784166,Male,47.0,1.65,17.263544536271812,Urban Resident,59-69,False,False,Underweight
+766868,Female,62.0,1.65,22.77318640955005,Urban Resident,89-110,False,False,Normal
+782674,Female,65.0,1.6,25.390624999999996,Urban Resident,79-89,False,False,Overweight
+779262,Female,70.0,1.63,26.346494034400994,Urban Resident,69-79,False,False,Overweight
+737396,Female,37.0,1.5,16.444444444444443,Urban Resident,59-69,False,False,Underweight
+837826,Female,48.0,1.55,19.979188345473464,Urban Resident,79-89,False,False,Normal
+796678,Female,48.0,1.52,20.775623268698062,Urban Resident,69-79,False,False,Normal
+797444,Female,45.0,1.45,21.40309155766944,Urban Resident,69-79,False,False,Normal
+766664,Female,47.0,1.62,17.908855357415025,Urban Resident,79-89,False,False,Underweight
+794825,Female,44.0,1.5,19.555555555555557,Urban Resident,69-79,False,False,Normal
+795619,Male,54.0,1.65,19.834710743801654,Urban Resident,79-89,False,False,Normal
+818767,Female,62.0,1.52,26.83518005540166,Urban Resident,59-69,False,False,Overweight
+860157,Male,49.5,1.55,20.603537981269508,Urban Resident,79-89,False,False,Normal
+752172,Female,40.0,1.55,16.649323621227886,Urban Resident,69-79,False,False,Underweight
+750105,Female,55.0,1.65,20.202020202020204,Farmer,79-89,False,False,Normal
+794928,Female,48.0,1.52,20.775623268698062,Urban Resident,69-79,False,False,Normal
+741805,Female,60.0,1.7,20.761245674740486,Urban Resident,69-79,False,False,Normal
+792821,Female,45.0,1.75,14.693877551020408,Urban Resident,69-79,False,False,Underweight
+729438,Female,70.0,1.58,28.040378144528116,Urban Resident,89-110,False,False,Overweight
+865511,Female,49.0,1.6,19.140624999999996,Urban Resident,69-79,False,False,Normal
+862169,Female,48.5,1.45,23.067776456599287,Urban Resident,69-79,False,False,Normal
+791103,Female,71.0,1.55,29.552549427679498,Urban Resident,79-89,False,False,Overweight
+742244,Male,57.0,1.35,31.275720164609048,Urban Resident,69-79,False,False,Obese
+861987,Male,49.0,1.65,17.99816345270891,Urban Resident,59-69,False,False,Underweight
+766702,Male,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+840155,Male,53.0,1.55,22.060353798126947,Farmer,49-59,False,False,Normal
+856223,Male,49.0,1.55,20.39542143600416,Urban Resident,49-59,False,False,Normal
+730511,Female,,1.55,,Urban Resident,79-89,False,True,
+731871,Male,49.5,1.5,22.0,Urban Resident,69-79,False,False,Normal
+815024,Male,60.0,1.7,20.761245674740486,Urban Resident,39-49,False,False,Normal
+742953,Female,60.0,1.55,24.97398543184183,Urban Resident,79-89,False,False,Overweight
+863915,Male,65.0,1.67,23.306680053067517,Urban Resident,79-89,False,False,Normal
+742013,Male,68.0,1.57,27.587326057852245,Urban Resident,79-89,False,False,Overweight
+783130,Male,57.0,1.6,22.265624999999996,Urban Resident,69-79,False,False,Normal
+744588,Male,58.0,1.61,22.375679950619187,Others,69-79,False,False,Normal
+855682,Male,48.5,1.6,18.945312499999996,Urban Resident,79-89,False,False,Normal
+785878,Male,,1.65,,Urban Resident,59-69,False,True,
+852644,Female,48.5,1.44,23.389274691358025,Urban Resident,69-79,False,False,Normal
+741559,Female,38.0,1.5,16.88888888888889,Urban Resident,79-89,False,False,Underweight
+794844,Male,55.0,1.53,23.49523687470631,Urban Resident,79-89,False,False,Normal
+851982,Female,48.0,1.5,21.333333333333332,Urban Resident,69-79,False,False,Normal
+829127,Male,75.0,1.65,27.548209366391188,Urban Resident,59-69,False,False,Overweight
+760663,Male,50.0,1.6,19.531249999999996,Urban Resident,59-69,False,False,Normal
+815318,Male,51.0,1.6,19.921874999999996,Urban Resident,89-110,False,False,Normal
+783596,Female,40.0,1.58,16.023073225444637,Others,69-79,False,False,Underweight
+798707,Male,70.0,1.6,27.343749999999996,Farmer,79-89,False,False,Overweight
+744087,Female,64.0,1.52,27.700831024930746,Urban Resident,69-79,False,False,Overweight
+868283,Male,42.0,1.55,17.48178980228928,Farmer,79-89,False,False,Underweight
+781455,Female,68.0,1.52,29.43213296398892,Others,59-69,False,False,Overweight
+785223,Male,50.0,1.6,19.531249999999996,Urban Resident,49-59,False,False,Normal
+791878,Female,68.0,1.5,30.22222222222222,Others,59-69,False,False,Obese
+785021,Female,52.0,1.55,21.64412070759625,Urban Resident,59-69,False,False,Normal
+814485,Female,51.0,1.52,22.07409972299169,Urban Resident,79-89,False,False,Normal
+736204,Female,53.0,1.5,23.555555555555557,Others,79-89,False,False,Normal
+837459,Male,49.5,1.62,18.861454046639228,Worker,39-49,False,False,Normal
+791945,Female,45.0,1.55,18.730489073881373,Urban Resident,89-110,False,False,Normal
+758823,Female,45.0,1.48,20.54419284149014,Urban Resident,59-69,False,False,Normal
+829732,Female,60.0,1.55,24.97398543184183,Urban Resident,69-79,False,False,Overweight
+804237,Female,48.0,1.55,19.979188345473464,Urban Resident,69-79,False,False,Normal
+801427,Male,50.0,1.5,22.22222222222222,Urban Resident,59-69,False,False,Normal
+816190,Female,55.0,1.48,25.10956902848795,Urban Resident,69-79,False,False,Overweight
+733649,Male,42.0,1.52,18.178670360110804,Urban Resident,69-79,False,False,Underweight
+869886,Female,48.0,1.45,22.829964328180736,Urban Resident,79-89,False,False,Normal
+804786,Female,50.0,1.65,18.36547291092746,Urban Resident,79-89,False,False,Underweight
+805417,Male,49.0,1.59,19.382144693643447,Urban Resident,79-89,False,False,Normal
+757599,Female,50.0,1.52,21.641274238227147,Others,79-89,False,False,Normal
+807759,Female,45.0,1.6,17.578124999999996,Urban Resident,69-79,False,False,Underweight
+766722,Male,38.0,1.4,19.38775510204082,Farmer,69-79,False,False,Normal
+750322,Male,54.0,1.55,22.476586888657646,Farmer,59-69,False,False,Normal
+860305,Female,49.0,1.56,20.134779750164363,Urban Resident,69-79,False,False,Normal
+863944,Female,45.0,1.53,19.223375624759708,Farmer,69-79,False,False,Normal
+765383,Female,42.0,1.58,16.82422688671687,Others,79-89,False,False,Underweight
+819167,Female,45.0,1.52,19.47714681440443,Urban Resident,69-79,False,False,Normal
+838076,Female,40.0,1.58,16.023073225444637,Urban Resident,69-79,False,False,Underweight
+820942,Female,45.0,1.4,22.95918367346939,Farmer,59-69,False,False,Normal
+799325,Female,60.0,1.58,24.034609838166958,Urban Resident,69-79,False,False,Normal
+802140,Female,47.0,1.43,22.984008997995016,Urban Resident,59-69,False,False,Normal
+856206,Female,48.5,1.58,19.427976285851624,Urban Resident,69-79,False,False,Normal
+805435,Male,50.0,1.52,21.641274238227147,Farmer,69-79,False,False,Normal
+770722,Female,45.0,1.6,17.578124999999996,Urban Resident,79-89,False,False,Underweight
+788518,Male,38.0,1.4,19.38775510204082,Urban Resident,79-89,False,False,Normal
+798374,Female,54.0,1.55,22.476586888657646,Others,59-69,False,False,Normal
+778444,Male,45.0,1.5,20.0,Urban Resident,59-69,False,False,Normal
+800397,Female,60.0,1.58,24.034609838166958,Urban Resident,79-89,False,False,Normal
+738288,Male,67.5,1.55,28.095733610822055,Urban Resident,69-79,False,False,Overweight
+836894,Female,48.0,1.55,19.979188345473464,Farmer,69-79,False,False,Normal
+840048,Male,49.0,1.63,18.442545824080696,Urban Resident,79-89,False,False,Underweight
+772377,Female,55.0,1.7,19.031141868512112,Urban Resident,49-59,False,False,Normal
+813664,Female,60.0,1.6,23.437499999999996,Farmer,59-69,False,False,Normal
+735029,Male,50.0,1.65,18.36547291092746,Others,69-79,False,False,Underweight
+793404,Female,49.0,1.59,19.382144693643447,Urban Resident,69-79,False,False,Normal
+759764,Male,50.0,1.52,21.641274238227147,Urban Resident,69-79,False,False,Normal
+806775,Female,45.0,1.6,17.578124999999996,Urban Resident,79-89,False,False,Underweight
+782587,Male,38.0,1.4,19.38775510204082,Urban Resident,89-110,False,False,Normal
+804291,Female,54.0,1.55,22.476586888657646,Urban Resident,79-89,False,False,Normal
+817755,Female,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+759319,Female,60.0,1.58,24.034609838166958,Urban Resident,69-79,False,False,Normal
+821102,Male,57.0,1.57,23.124670372023203,Worker,89-110,False,False,Normal
+771522,Female,42.0,1.6,16.406249999999996,Urban Resident,69-79,False,False,Underweight
+747991,Female,75.0,1.5,33.333333333333336,Farmer,69-79,False,False,Obese
+763763,Female,65.0,1.55,27.055150884495315,Farmer,59-69,False,False,Overweight
+751841,Male,75.0,1.67,26.89232313815483,Urban Resident,79-89,False,False,Overweight
+854211,Male,49.0,1.67,17.569651116927822,Urban Resident,59-69,False,False,Underweight
+793962,Male,66.0,1.6,25.781249999999996,Urban Resident,69-79,False,False,Overweight
+735633,Female,42.0,1.58,16.82422688671687,Urban Resident,69-79,False,False,Underweight
+798020,Male,45.0,1.52,19.47714681440443,Urban Resident,69-79,False,False,Normal
+756996,Female,40.0,1.58,16.023073225444637,Urban Resident,79-89,False,False,Underweight
+752803,Male,45.0,1.4,22.95918367346939,Farmer,49-59,False,False,Normal
+733116,Female,52.0,1.55,21.64412070759625,Urban Resident,59-69,False,False,Normal
+858497,Male,48.5,1.7,16.782006920415228,Urban Resident,89-110,False,False,Underweight
+850791,Male,48.0,1.7,16.60899653979239,Urban Resident,79-89,False,False,Underweight
+810349,Female,40.0,1.68,14.172335600907031,Urban Resident,59-69,False,False,Underweight
+856438,Male,48.0,1.65,17.63085399449036,Urban Resident,79-89,False,False,Underweight
+791177,Male,54.0,1.68,19.13265306122449,Urban Resident,59-69,False,False,Normal
+775572,Female,,1.5,,Urban Resident,69-79,False,True,
+865520,Male,49.5,1.6,19.335937499999996,Urban Resident,79-89,False,False,Normal
+782088,Male,42.0,1.58,16.82422688671687,Urban Resident,79-89,False,False,Underweight
+805815,Male,45.0,1.52,19.47714681440443,Urban Resident,79-89,False,False,Normal
+852120,Male,49.0,1.6,19.140624999999996,Farmer,39-49,False,False,Normal
+811749,Male,42.0,1.58,16.82422688671687,Urban Resident,69-79,False,False,Underweight
+814641,Female,45.0,1.52,19.47714681440443,Urban Resident,89-110,False,False,Normal
+794046,Female,40.0,1.58,16.023073225444637,Urban Resident,69-79,False,False,Underweight
+746794,Male,45.0,1.4,22.95918367346939,Farmer,59-69,False,False,Normal
+752409,Female,60.0,1.58,24.034609838166958,Urban Resident,59-69,False,False,Normal
+743440,Male,43.0,1.65,15.794306703397615,Farmer,59-69,False,False,Underweight
+859319,Male,48.0,1.6,18.749999999999996,Urban Resident,59-69,False,False,Normal
+762344,Female,46.0,1.4,23.469387755102044,Urban Resident,59-69,False,False,Normal
+745172,Female,70.0,1.69,24.508945765204302,Urban Resident,89-110,False,False,Normal
+769264,Male,46.0,1.4,23.469387755102044,Others,69-79,False,False,Normal
+797084,Male,40.0,1.5,17.77777777777778,Urban Resident,59-69,False,False,Underweight
+834309,Female,40.0,1.5,17.77777777777778,Farmer,59-69,False,False,Underweight
+784389,Female,40.0,1.5,17.77777777777778,Farmer,79-89,False,False,Underweight
+849274,Female,47.0,1.6,18.359374999999996,Urban Resident,59-69,False,False,Underweight
+770068,Male,75.0,1.5,33.333333333333336,Urban Resident,69-79,False,False,Obese
+760363,Female,65.0,1.55,27.055150884495315,Urban Resident,39-49,False,False,Overweight
+768336,Female,60.0,1.58,24.034609838166958,Urban Resident,69-79,False,False,Normal
+731880,Male,43.0,1.65,15.794306703397615,Farmer,69-79,False,False,Underweight
+742218,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+777112,Male,70.0,1.5,31.11111111111111,Urban Resident,69-79,False,False,Obese
+852898,Male,49.5,1.57,20.08195058623068,Urban Resident,39-49,False,False,Normal
+737041,Female,35.0,1.42,17.35766712953779,Farmer,69-79,False,False,Underweight
+859187,Male,48.0,1.6,18.749999999999996,Farmer,59-69,False,False,Normal
+811520,Female,60.0,1.58,24.034609838166958,Urban Resident,69-79,False,False,Normal
+729332,Male,43.0,1.65,15.794306703397615,Urban Resident,69-79,False,False,Underweight
+725777,Female,40.0,1.5,17.77777777777778,Urban Resident,59-69,False,False,Underweight
+787876,Female,70.0,1.5,31.11111111111111,Urban Resident,79-89,False,False,Obese
+738787,Male,60.0,1.53,25.63116749967961,Urban Resident,79-89,False,False,Overweight
+775491,Female,40.0,1.68,14.172335600907031,Urban Resident,79-89,False,False,Underweight
+768269,Female,40.0,1.52,17.31301939058172,Urban Resident,79-89,False,False,Underweight
+794946,Male,60.0,1.68,21.258503401360546,Urban Resident,59-69,False,False,Normal
+792299,Female,48.0,1.5,21.333333333333332,Urban Resident,79-89,False,False,Normal
+792850,Female,47.0,1.48,21.4572680788897,Urban Resident,79-89,False,False,Normal
+736373,Female,77.0,1.55,32.04994797086368,Urban Resident,79-89,False,False,Obese
+849047,Female,40.0,1.56,16.43655489809336,Urban Resident,79-89,False,False,Underweight
+833564,Female,35.0,1.42,17.35766712953779,Urban Resident,79-89,False,False,Underweight
+803204,Male,50.0,1.6,19.531249999999996,Urban Resident,69-79,False,False,Normal
+828737,Male,51.0,1.6,19.921874999999996,Urban Resident,59-69,False,False,Normal
+805113,Female,40.0,1.58,16.023073225444637,Urban Resident,69-79,False,False,Underweight
+734664,Male,54.0,1.5,24.0,Urban Resident,69-79,False,False,Normal
+822848,Male,57.0,1.57,23.124670372023203,Farmer,69-79,False,False,Normal
+809771,Male,42.0,1.6,16.406249999999996,Urban Resident,79-89,False,False,Underweight
+795884,Female,75.0,1.5,33.333333333333336,Urban Resident,59-69,False,False,Obese
+823153,Female,65.0,1.55,27.055150884495315,Urban Resident,79-89,False,False,Overweight
+730971,Female,60.0,1.58,24.034609838166958,Farmer,69-79,False,False,Normal
+839791,Male,43.0,1.65,15.794306703397615,Urban Resident,79-89,False,False,Underweight
+864654,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+741377,Female,70.0,1.5,31.11111111111111,Urban Resident,59-69,False,False,Obese
+812004,Male,40.0,1.68,14.172335600907031,Urban Resident,89-110,False,False,Underweight
+808366,Female,55.0,1.61,21.218317194552675,Urban Resident,49-59,False,False,Normal
+764091,Male,60.0,1.6,23.437499999999996,Urban Resident,79-89,False,False,Normal
+770733,Female,45.0,1.55,18.730489073881373,Urban Resident,69-79,False,False,Normal
+822304,Male,45.0,1.6,17.578124999999996,Urban Resident,89-110,False,False,Underweight
+741972,Female,55.0,1.6,21.484374999999996,Others,59-69,False,False,Normal
+802408,Male,47.0,1.65,17.263544536271812,Urban Resident,59-69,False,False,Underweight
+768007,Male,62.0,1.65,22.77318640955005,Worker,39-49,False,False,Normal
+769902,Female,65.0,1.6,25.390624999999996,Urban Resident,69-79,False,False,Overweight
+732177,Male,70.0,1.63,26.346494034400994,Urban Resident,69-79,False,False,Overweight
+814170,Female,37.0,1.5,16.444444444444443,Urban Resident,79-89,False,False,Underweight
+754892,Male,65.0,1.6,25.390624999999996,Urban Resident,79-89,False,False,Overweight
+827105,Female,55.0,1.48,25.10956902848795,Urban Resident,69-79,False,False,Overweight
+809271,Male,60.0,1.6,23.437499999999996,Urban Resident,69-79,False,False,Normal
+789719,Female,47.0,1.6,18.359374999999996,Urban Resident,69-79,False,False,Underweight
+801689,Female,41.0,1.5,18.22222222222222,Urban Resident,79-89,False,False,Underweight
+770173,Male,60.0,1.6,23.437499999999996,Urban Resident,59-69,False,False,Normal
+815665,Female,52.0,1.52,22.506925207756233,Urban Resident,79-89,False,False,Normal
+756055,Female,,1.52,,Urban Resident,69-79,False,True,
+848450,Female,49.5,1.58,19.82855311648774,Officer,89-110,False,False,Normal
+750142,Female,42.0,1.45,19.976218787158146,Urban Resident,69-79,False,False,Normal
+760645,Male,50.0,1.65,18.36547291092746,Urban Resident,69-79,False,False,Underweight
+730541,Female,55.0,1.58,22.031725684986377,Urban Resident,79-89,False,False,Normal
+746731,Male,66.0,1.6,25.781249999999996,Urban Resident,59-69,False,False,Overweight
+815768,Male,42.0,1.58,16.82422688671687,Unspecified,69-79,False,False,Underweight
+815219,Female,45.0,1.52,19.47714681440443,Urban Resident,49-59,False,False,Normal
+852259,Male,40.0,1.58,16.023073225444637,Unspecified,69-79,False,False,Underweight
+810257,Female,45.0,1.4,22.95918367346939,Urban Resident,79-89,False,False,Normal
+851418,Male,47.5,1.7,16.435986159169552,Urban Resident,59-69,False,False,Underweight
+832829,Male,40.0,1.6,15.624999999999996,Urban Resident,69-79,False,False,Underweight
+809694,Female,50.0,1.5,22.22222222222222,Urban Resident,79-89,False,False,Normal
+830888,Female,42.0,1.5,18.666666666666668,Urban Resident,79-89,False,False,Normal
+772793,Female,48.0,1.5,21.333333333333332,Urban Resident,79-89,False,False,Normal
+736704,Male,45.0,1.65,16.528925619834713,Farmer,69-79,False,False,Underweight
+798704,Male,53.0,1.6,20.703124999999996,Urban Resident,79-89,False,False,Normal
+865271,Female,47.0,1.55,19.562955254942764,Urban Resident,79-89,False,False,Normal
+733581,Female,55.0,1.62,20.957171162932475,Urban Resident,59-69,False,False,Normal
+770391,Male,65.0,1.7,22.49134948096886,Urban Resident,69-79,False,False,Normal
+740354,Female,60.0,1.65,22.03856749311295,Urban Resident,79-89,False,False,Normal
+842728,Male,84.0,1.6,32.81249999999999,Unspecified,69-79,False,False,Obese
+768330,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+798025,Male,62.0,1.53,26.48553974966893,Urban Resident,69-79,False,False,Overweight
+750910,Male,62.0,1.62,23.624447492760247,Urban Resident,79-89,False,False,Normal
+844739,Female,49.5,,,Urban Resident,79-89,True,False,
+816037,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+747326,Female,50.0,1.55,20.811654526534856,Farmer,49-59,False,False,Normal
+802917,Male,73.0,1.65,26.813590449954088,Urban Resident,39-49,False,False,Overweight
+809276,Male,45.0,1.58,18.02595737862522,Urban Resident,49-59,False,False,Underweight
+780580,Female,53.0,1.45,25.20808561236623,Urban Resident,59-69,False,False,Overweight
+807367,Female,55.0,1.53,23.49523687470631,Urban Resident,79-89,False,False,Normal
+867530,Female,50.0,1.53,21.35930624973301,Urban Resident,79-89,False,False,Normal
+730165,Female,40.0,1.5,17.77777777777778,Farmer,59-69,False,False,Underweight
+858220,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+861170,Male,48.0,1.62,18.289894833104707,Urban Resident,69-79,False,False,Underweight
+802143,Male,90.0,1.76,29.054752066115704,Urban Resident,59-69,False,False,Overweight
+804754,Male,78.0,1.63,29.357521924046825,Urban Resident,59-69,False,False,Overweight
+726930,Female,35.0,1.55,14.5681581685744,Urban Resident,89-110,False,False,Underweight
+739657,Male,57.0,1.55,23.725286160249738,Farmer,79-89,False,False,Normal
+823812,Male,75.0,1.7,25.95155709342561,Urban Resident,69-79,False,False,Overweight
+749561,Female,40.0,1.52,17.31301939058172,Urban Resident,79-89,False,False,Underweight
+726119,Male,55.0,1.67,19.721036967980208,Farmer,69-79,False,False,Normal
+782110,Male,58.0,1.6,22.656249999999996,Urban Resident,69-79,False,False,Normal
+801705,Male,70.0,1.68,24.801587301587304,Urban Resident,79-89,False,False,Normal
+809536,Male,45.0,1.55,18.730489073881373,Urban Resident,69-79,False,False,Normal
+853896,Male,50.0,1.57,20.28479857195018,Urban Resident,69-79,False,False,Normal
+859979,Male,49.0,1.6,19.140624999999996,Urban Resident,69-79,False,False,Normal
+868809,Male,48.0,1.72,16.224986479177936,Urban Resident,39-49,False,False,Underweight
+769113,Female,46.0,1.53,19.650561749754367,Urban Resident,79-89,False,False,Normal
+836661,Male,53.0,1.6,20.703124999999996,Urban Resident,69-79,False,False,Normal
+792875,Female,47.0,1.55,19.562955254942764,Farmer,79-89,False,False,Normal
+735228,Male,60.0,1.6,23.437499999999996,Urban Resident,49-59,False,False,Normal
+864033,Female,47.5,1.55,19.771071800208116,Urban Resident,69-79,False,False,Normal
+780790,Female,55.0,1.43,26.896180742334593,Urban Resident,59-69,False,False,Overweight
+741444,Male,52.0,1.73,17.374452871796585,Urban Resident,59-69,False,False,Underweight
+856848,Female,47.5,1.49,21.395432638169453,Urban Resident,69-79,False,False,Normal
+809862,Female,52.0,1.4,26.530612244897963,Urban Resident,79-89,False,False,Overweight
+832472,Male,45.0,1.55,18.730489073881373,Farmer,79-89,False,False,Normal
+761208,Female,53.0,1.5,23.555555555555557,Others,69-79,False,False,Normal
+869991,Female,40.0,1.5,17.77777777777778,Urban Resident,59-69,False,False,Underweight
+834493,Female,55.0,1.5,24.444444444444443,Urban Resident,59-69,False,False,Normal
+859561,Male,40.0,1.58,16.023073225444637,Urban Resident,79-89,False,False,Underweight
+757170,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+740311,Male,74.0,1.7,25.605536332179934,Urban Resident,79-89,False,False,Overweight
+734179,Female,50.0,1.55,20.811654526534856,Farmer,59-69,False,False,Normal
+811111,Male,52.0,1.58,20.82999519307803,Urban Resident,59-69,False,False,Normal
+758655,Male,55.0,1.7,19.031141868512112,Urban Resident,69-79,False,False,Normal
+808847,Female,60.0,1.6,23.437499999999996,Urban Resident,79-89,False,False,Normal
+800349,Male,50.0,1.65,18.36547291092746,Urban Resident,79-89,False,False,Underweight
+764993,Female,49.0,1.59,19.382144693643447,Urban Resident,69-79,False,False,Normal
+737994,Female,50.0,1.52,21.641274238227147,Urban Resident,79-89,False,False,Normal
+806741,Male,45.0,1.6,17.578124999999996,Urban Resident,89-110,False,False,Underweight
+754273,Female,38.0,1.4,19.38775510204082,Urban Resident,79-89,False,False,Normal
+822500,Female,54.0,1.55,22.476586888657646,Urban Resident,89-110,False,False,Normal
+834310,Female,45.0,1.5,20.0,Urban Resident,89-110,False,False,Normal
+741202,Male,60.0,1.58,24.034609838166958,Urban Resident,59-69,False,False,Normal
+814358,Female,67.5,1.55,28.095733610822055,Urban Resident,69-79,False,False,Overweight
+751296,Female,60.0,1.58,24.034609838166958,Urban Resident,69-79,False,False,Normal
+879601,Male,70.0,1.69,24.508945765204302,Unspecified,79-89,False,False,Normal
+852935,Female,46.0,1.4,23.469387755102044,Urban Resident,79-89,False,False,Normal
+812498,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+821000,Female,40.0,1.5,17.77777777777778,Urban Resident,89-110,False,False,Underweight
+731108,Female,40.0,1.5,17.77777777777778,Farmer,59-69,False,False,Underweight
+745052,Female,40.0,1.5,17.77777777777778,Farmer,69-79,False,False,Underweight
+837942,Female,60.0,1.6,23.437499999999996,Urban Resident,69-79,False,False,Normal
+744571,Female,46.0,1.65,16.896235078053262,Urban Resident,59-69,False,False,Underweight
+865456,Female,37.0,1.53,15.805886624802426,Urban Resident,69-79,False,False,Underweight
+838960,Male,60.0,1.6,23.437499999999996,Urban Resident,79-89,False,False,Normal
+802024,Male,54.0,1.6,21.093749999999996,Urban Resident,59-69,False,False,Normal
+781960,Male,40.0,1.55,16.649323621227886,Farmer,69-79,False,False,Underweight
+803428,Female,58.0,1.5,25.77777777777778,Others,79-89,False,False,Overweight
+803206,Female,50.0,1.5,22.22222222222222,Urban Resident,79-89,False,False,Normal
+749496,Female,50.0,1.36,27.032871972318333,Farmer,79-89,False,False,Overweight
+813580,Female,45.0,1.58,18.02595737862522,Urban Resident,79-89,False,False,Underweight
+746111,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+769592,Female,47.5,1.58,19.02739945521551,Urban Resident,69-79,False,False,Normal
+802325,Female,50.0,1.52,21.641274238227147,Urban Resident,69-79,False,False,Normal
+816158,Female,50.0,1.46,23.45655845374367,Urban Resident,79-89,False,False,Normal
+774794,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+730802,Male,80.0,1.67,28.685144680698485,Urban Resident,59-69,False,False,Overweight
+792818,Female,55.0,1.65,20.202020202020204,Urban Resident,59-69,False,False,Normal
+818264,Female,62.0,1.52,26.83518005540166,Worker,49-59,False,False,Overweight
+786611,Female,65.0,1.6,25.390624999999996,Urban Resident,59-69,False,False,Overweight
+798791,Female,70.0,1.45,33.29369797859691,Urban Resident,59-69,False,False,Obese
+803762,Female,55.0,1.56,22.600262984878366,Urban Resident,79-89,False,False,Normal
+858484,Male,49.5,1.6,19.335937499999996,Urban Resident,79-89,False,False,Normal
+840295,Female,48.0,1.58,19.227687870533565,Urban Resident,69-79,False,False,Normal
+795811,Female,55.0,1.53,23.49523687470631,Urban Resident,69-79,False,False,Normal
+793748,Male,66.0,1.68,23.384353741496604,Urban Resident,79-89,False,False,Normal
+840729,Female,70.0,1.5,31.11111111111111,Urban Resident,89-110,False,False,Obese
+733390,Male,60.0,1.65,22.03856749311295,Urban Resident,69-79,False,False,Normal
+823579,Male,45.0,1.66,16.330381768036002,Urban Resident,59-69,False,False,Underweight
+827539,Female,55.0,1.6,21.484374999999996,Farmer,79-89,False,False,Normal
+816794,Female,36.0,1.5,16.0,Urban Resident,79-89,False,False,Underweight
+785155,Male,60.0,1.6,23.437499999999996,Urban Resident,59-69,False,False,Normal
+746050,Male,60.0,1.6,23.437499999999996,Urban Resident,79-89,False,False,Normal
+851897,Male,48.5,1.6,18.945312499999996,Urban Resident,69-79,False,False,Normal
+860499,Male,49.5,1.6,19.335937499999996,Urban Resident,69-79,False,False,Normal
+819424,Female,45.0,1.48,20.54419284149014,Urban Resident,79-89,False,False,Normal
+795101,Female,53.0,1.54,22.34778208804183,Urban Resident,69-79,False,False,Normal
+780573,Male,45.0,1.55,18.730489073881373,Urban Resident,69-79,False,False,Normal
+735975,Female,43.0,1.56,17.66929651545036,Urban Resident,59-69,False,False,Underweight
+832886,Female,43.3,1.46,20.313379620942015,Urban Resident,49-59,False,False,Normal
+870126,Female,49.5,1.4,25.25510204081633,Urban Resident,79-89,False,False,Overweight
+797416,Female,56.0,1.63,21.077195227520797,Urban Resident,59-69,False,False,Normal
+797417,Female,30.0,1.45,14.26872770511296,Urban Resident,89-110,False,False,Underweight
+811560,Female,60.0,1.6,23.437499999999996,Urban Resident,69-79,False,False,Normal
+772390,Female,60.0,1.6,23.437499999999996,Urban Resident,69-79,False,False,Normal
+780779,Male,55.0,1.7,19.031141868512112,Urban Resident,69-79,False,False,Normal
+850812,Male,49.0,1.65,17.99816345270891,Urban Resident,69-79,False,False,Underweight
+858858,Male,49.0,1.74,16.1844365173735,Urban Resident,79-89,False,False,Underweight
+814340,Female,40.0,1.4,20.408163265306126,Urban Resident,79-89,False,False,Normal
+747900,Male,58.0,1.72,19.60519199567334,Others,79-89,False,False,Normal
+817057,Female,70.0,1.54,29.515938606847698,Urban Resident,59-69,False,False,Overweight
+769870,Female,50.0,1.55,20.811654526534856,Urban Resident,29-39,False,False,Normal
+766409,Female,45.0,1.56,18.49112426035503,Urban Resident,69-79,False,False,Underweight
+819431,Male,57.0,1.69,19.95728440880922,Urban Resident,59-69,False,False,Normal
+758069,Female,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+781910,Female,70.0,1.6,27.343749999999996,Urban Resident,79-89,False,False,Overweight
+791407,Female,32.0,1.45,15.219976218787158,Urban Resident,69-79,False,False,Underweight
+860743,Male,49.0,1.7,16.955017301038065,Urban Resident,89-110,False,False,Underweight
+869151,Male,49.5,1.6,19.335937499999996,Urban Resident,69-79,False,False,Normal
+729272,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+847433,Female,40.0,1.56,16.43655489809336,Urban Resident,89-110,False,False,Underweight
+866532,Female,48.0,1.5,21.333333333333332,Urban Resident,49-59,False,False,Normal
+777335,Male,49.0,1.58,19.62826470116968,Urban Resident,69-79,False,False,Normal
+796839,Male,73.0,1.46,34.24657534246576,Urban Resident,69-79,False,False,Obese
+837990,Male,60.0,1.51,26.314635323012148,Urban Resident,79-89,False,False,Overweight
+825901,Male,65.0,1.6,25.390624999999996,Unspecified,59-69,False,False,Overweight
+860596,Male,48.0,1.57,19.473406629072173,Others,59-69,False,False,Normal
+780741,Male,60.0,1.7,20.761245674740486,Urban Resident,79-89,False,False,Normal
+789264,Female,45.0,1.46,21.110902608369305,Urban Resident,69-79,False,False,Normal
+796691,Female,44.0,1.5,19.555555555555557,Urban Resident,79-89,False,False,Normal
+835171,Female,55.0,1.6,21.484374999999996,Urban Resident,69-79,False,False,Normal
+822056,Female,48.0,1.55,19.979188345473464,Urban Resident,89-110,False,False,Normal
+829800,Male,50.0,1.67,17.92821542543655,Urban Resident,79-89,False,False,Underweight
+782318,Male,51.0,1.61,19.675166853130666,Urban Resident,79-89,False,False,Normal
+738780,Male,48.0,1.56,19.72386587771203,Others,39-49,False,False,Normal
+869806,Female,45.0,1.47,20.824656393169516,Urban Resident,79-89,False,False,Normal
+809812,Male,60.0,1.62,22.86236854138088,Urban Resident,79-89,False,False,Normal
+811471,Male,80.0,1.68,28.344671201814062,Urban Resident,79-89,False,False,Overweight
+807183,Male,50.0,1.7,17.301038062283737,Urban Resident,79-89,False,False,Underweight
+749234,Female,74.0,1.58,29.642685467072578,Urban Resident,59-69,False,False,Overweight
+866006,Female,45.0,1.45,21.40309155766944,Urban Resident,69-79,False,False,Normal
+812922,Male,70.0,1.65,25.71166207529844,Farmer,59-69,False,False,Overweight
+779860,Male,60.0,1.7,20.761245674740486,Urban Resident,69-79,False,False,Normal
+796591,Female,41.0,1.42,20.333267208887126,Urban Resident,59-69,False,False,Normal
+822575,Male,51.0,1.7,17.647058823529413,Worker,89-110,False,False,Underweight
+843341,Female,49.0,1.45,23.305588585017837,Urban Resident,69-79,False,False,Normal
+799287,Male,83.0,1.66,30.120481927710845,Urban Resident,79-89,False,False,Obese
+741163,Male,55.0,1.67,19.721036967980208,Urban Resident,59-69,False,False,Normal
+822323,Male,48.0,1.68,17.006802721088437,Urban Resident,79-89,False,False,Underweight
+783940,Female,55.0,1.5,24.444444444444443,Urban Resident,69-79,False,False,Normal
+795409,Female,40.0,1.52,17.31301939058172,Farmer,79-89,False,False,Underweight
+858460,Female,47.5,1.35,26.063100137174207,Urban Resident,79-89,False,False,Overweight
+762608,Male,45.0,1.56,18.49112426035503,Urban Resident,69-79,False,False,Underweight
+806277,Female,40.0,1.52,17.31301939058172,Urban Resident,79-89,False,False,Underweight
+732290,Male,62.0,1.72,20.9572742022715,Urban Resident,59-69,False,False,Normal
+745937,Female,48.0,1.54,20.23950075898128,Urban Resident,79-89,False,False,Normal
+787284,Female,46.0,1.54,19.396188227357058,Urban Resident,79-89,False,False,Normal
+864583,Female,45.0,1.58,18.02595737862522,Urban Resident,89-110,False,False,Underweight
+735677,Male,45.0,1.65,16.528925619834713,Farmer,69-79,False,False,Underweight
+807691,Female,55.0,1.45,26.159334126040427,Urban Resident,69-79,False,False,Overweight
+808604,Male,40.0,1.5,17.77777777777778,Unspecified,79-89,False,False,Underweight
+744977,Female,55.0,1.6,21.484374999999996,Urban Resident,79-89,False,False,Normal
+802700,Male,60.0,1.6,23.437499999999996,Unspecified,79-89,False,False,Normal
+777204,Male,45.0,1.55,18.730489073881373,Urban Resident,79-89,False,False,Normal
+831510,Female,45.0,1.48,20.54419284149014,Urban Resident,79-89,False,False,Normal
+830988,Male,60.0,1.55,24.97398543184183,Urban Resident,59-69,False,False,Overweight
+848784,Female,48.0,1.55,19.979188345473464,Urban Resident,89-110,False,False,Normal
+731577,Female,50.0,1.5,22.22222222222222,Urban Resident,69-79,False,False,Normal
+791702,Female,55.0,1.48,25.10956902848795,Urban Resident,59-69,False,False,Overweight
+727668,Female,42.0,1.52,18.178670360110804,Urban Resident,69-79,False,False,Underweight
+834586,Male,50.0,1.53,21.35930624973301,Urban Resident,79-89,False,False,Normal
+856721,Female,50.0,1.5,22.22222222222222,Others,79-89,False,False,Normal
+731755,Male,65.0,1.78,20.515086478979924,Urban Resident,49-59,False,False,Normal
+858080,Male,49.5,1.58,19.82855311648774,Urban Resident,69-79,False,False,Normal
+763749,Female,60.0,1.55,24.97398543184183,Urban Resident,69-79,False,False,Overweight
+800022,Male,62.0,1.62,23.624447492760247,Urban Resident,69-79,False,False,Normal
+841611,Male,66.0,1.63,24.840980089578082,Urban Resident,59-69,False,False,Normal
+828786,Female,40.0,1.5,17.77777777777778,Urban Resident,59-69,False,False,Underweight
+838870,Female,62.0,1.6,24.218749999999996,Others,69-79,False,False,Normal
+842847,Female,48.0,1.45,22.829964328180736,Urban Resident,69-79,False,False,Normal
+858697,Female,56.0,1.45,26.634958382877528,Urban Resident,49-59,False,False,Overweight
+775827,Female,53.0,1.5,23.555555555555557,Urban Resident,69-79,False,False,Normal
+791916,Male,65.0,1.68,23.030045351473927,Urban Resident,59-69,False,False,Normal
+776249,Female,50.0,1.6,19.531249999999996,Urban Resident,39-49,False,False,Normal
+865386,Female,65.0,1.5,28.88888888888889,Urban Resident,79-89,False,False,Overweight
+728498,Female,45.0,1.55,18.730489073881373,Urban Resident,79-89,False,False,Normal
+801588,Female,35.0,1.5,15.555555555555555,Farmer,69-79,False,False,Underweight
+735035,Male,60.0,1.6,23.437499999999996,Others,79-89,False,False,Normal
+824103,Male,65.0,1.7,22.49134948096886,Urban Resident,69-79,False,False,Normal
+822471,Male,55.0,1.63,20.70081674131507,Urban Resident,59-69,False,False,Normal
+804208,Male,55.0,1.63,20.70081674131507,Unspecified,59-69,False,False,Normal
+817891,Female,42.0,1.53,17.941817249775728,Urban Resident,79-89,False,False,Underweight
+779965,Male,75.0,1.58,30.043262297708697,Urban Resident,89-110,False,False,Obese
+789555,Male,60.0,1.6,23.437499999999996,Urban Resident,69-79,False,False,Normal
+794390,Female,45.0,1.45,21.40309155766944,Urban Resident,79-89,False,False,Normal
+758926,Male,40.0,1.6,15.624999999999996,Urban Resident,59-69,False,False,Underweight
+843118,Male,55.0,1.6,21.484374999999996,Farmer,79-89,False,False,Normal
+861990,Female,50.0,1.55,20.811654526534856,Urban Resident,69-79,False,False,Normal
+830537,Female,50.0,1.56,20.5456936226167,Urban Resident,49-59,False,False,Normal
+726940,Male,60.0,1.6,23.437499999999996,Farmer,39-49,False,False,Normal
+857388,Male,68.0,1.66,24.677021338365513,Urban Resident,69-79,False,False,Normal
+805177,Female,34.0,1.5,15.11111111111111,Urban Resident,79-89,False,False,Underweight
+765275,Male,42.5,1.6,16.601562499999996,Farmer,39-49,False,False,Underweight
+795309,Female,40.0,1.55,16.649323621227886,Urban Resident,79-89,False,False,Underweight
+819513,Female,40.0,1.55,16.649323621227886,Urban Resident,69-79,False,False,Underweight
+803821,Male,80.0,1.73,26.729927495071667,Urban Resident,79-89,False,False,Overweight
+860010,Female,60.0,1.55,24.97398543184183,Urban Resident,89-110,False,False,Overweight
+814906,Male,56.0,1.62,21.338210638622158,Urban Resident,59-69,False,False,Normal
+748865,Male,42.0,1.5,18.666666666666668,Urban Resident,69-79,False,False,Normal
+820242,Female,47.0,1.56,19.312952005259696,Urban Resident,79-89,False,False,Normal
+773800,Male,60.0,1.71,20.519134092541297,Urban Resident,69-79,False,False,Normal
+736983,Female,50.0,1.57,20.28479857195018,Urban Resident,69-79,False,False,Normal
+864182,Male,48.0,1.55,19.979188345473464,Urban Resident,79-89,False,False,Normal
+746882,Female,45.0,1.45,21.40309155766944,Urban Resident,79-89,False,False,Normal
+821941,Female,34.0,1.56,13.971071663379355,Urban Resident,49-59,False,False,Underweight
+733879,Female,60.0,1.66,21.773842357381334,Urban Resident,69-79,False,False,Normal
+739659,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+736762,Male,60.0,1.6,23.437499999999996,Urban Resident,49-59,False,False,Normal
+785225,Male,70.0,1.67,25.099501595611173,Urban Resident,79-89,False,False,Overweight
+836163,Male,60.0,1.7,20.761245674740486,Urban Resident,79-89,False,False,Normal
+795014,Male,60.0,1.68,21.258503401360546,Urban Resident,69-79,False,False,Normal
+804847,Male,58.0,1.55,24.141519250780433,Urban Resident,59-69,False,False,Normal
+734118,Male,70.0,1.65,25.71166207529844,Urban Resident,69-79,False,False,Overweight
+753274,Female,40.0,1.52,17.31301939058172,Urban Resident,79-89,False,False,Underweight
+818073,Female,50.0,1.53,21.35930624973301,Urban Resident,79-89,False,False,Normal
+831320,Female,70.0,1.64,26.026174895895306,Urban Resident,49-59,False,False,Overweight
+830900,Female,90.0,1.6,35.15624999999999,Urban Resident,79-89,False,False,Obese
+754764,Female,53.0,1.42,26.284467367585798,Urban Resident,89-110,False,False,Overweight
+790083,Female,55.0,1.5,24.444444444444443,Urban Resident,59-69,False,False,Normal
+789523,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+826826,Female,40.0,1.45,19.024970273483948,Urban Resident,89-110,False,False,Normal
+809120,Female,58.0,1.55,24.141519250780433,Urban Resident,79-89,False,False,Normal
+798922,Male,48.0,1.6,18.749999999999996,Urban Resident,79-89,False,False,Normal
+809814,Male,67.0,1.72,22.647376960519203,Urban Resident,59-69,False,False,Normal
+810318,Female,55.0,1.3,32.54437869822485,Urban Resident,79-89,False,False,Obese
+832156,Male,55.0,1.7,19.031141868512112,Urban Resident,79-89,False,False,Normal
+732466,Female,60.0,1.63,22.582709172343712,Urban Resident,39-49,False,False,Normal
+800740,Female,42.0,1.6,16.406249999999996,Urban Resident,49-59,False,False,Underweight
+846751,Female,55.0,1.5,24.444444444444443,Urban Resident,69-79,False,False,Normal
+750752,Male,45.0,1.6,17.578124999999996,Farmer,69-79,False,False,Underweight
+723327,Female,52.0,1.55,21.64412070759625,Urban Resident,59-69,False,False,Normal
+812292,Male,60.0,1.6,23.437499999999996,Urban Resident,59-69,False,False,Normal
+741449,Male,70.0,1.56,28.763971071663377,Urban Resident,79-89,False,False,Overweight
+739119,Female,40.0,1.45,19.024970273483948,Urban Resident,79-89,False,False,Normal
+750467,Female,73.0,1.48,33.327246165084006,Urban Resident,69-79,False,False,Obese
+749874,Male,55.0,1.62,20.957171162932475,Farmer,69-79,False,False,Normal
+752701,Male,65.0,1.64,24.167162403331353,Urban Resident,69-79,False,False,Normal
+764451,Female,48.0,1.5,21.333333333333332,Urban Resident,69-79,False,False,Normal
+848894,Female,53.0,1.58,21.230572023714146,Urban Resident,69-79,False,False,Normal
+754754,Female,55.0,1.45,26.159334126040427,Urban Resident,59-69,False,False,Overweight
+737251,Female,46.0,1.72,15.548945375878855,Others,69-79,False,False,Underweight
+773684,Female,48.0,1.54,20.23950075898128,Urban Resident,69-79,False,False,Normal
+817061,Male,47.5,1.58,19.02739945521551,Others,69-79,False,False,Normal
+727373,Female,44.0,1.55,18.314255983350673,Farmer,49-59,False,False,Underweight
+750702,Male,96.0,1.68,34.013605442176875,Urban Resident,69-79,False,False,Obese
+755244,Female,45.0,1.56,18.49112426035503,Urban Resident,79-89,False,False,Underweight
+794590,Male,83.0,1.66,30.120481927710845,Urban Resident,79-89,False,False,Obese
+763781,Male,60.0,1.6,23.437499999999996,Urban Resident,79-89,False,False,Normal
+868046,Male,52.0,1.56,21.367521367521366,Urban Resident,69-79,False,False,Normal
+796242,Male,52.0,1.68,18.42403628117914,Urban Resident,79-89,False,False,Underweight
+770134,Female,41.0,1.54,17.28790689829651,Farmer,59-69,False,False,Underweight
+802768,Male,60.0,1.7,20.761245674740486,Urban Resident,59-69,False,False,Normal
+797537,Female,62.0,1.53,26.48553974966893,Urban Resident,59-69,False,False,Overweight
+755028,Female,55.0,1.55,22.892819979188342,Urban Resident,39-49,False,False,Normal
+865969,Female,55.0,1.57,22.313278429145196,Urban Resident,59-69,False,False,Normal
+798835,Male,70.0,1.54,29.515938606847698,Urban Resident,49-59,False,False,Overweight
+823864,Female,60.0,1.5,26.666666666666668,Urban Resident,69-79,False,False,Overweight
+819993,Female,52.0,1.58,20.82999519307803,Farmer,69-79,False,False,Normal
+845977,Male,70.0,1.7,24.221453287197235,Urban Resident,49-59,False,False,Normal
+730136,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+770180,Male,45.0,1.6,17.578124999999996,Urban Resident,79-89,False,False,Underweight
+778118,Female,53.0,1.48,24.196493791088386,Urban Resident,69-79,False,False,Normal
+754833,Male,82.0,1.7,28.373702422145332,Urban Resident,69-79,False,False,Overweight
+814085,Male,60.0,1.6,23.437499999999996,Urban Resident,79-89,False,False,Normal
+744824,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+798198,Male,50.0,1.7,17.301038062283737,Urban Resident,59-69,False,False,Underweight
+832842,Male,70.0,1.72,23.661438615467823,Urban Resident,79-89,False,False,Normal
+798382,Female,41.0,1.45,19.500594530321045,Urban Resident,49-59,False,False,Normal
+788618,Male,70.0,1.75,22.857142857142858,Urban Resident,39-49,False,False,Normal
+761601,Male,50.0,1.65,18.36547291092746,Urban Resident,79-89,False,False,Underweight
+816710,Female,40.0,1.5,17.77777777777778,Urban Resident,89-110,False,False,Underweight
+804385,Male,53.0,1.6,20.703124999999996,Urban Resident,79-89,False,False,Normal
+818210,Male,85.0,1.7,29.411764705882355,Urban Resident,39-49,False,False,Overweight
+741267,Male,65.0,1.67,23.306680053067517,Urban Resident,79-89,False,False,Normal
+763040,Male,40.0,1.55,16.649323621227886,Urban Resident,69-79,False,False,Underweight
+849128,Male,55.0,1.65,20.202020202020204,Urban Resident,69-79,False,False,Normal
+792139,Female,48.0,1.52,20.775623268698062,Urban Resident,59-69,False,False,Normal
+787336,Male,60.0,1.7,20.761245674740486,Urban Resident,79-89,False,False,Normal
+807084,Male,45.0,1.75,14.693877551020408,Urban Resident,89-110,False,False,Underweight
+865182,Male,70.0,1.58,28.040378144528116,Urban Resident,39-49,False,False,Overweight
+739385,Male,56.0,1.58,22.432302515622492,Farmer,79-89,False,False,Normal
+812598,Male,91.0,1.83,27.173101615455817,Urban Resident,69-79,False,False,Overweight
+814161,Female,45.0,1.52,19.47714681440443,Urban Resident,79-89,False,False,Normal
+815140,Female,45.0,1.5,20.0,Farmer,49-59,False,False,Normal
+798655,Female,50.0,1.6,19.531249999999996,Farmer,59-69,False,False,Normal
+727453,Female,40.0,1.48,18.261504747991236,Farmer,59-69,False,False,Underweight
+761860,Male,59.0,1.58,23.634033007530842,Urban Resident,79-89,False,False,Normal
+862873,Female,55.0,1.6,21.484374999999996,Urban Resident,59-69,False,False,Normal
+831325,Female,42.0,1.52,18.178670360110804,Urban Resident,59-69,False,False,Underweight
+737608,Female,44.0,1.55,18.314255983350673,Farmer,59-69,False,False,Underweight
+775196,Female,40.0,1.53,17.087444999786406,Urban Resident,79-89,False,False,Underweight
+731808,Male,60.0,1.63,22.582709172343712,Urban Resident,69-79,False,False,Normal
+814532,Female,65.0,1.55,27.055150884495315,Urban Resident,69-79,False,False,Overweight
+816910,Male,55.0,1.73,18.376825152861773,Urban Resident,69-79,False,False,Underweight
+746068,Female,45.0,1.5,20.0,Urban Resident,79-89,False,False,Normal
+809259,Male,52.0,1.62,19.81405273586343,Farmer,69-79,False,False,Normal
+815164,Female,45.0,1.45,21.40309155766944,Unspecified,79-89,False,False,Normal
+860468,Male,65.0,1.6,25.390624999999996,Farmer,89-110,False,False,Overweight
+850447,Female,65.0,1.55,27.055150884495315,Urban Resident,69-79,False,False,Overweight
+754127,Male,51.0,1.65,18.73278236914601,Urban Resident,59-69,False,False,Normal
+832185,Female,40.0,1.52,17.31301939058172,Urban Resident,69-79,False,False,Underweight
+738938,Female,65.0,1.55,27.055150884495315,Urban Resident,69-79,False,False,Overweight
+825074,Female,65.0,1.5,28.88888888888889,Urban Resident,69-79,False,False,Overweight
+768355,Female,45.0,1.55,18.730489073881373,Urban Resident,69-79,False,False,Normal
+823317,Male,60.0,1.72,20.281233098972418,Urban Resident,59-69,False,False,Normal
+860793,Male,64.0,1.6,24.999999999999996,Others,69-79,False,False,Overweight
+825484,Female,52.0,1.56,21.367521367521366,Urban Resident,29-39,False,False,Normal
+735749,Female,45.0,1.6,17.578124999999996,Urban Resident,69-79,False,False,Underweight
+787622,Female,55.0,1.6,21.484374999999996,Urban Resident,69-79,False,False,Normal
+795983,Male,50.0,1.7,17.301038062283737,Urban Resident,79-89,False,False,Underweight
+737554,Female,45.0,1.5,20.0,Urban Resident,79-89,False,False,Normal
+828126,Male,47.0,1.55,19.562955254942764,Urban Resident,59-69,False,False,Normal
+828794,Male,72.0,1.7,24.913494809688583,Urban Resident,49-59,False,False,Overweight
+794077,Female,62.0,1.6,24.218749999999996,Unspecified,49-59,False,False,Normal
+800763,Female,60.0,1.54,25.2993759487266,Urban Resident,79-89,False,False,Overweight
+857373,Female,55.0,1.5,24.444444444444443,Urban Resident,59-69,False,False,Normal
+765698,Male,60.0,1.62,22.86236854138088,Urban Resident,69-79,False,False,Normal
+799225,Male,68.0,1.6,26.562499999999996,Urban Resident,69-79,False,False,Overweight
+753702,Female,40.0,1.56,16.43655489809336,Urban Resident,79-89,False,False,Underweight
+865993,Female,50.0,1.58,20.028841531805796,Urban Resident,69-79,False,False,Normal
+862675,Male,60.0,1.58,24.034609838166958,Urban Resident,69-79,False,False,Normal
+751832,Female,50.0,1.5,22.22222222222222,Urban Resident,69-79,False,False,Normal
+793492,Male,65.0,1.65,23.875114784205696,Urban Resident,79-89,False,False,Normal
+862248,Male,45.0,1.7,15.570934256055365,Farmer,69-79,False,False,Underweight
+729449,Female,50.0,1.5,22.22222222222222,Urban Resident,59-69,False,False,Normal
+830539,Male,68.0,1.72,22.985397512168742,Urban Resident,59-69,False,False,Normal
+905720,Female,50.0,1.55,20.811654526534856,Unspecified,89-110,False,False,Normal
+752180,Female,40.0,1.5,17.77777777777778,Farmer,59-69,False,False,Underweight
+752083,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+817444,Female,60.0,1.52,25.969529085872576,Unspecified,89-110,False,False,Overweight
+807425,Male,62.0,1.62,23.624447492760247,Urban Resident,69-79,False,False,Normal
+843701,Male,46.0,1.6,17.968749999999996,Urban Resident,79-89,False,False,Underweight
+757820,Female,45.0,1.58,18.02595737862522,Urban Resident,79-89,False,False,Underweight
+823992,Male,50.0,1.6,19.531249999999996,Urban Resident,59-69,False,False,Normal
+761179,Female,60.0,1.48,27.39225712198685,Urban Resident,79-89,False,False,Overweight
+733275,Male,62.0,1.6,24.218749999999996,Urban Resident,79-89,False,False,Normal
+786506,Female,43.0,1.35,23.593964334705074,Others,79-89,False,False,Normal
+865932,Female,55.0,1.55,22.892819979188342,Urban Resident,69-79,False,False,Normal
+804696,Female,35.0,1.48,15.97881665449233,Urban Resident,79-89,False,False,Underweight
+860163,Male,72.0,1.67,25.816630212628635,Urban Resident,79-89,False,False,Overweight
+803054,Male,60.0,1.7,20.761245674740486,Urban Resident,59-69,False,False,Normal
+822937,Male,54.0,1.65,19.834710743801654,Urban Resident,69-79,False,False,Normal
+851158,Female,75.0,1.45,35.6718192627824,Urban Resident,79-89,False,False,Obese
+905163,Male,42.5,1.7,14.705882352941178,Unspecified,69-79,False,False,Underweight
+798002,Male,60.0,1.6,23.437499999999996,Urban Resident,69-79,False,False,Normal
+865283,Female,40.0,1.55,16.649323621227886,Urban Resident,79-89,False,False,Underweight
+799499,Female,52.0,1.5,23.11111111111111,Urban Resident,69-79,False,False,Normal
+802911,Female,58.0,1.55,24.141519250780433,Urban Resident,79-89,False,False,Normal
+807659,Male,60.0,1.6,23.437499999999996,Urban Resident,59-69,False,False,Normal
+730668,Female,35.0,1.5,15.555555555555555,Farmer,69-79,False,False,Underweight
+779958,Female,40.0,1.45,19.024970273483948,Urban Resident,59-69,False,False,Normal
+760152,Male,48.0,1.59,18.986590720303784,Urban Resident,49-59,False,False,Normal
+822193,Male,51.0,1.7,17.647058823529413,Urban Resident,69-79,False,False,Underweight
+815148,Female,42.0,1.56,17.258382642998026,Urban Resident,79-89,False,False,Underweight
+795789,Male,68.0,1.63,25.59373706198954,Urban Resident,49-59,False,False,Overweight
+794001,Female,62.0,1.56,25.476660092044707,Urban Resident,49-59,False,False,Overweight
+806036,Female,44.0,1.58,17.625380547989103,Urban Resident,79-89,False,False,Underweight
+758191,Female,70.0,1.6,27.343749999999996,Urban Resident,69-79,False,False,Overweight
+750400,Female,42.0,1.49,18.91806675374983,Urban Resident,79-89,False,False,Normal
+839456,Female,60.0,1.58,24.034609838166958,Urban Resident,59-69,False,False,Normal
+796341,Male,58.0,1.73,19.37919743392696,Others,69-79,False,False,Normal
+857495,Male,50.0,1.68,17.71541950113379,Officer,79-89,False,False,Underweight
+842638,Male,45.0,1.65,16.528925619834713,Urban Resident,69-79,False,False,Underweight
+834294,Female,40.0,1.52,17.31301939058172,Urban Resident,69-79,False,False,Underweight
+816429,Female,56.0,1.4,28.571428571428577,Urban Resident,69-79,False,False,Overweight
+862637,Female,42.0,1.56,17.258382642998026,Urban Resident,59-69,False,False,Underweight
+826544,Male,62.0,1.68,21.9671201814059,Urban Resident,59-69,False,False,Normal
+753406,Female,55.0,1.62,20.957171162932475,Urban Resident,79-89,False,False,Normal
+771456,Male,55.0,1.7,19.031141868512112,Urban Resident,59-69,False,False,Normal
+865139,Female,47.0,1.48,21.4572680788897,Urban Resident,79-89,False,False,Normal
+845261,Female,40.0,1.55,16.649323621227886,Urban Resident,69-79,False,False,Underweight
+853905,Male,60.0,1.55,24.97398543184183,Urban Resident,59-69,False,False,Overweight
+779438,Female,58.0,1.48,26.47918188458729,Others,79-89,False,False,Overweight
+863163,Female,55.0,1.53,23.49523687470631,Urban Resident,59-69,False,False,Normal
+788087,Male,60.0,1.6,23.437499999999996,Urban Resident,79-89,False,False,Normal
+769093,Female,40.0,1.4,20.408163265306126,Urban Resident,69-79,False,False,Normal
+808787,Female,40.0,1.52,17.31301939058172,Urban Resident,79-89,False,False,Underweight
+736639,Male,55.0,1.72,18.591130340724717,Farmer,49-59,False,False,Normal
+770998,Male,50.0,1.56,20.5456936226167,Farmer,59-69,False,False,Normal
+857096,Male,48.0,1.7,16.60899653979239,Urban Resident,89-110,False,False,Underweight
+757415,Male,60.0,1.6,23.437499999999996,Others,69-79,False,False,Normal
+757082,Male,52.0,1.6,20.312499999999996,Urban Resident,49-59,False,False,Normal
+764381,Male,60.0,1.68,21.258503401360546,Urban Resident,59-69,False,False,Normal
+788271,Female,50.0,1.5,22.22222222222222,Urban Resident,79-89,False,False,Normal
+834611,Male,53.0,1.58,21.230572023714146,Urban Resident,49-59,False,False,Normal
+785607,Female,51.0,1.55,21.227887617065555,Urban Resident,69-79,False,False,Normal
+725509,Female,55.0,1.58,22.031725684986377,Urban Resident,39-49,False,False,Normal
+786820,Male,43.0,1.55,17.898022892819977,Urban Resident,79-89,False,False,Underweight
+785055,Female,45.0,1.55,18.730489073881373,Urban Resident,49-59,False,False,Normal
+868694,Female,49.0,1.5,21.77777777777778,Urban Resident,79-89,False,False,Normal
+823447,Female,40.0,1.5,17.77777777777778,Farmer,79-89,False,False,Underweight
+865983,Male,75.0,1.75,24.489795918367346,Urban Resident,69-79,False,False,Normal
+730746,Female,42.5,1.58,17.024515302034928,Urban Resident,79-89,False,False,Underweight
+812773,Female,42.0,1.48,19.174579985390796,Farmer,69-79,False,False,Normal
+859681,Female,48.0,1.45,22.829964328180736,Urban Resident,69-79,False,False,Normal
+729973,Female,47.0,1.5,20.88888888888889,Farmer,79-89,False,False,Normal
+743100,Female,45.0,1.55,18.730489073881373,Urban Resident,79-89,False,False,Normal
+835982,Male,48.0,1.56,19.72386587771203,Urban Resident,69-79,False,False,Normal
+772172,Male,68.0,1.68,24.092970521541954,Urban Resident,39-49,False,False,Normal
+733759,Male,55.0,1.56,22.600262984878366,Others,59-69,False,False,Normal
+860681,Female,60.0,1.56,24.654832347140037,Urban Resident,79-89,False,False,Normal
+807894,Male,82.0,1.7,28.373702422145332,Urban Resident,69-79,False,False,Overweight
+862214,Female,35.0,1.45,16.646848989298455,Urban Resident,69-79,False,False,Underweight
+801095,Female,42.0,1.5,18.666666666666668,Urban Resident,79-89,False,False,Normal
+750080,Female,60.0,1.52,25.969529085872576,Urban Resident,59-69,False,False,Overweight
+792547,Male,60.0,1.6,23.437499999999996,Urban Resident,69-79,False,False,Normal
+793960,Female,42.5,1.54,17.920391297014675,Urban Resident,79-89,False,False,Underweight
+745064,Female,59.0,1.58,23.634033007530842,Urban Resident,39-49,False,False,Normal
+789435,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+831433,Male,50.0,1.7,17.301038062283737,Urban Resident,69-79,False,False,Underweight
+862914,Male,40.0,1.6,15.624999999999996,Urban Resident,49-59,False,False,Underweight
+819994,Female,62.0,1.58,24.83576349943919,Urban Resident,89-110,False,False,Normal
+869467,Male,47.0,1.6,18.359374999999996,Urban Resident,59-69,False,False,Underweight
+831345,Male,74.0,1.76,23.889462809917354,Urban Resident,39-49,False,False,Normal
+794457,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+795099,Female,45.0,1.5,20.0,Urban Resident,79-89,False,False,Normal
+766922,Male,55.0,1.7,19.031141868512112,Farmer,69-79,False,False,Normal
+861595,Female,61.0,1.51,26.753212578395683,Urban Resident,59-69,False,False,Overweight
+838763,Male,65.0,1.7,22.49134948096886,Urban Resident,59-69,False,False,Normal
+797601,Male,55.0,1.6,21.484374999999996,Urban Resident,79-89,False,False,Normal
+753493,Male,58.0,1.65,21.30394857667585,Urban Resident,59-69,False,False,Normal
+764425,Male,58.0,1.65,21.30394857667585,Urban Resident,69-79,False,False,Normal
+825044,Male,55.0,1.6,21.484374999999996,Urban Resident,69-79,False,False,Normal
+780797,Female,45.0,1.55,18.730489073881373,Urban Resident,79-89,False,False,Normal
+805352,Female,70.0,1.62,26.672763298277697,Urban Resident,49-59,False,False,Overweight
+767726,Female,44.0,1.55,18.314255983350673,Urban Resident,69-79,False,False,Underweight
+733771,Female,42.0,1.45,19.976218787158146,Farmer,59-69,False,False,Normal
+753373,Female,59.0,1.5,26.22222222222222,Urban Resident,69-79,False,False,Overweight
+765197,Female,47.0,1.5,20.88888888888889,Others,69-79,False,False,Normal
+738058,Female,50.0,1.5,22.22222222222222,Urban Resident,79-89,False,False,Normal
+801117,Female,54.0,1.5,24.0,Urban Resident,69-79,False,False,Normal
+765300,Female,45.0,1.56,18.49112426035503,Urban Resident,79-89,False,False,Underweight
+818307,Female,65.0,1.58,26.037493991347535,Urban Resident,69-79,False,False,Overweight
+817935,Male,45.0,1.55,18.730489073881373,Urban Resident,49-59,False,False,Normal
+812110,Female,57.0,1.5,25.333333333333332,Urban Resident,49-59,False,False,Overweight
+743855,Female,65.0,1.6,25.390624999999996,Urban Resident,59-69,False,False,Overweight
+815223,Female,40.0,1.5,17.77777777777778,Urban Resident,49-59,False,False,Underweight
+777164,Male,47.0,1.55,19.562955254942764,Urban Resident,69-79,False,False,Normal
+849604,Male,49.0,1.53,20.932120124738347,Urban Resident,59-69,False,False,Normal
+869423,Male,50.0,1.7,17.301038062283737,Urban Resident,59-69,False,False,Underweight
+788889,Female,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+819882,Male,84.0,1.7,29.065743944636683,Urban Resident,69-79,False,False,Overweight
+802219,Female,61.0,1.6,23.828124999999996,Urban Resident,69-79,False,False,Normal
+859306,Female,48.0,1.58,19.227687870533565,Urban Resident,59-69,False,False,Normal
+832696,Male,45.0,1.68,15.94387755102041,Urban Resident,59-69,False,False,Underweight
+825736,Male,44.0,1.62,16.76573693034598,Unspecified,59-69,False,False,Underweight
+833345,Female,50.0,1.55,20.811654526534856,Officer,59-69,False,False,Normal
+726710,Male,85.0,1.7,29.411764705882355,Urban Resident,69-79,False,False,Overweight
+849269,Male,90.0,1.6,35.15624999999999,Urban Resident,59-69,False,False,Obese
+827673,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+735177,Male,52.0,1.6,20.312499999999996,Farmer,69-79,False,False,Normal
+743489,Male,74.0,1.67,26.533758829646096,Urban Resident,69-79,False,False,Overweight
+794461,Male,50.0,1.7,17.301038062283737,Urban Resident,79-89,False,False,Underweight
+802073,Female,45.0,1.5,20.0,Urban Resident,59-69,False,False,Normal
+784806,Male,60.0,1.56,24.654832347140037,Urban Resident,69-79,False,False,Normal
+787584,Female,50.0,1.55,20.811654526534856,Urban Resident,79-89,False,False,Normal
+779822,Male,45.0,1.6,17.578124999999996,Urban Resident,69-79,False,False,Underweight
+790433,Male,72.5,1.6,28.320312499999993,Urban Resident,69-79,False,False,Overweight
+741379,Female,40.0,1.6,15.624999999999996,Urban Resident,69-79,False,False,Underweight
+758262,Female,55.0,1.5,24.444444444444443,Others,69-79,False,False,Normal
+782504,Male,70.0,1.65,25.71166207529844,Urban Resident,59-69,False,False,Overweight
+780087,Male,71.0,1.58,28.44095497516423,Urban Resident,69-79,False,False,Overweight
+820789,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+742203,Male,65.0,1.7,22.49134948096886,Urban Resident,69-79,False,False,Normal
+741607,Male,70.0,1.72,23.661438615467823,Urban Resident,39-49,False,False,Normal
+862470,Male,49.0,1.6,19.140624999999996,Urban Resident,59-69,False,False,Normal
+855875,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+868291,Female,49.0,1.55,20.39542143600416,Urban Resident,49-59,False,False,Normal
+835819,Female,49.0,1.52,21.208448753462605,Urban Resident,59-69,False,False,Normal
+781992,Female,69.0,1.46,32.370050666166264,Urban Resident,69-79,False,False,Obese
+737392,Female,52.0,1.55,21.64412070759625,Urban Resident,79-89,False,False,Normal
+771179,Female,70.0,1.5,31.11111111111111,Urban Resident,59-69,False,False,Obese
+869235,Male,48.0,1.6,18.749999999999996,Urban Resident,79-89,False,False,Normal
+796846,Male,82.0,1.62,31.24523700655387,Urban Resident,59-69,False,False,Obese
+824782,Female,45.0,1.55,18.730489073881373,Urban Resident,69-79,False,False,Normal
+802150,Female,50.0,1.58,20.028841531805796,Urban Resident,69-79,False,False,Normal
+854551,Male,49.0,1.6,19.140624999999996,Urban Resident,79-89,False,False,Normal
+864210,Male,78.0,1.6,30.468749999999993,Urban Resident,39-49,False,False,Obese
+805198,Female,60.0,1.48,27.39225712198685,Urban Resident,69-79,False,False,Overweight
+825433,Female,56.0,1.46,26.27134546819291,Urban Resident,69-79,False,False,Overweight
+855452,Female,34.0,1.35,18.655692729766802,Urban Resident,79-89,False,False,Normal
+808088,Female,65.0,1.58,26.037493991347535,Others,69-79,False,False,Overweight
+757913,Female,33.0,1.35,18.10699588477366,Urban Resident,69-79,False,False,Underweight
+813079,Male,60.0,1.6,23.437499999999996,Worker,59-69,False,False,Normal
+818894,Female,42.0,1.45,19.976218787158146,Urban Resident,69-79,False,False,Normal
+831589,Female,45.0,1.5,20.0,Urban Resident,79-89,False,False,Normal
+831937,Male,72.0,1.72,24.337479718766904,Urban Resident,69-79,False,False,Normal
+834443,Male,65.0,1.7,22.49134948096886,Urban Resident,79-89,False,False,Normal
+725871,Female,47.0,1.57,19.067710657633167,Urban Resident,69-79,False,False,Normal
+757161,Male,50.0,1.65,18.36547291092746,Urban Resident,69-79,False,False,Underweight
+768479,Male,44.0,1.65,16.161616161616163,Urban Resident,69-79,False,False,Underweight
+774396,Female,79.0,1.55,32.882414151925076,Urban Resident,69-79,False,False,Obese
+722128,Female,50.0,1.64,18.590124925639504,Urban Resident,69-79,False,False,Normal
+825923,Male,50.0,1.7,17.301038062283737,Urban Resident,59-69,False,False,Underweight
+779612,Female,70.0,1.6,27.343749999999996,Urban Resident,59-69,False,False,Overweight
+809447,Male,40.0,1.75,13.061224489795919,Urban Resident,79-89,False,False,Underweight
+757977,Male,50.0,1.6,19.531249999999996,Farmer,59-69,False,False,Normal
+799594,Male,45.0,1.56,18.49112426035503,Urban Resident,89-110,False,False,Underweight
+757421,Female,45.0,1.58,18.02595737862522,Urban Resident,59-69,False,False,Underweight
+738285,Female,40.0,1.57,16.227838857560144,Urban Resident,79-89,False,False,Underweight
+742111,Male,70.0,1.68,24.801587301587304,Urban Resident,69-79,False,False,Normal
+802240,Male,75.0,1.72,25.351541373715524,Urban Resident,79-89,False,False,Overweight
+747230,Male,55.0,1.7,19.031141868512112,Urban Resident,69-79,False,False,Normal
+779068,Female,45.0,1.5,20.0,Urban Resident,79-89,False,False,Normal
+857427,Male,47.5,1.72,16.055976203353165,Urban Resident,59-69,False,False,Underweight
+756500,Female,54.0,1.55,22.476586888657646,Farmer,69-79,False,False,Normal
+798725,Male,50.0,1.62,19.05197378448407,Urban Resident,59-69,False,False,Normal
+751793,Male,50.0,1.68,17.71541950113379,Farmer,79-89,False,False,Underweight
+758102,Female,50.0,1.5,22.22222222222222,Others,69-79,False,False,Normal
+830368,Female,55.0,1.5,24.444444444444443,Farmer,59-69,False,False,Normal
+860169,Female,49.0,1.55,20.39542143600416,Urban Resident,69-79,False,False,Normal
+820333,Female,60.0,1.55,24.97398543184183,Urban Resident,79-89,False,False,Overweight
+740775,Male,64.0,1.75,20.897959183673468,Urban Resident,69-79,False,False,Normal
+864249,Female,88.0,1.5,39.111111111111114,Urban Resident,79-89,False,False,Obese
+782683,Male,65.0,1.65,23.875114784205696,Urban Resident,59-69,False,False,Normal
+744183,Male,55.0,1.7,19.031141868512112,Urban Resident,79-89,False,False,Normal
+781696,Female,67.0,1.59,26.502116213757365,Urban Resident,69-79,False,False,Overweight
+784944,Female,41.0,1.6,16.015624999999996,Others,59-69,False,False,Underweight
+781008,Male,82.0,1.68,29.053287981859416,Urban Resident,59-69,False,False,Overweight
+851178,Female,47.5,1.51,20.83241963071795,Urban Resident,59-69,False,False,Normal
+824639,Female,42.0,1.6,16.406249999999996,Worker,59-69,False,False,Underweight
+831184,Female,82.5,1.62,31.435756744398713,Urban Resident,21-29,False,False,Obese
+817678,Female,42.0,1.52,18.178670360110804,Urban Resident,89-110,False,False,Underweight
+746935,Female,42.0,1.48,19.174579985390796,Urban Resident,79-89,False,False,Normal
+823427,Female,53.0,1.58,21.230572023714146,Urban Resident,69-79,False,False,Normal
+808317,Female,48.0,1.58,19.227687870533565,Urban Resident,79-89,False,False,Normal
+807249,Female,60.0,1.55,24.97398543184183,Urban Resident,79-89,False,False,Overweight
+743043,Female,59.0,1.62,22.481329065691202,Urban Resident,69-79,False,False,Normal
+739128,Female,55.0,1.54,23.19109461966605,Urban Resident,69-79,False,False,Normal
+863326,Female,48.5,1.48,22.142074506939373,Urban Resident,79-89,False,False,Normal
+774759,Female,53.0,1.48,24.196493791088386,Urban Resident,69-79,False,False,Normal
+732727,Female,55.0,1.5,24.444444444444443,Urban Resident,79-89,False,False,Normal
+755423,Female,42.0,1.4,21.42857142857143,Urban Resident,79-89,False,False,Normal
+765190,Female,62.0,1.5,27.555555555555557,Urban Resident,69-79,False,False,Overweight
+765445,Female,38.0,1.5,16.88888888888889,Urban Resident,69-79,False,False,Underweight
+789677,Female,40.0,1.55,16.649323621227886,Urban Resident,69-79,False,False,Underweight
+860948,Male,49.0,1.66,17.78197125852809,Urban Resident,49-59,False,False,Underweight
+867392,Male,49.0,1.62,18.670934308794386,Urban Resident,79-89,False,False,Normal
+747768,Female,45.0,1.55,18.730489073881373,Urban Resident,59-69,False,False,Normal
+781712,Male,51.0,1.68,18.069727891156464,Urban Resident,69-79,False,False,Underweight
+730841,Female,50.0,1.53,21.35930624973301,Urban Resident,79-89,False,False,Normal
+849307,Female,55.0,1.55,22.892819979188342,Urban Resident,59-69,False,False,Normal
+829117,Female,48.0,1.57,19.473406629072173,Urban Resident,79-89,False,False,Normal
+764976,Male,60.0,1.6,23.437499999999996,Others,69-79,False,False,Normal
+821768,Male,115.0,1.75,37.55102040816327,Urban Resident,59-69,False,False,Obese
+790988,Female,42.0,1.5,18.666666666666668,Urban Resident,69-79,False,False,Normal
+866871,Male,49.0,1.64,18.218322427126715,Urban Resident,59-69,False,False,Underweight
+866135,Female,49.0,1.5,21.77777777777778,Worker,79-89,False,False,Normal
+789715,Female,75.0,1.6,29.296874999999993,Urban Resident,79-89,False,False,Overweight
+846474,Female,49.0,1.5,21.77777777777778,Urban Resident,79-89,False,False,Normal
+785559,Female,52.0,1.54,21.926125822229718,Urban Resident,79-89,False,False,Normal
+807673,Female,55.0,1.5,24.444444444444443,Urban Resident,79-89,False,False,Normal
+807955,Male,50.0,1.55,20.811654526534856,Farmer,59-69,False,False,Normal
+736141,Female,30.0,1.42,14.878000396746678,Others,79-89,False,False,Underweight
+749668,Female,45.5,1.5,20.22222222222222,Urban Resident,69-79,False,False,Normal
+792583,Male,55.0,1.63,20.70081674131507,Urban Resident,59-69,False,False,Normal
+777970,Female,52.0,1.6,20.312499999999996,Farmer,69-79,False,False,Normal
+803592,Male,65.0,1.64,24.167162403331353,Farmer,69-79,False,False,Normal
+730900,Female,50.0,1.54,21.0828132906055,Urban Resident,69-79,False,False,Normal
+810161,Female,63.0,1.55,26.22268470343392,Urban Resident,79-89,False,False,Overweight
+783629,Female,58.5,1.49,26.350164407008695,Urban Resident,69-79,False,False,Overweight
+801945,Male,60.0,1.68,21.258503401360546,Urban Resident,79-89,False,False,Normal
+844423,Male,47.5,1.53,20.291340937246357,Urban Resident,59-69,False,False,Normal
+732424,Male,80.0,1.7,27.68166089965398,Urban Resident,69-79,False,False,Overweight
+803906,Male,95.0,1.72,32.11195240670633,Urban Resident,49-59,False,False,Obese
+744706,Male,60.0,1.6,23.437499999999996,Others,79-89,False,False,Normal
+736288,Female,42.0,1.48,19.174579985390796,Farmer,59-69,False,False,Normal
+777858,Female,48.0,1.58,19.227687870533565,Urban Resident,79-89,False,False,Normal
+826079,Male,55.0,1.6,21.484374999999996,Urban Resident,59-69,False,False,Normal
+829569,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+760408,Female,55.0,1.6,21.484374999999996,Others,79-89,False,False,Normal
+770270,Female,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+732792,Female,40.0,1.48,18.261504747991236,Farmer,89-110,False,False,Underweight
+769922,Male,52.0,1.58,20.82999519307803,Urban Resident,59-69,False,False,Normal
+780166,Female,61.0,1.53,26.05835362467427,Urban Resident,69-79,False,False,Overweight
+868892,Female,49.0,1.62,18.670934308794386,Urban Resident,79-89,False,False,Normal
+789038,Female,50.0,1.55,20.811654526534856,Urban Resident,59-69,False,False,Normal
+807688,Female,55.0,1.6,21.484374999999996,Urban Resident,49-59,False,False,Normal
+830727,Female,50.0,1.55,20.811654526534856,Urban Resident,79-89,False,False,Normal
+757677,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+849063,Female,53.0,1.2,36.80555555555556,Urban Resident,79-89,False,False,Obese
+755796,Female,68.0,1.51,29.823253366080436,Urban Resident,49-59,False,False,Overweight
+813847,Female,38.0,1.56,15.61472715318869,Urban Resident,39-49,False,False,Underweight
+827471,Female,40.0,1.42,19.837333862328904,Urban Resident,69-79,False,False,Normal
+799515,Female,35.0,1.55,14.5681581685744,Urban Resident,79-89,False,False,Underweight
+730098,Male,65.0,1.6,25.390624999999996,Urban Resident,89-110,False,False,Overweight
+856734,Female,49.5,1.58,19.82855311648774,Urban Resident,59-69,False,False,Normal
+829501,Female,50.0,1.46,23.45655845374367,Urban Resident,69-79,False,False,Normal
+854012,Female,48.5,1.55,20.18730489073881,Urban Resident,49-59,False,False,Normal
+848740,Female,49.0,1.5,21.77777777777778,Urban Resident,79-89,False,False,Normal
+800659,Male,48.0,1.56,19.72386587771203,Urban Resident,69-79,False,False,Normal
+850250,Female,48.0,1.55,19.979188345473464,Urban Resident,79-89,False,False,Normal
+735835,Female,43.0,1.5,19.11111111111111,Urban Resident,79-89,False,False,Normal
+743698,Female,54.0,1.5,24.0,Urban Resident,29-39,False,False,Normal
+793593,Male,60.0,1.65,22.03856749311295,Farmer,69-79,False,False,Normal
+795921,Female,49.5,1.56,20.34023668639053,Urban Resident,69-79,False,False,Normal
+788539,Female,55.0,1.55,22.892819979188342,Urban Resident,69-79,False,False,Normal
+731442,Female,38.0,1.5,16.88888888888889,Urban Resident,69-79,False,False,Underweight
+821560,Male,75.0,1.66,27.21730294672667,Urban Resident,69-79,False,False,Overweight
+745451,Male,68.0,1.6,26.562499999999996,Urban Resident,69-79,False,False,Overweight
+802322,Male,55.0,1.68,19.48696145124717,Urban Resident,59-69,False,False,Normal
+785960,Female,35.0,1.4,17.85714285714286,Urban Resident,69-79,False,False,Underweight
+785196,Female,45.0,1.48,20.54419284149014,Urban Resident,69-79,False,False,Normal
+860367,Female,47.0,1.54,19.81784449316917,Urban Resident,79-89,False,False,Normal
+779485,Male,84.0,1.66,30.48337930033387,Urban Resident,59-69,False,False,Obese
+738528,Male,40.0,1.55,16.649323621227886,Urban Resident,69-79,False,False,Underweight
+807242,Female,51.0,1.4,26.02040816326531,Urban Resident,79-89,False,False,Overweight
+779971,Female,45.0,1.53,19.223375624759708,Urban Resident,69-79,False,False,Normal
+863081,Male,48.0,1.53,20.504933999743688,Urban Resident,89-110,False,False,Normal
+792496,Male,55.0,1.7,19.031141868512112,Urban Resident,59-69,False,False,Normal
+729795,Female,75.0,1.55,31.217481789802285,Urban Resident,69-79,False,False,Obese
+727788,Female,68.0,1.65,24.977043158861342,Farmer,69-79,False,False,Overweight
+757564,Male,64.0,1.64,23.795359904818564,Urban Resident,79-89,False,False,Normal
+797195,Female,42.0,1.55,17.48178980228928,Urban Resident,69-79,False,False,Underweight
+737433,Female,40.0,1.55,16.649323621227886,Urban Resident,69-79,False,False,Underweight
+799154,Female,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+729143,Male,60.0,1.62,22.86236854138088,Farmer,79-89,False,False,Normal
+846200,Female,49.0,1.47,22.67573696145125,Others,69-79,False,False,Normal
+804126,Female,60.0,1.56,24.654832347140037,Urban Resident,59-69,False,False,Normal
+742069,Female,45.0,1.49,20.269357236160534,Urban Resident,59-69,False,False,Normal
+784311,Male,59.0,1.58,23.634033007530842,Urban Resident,89-110,False,False,Normal
+832900,Male,48.0,1.72,16.224986479177936,Urban Resident,89-110,False,False,Underweight
+792318,Male,75.0,1.7,25.95155709342561,Urban Resident,69-79,False,False,Overweight
+826375,Female,38.0,1.46,17.82698442484519,Urban Resident,69-79,False,False,Underweight
+832535,Male,55.0,1.65,20.202020202020204,Urban Resident,69-79,False,False,Normal
+812145,Female,50.0,1.55,20.811654526534856,Urban Resident,69-79,False,False,Normal
+741143,Male,55.0,1.6,21.484374999999996,Urban Resident,69-79,False,False,Normal
+757738,Female,40.0,1.51,17.543090215341433,Urban Resident,69-79,False,False,Underweight
+828959,Male,65.0,1.65,23.875114784205696,Urban Resident,69-79,False,False,Normal
+773077,Female,50.0,1.62,19.05197378448407,Urban Resident,59-69,False,False,Normal
+754231,Female,60.0,1.56,24.654832347140037,Urban Resident,69-79,False,False,Normal
+729580,Male,54.0,1.59,21.359914560341757,Urban Resident,69-79,False,False,Normal
+867235,Male,49.5,1.68,17.53826530612245,Others,79-89,False,False,Underweight
+859666,Female,47.0,1.4,23.9795918367347,Urban Resident,79-89,False,False,Normal
+831625,Female,65.0,1.55,27.055150884495315,Urban Resident,89-110,False,False,Overweight
+787814,Female,40.0,1.56,16.43655489809336,Urban Resident,39-49,False,False,Underweight
+854580,Male,47.5,1.58,19.02739945521551,Urban Resident,69-79,False,False,Normal
+802304,Female,60.0,1.56,24.654832347140037,Farmer,69-79,False,False,Normal
+803770,Female,44.0,1.55,18.314255983350673,Urban Resident,79-89,False,False,Underweight
+739573,Female,42.0,1.5,18.666666666666668,Farmer,79-89,False,False,Normal
+771080,Female,50.0,1.58,20.028841531805796,Urban Resident,59-69,False,False,Normal
+820734,Male,70.0,1.7,24.221453287197235,Unspecified,49-59,False,False,Normal
+865819,Male,49.0,1.7,16.955017301038065,Urban Resident,49-59,False,False,Underweight
+744693,Male,52.0,1.69,18.20664542558034,Urban Resident,79-89,False,False,Underweight
+833791,Female,35.0,1.45,16.646848989298455,Urban Resident,79-89,False,False,Underweight
+821499,Male,70.0,1.7,24.221453287197235,Urban Resident,49-59,False,False,Normal
+851671,Female,46.0,1.43,22.494987529952567,Urban Resident,59-69,False,False,Normal
+761974,Male,62.0,1.65,22.77318640955005,Urban Resident,59-69,False,False,Normal
+796945,Female,36.0,1.4,18.367346938775512,Urban Resident,89-110,False,False,Underweight
+778912,Female,55.0,1.6,21.484374999999996,Urban Resident,69-79,False,False,Normal
+799371,Female,45.0,1.55,18.730489073881373,Urban Resident,79-89,False,False,Normal
+814558,Male,55.0,1.75,17.959183673469386,Unspecified,59-69,False,False,Underweight
+819165,Male,55.0,1.75,17.959183673469386,Unspecified,59-69,False,False,Underweight
+827204,Male,55.0,1.75,17.959183673469386,Unspecified,59-69,False,False,Underweight
+851326,Male,49.0,1.75,16.0,Urban Resident,59-69,False,False,Underweight
+725910,Female,50.0,1.58,20.028841531805796,Urban Resident,69-79,False,False,Normal
+748443,Female,39.0,1.5,17.333333333333332,Urban Resident,79-89,False,False,Underweight
+795954,Female,59.5,1.53,25.41757443718228,Urban Resident,79-89,False,False,Overweight
+853683,Female,48.5,1.45,23.067776456599287,Urban Resident,79-89,False,False,Normal
+801592,Female,45.0,1.5,20.0,Urban Resident,79-89,False,False,Normal
+853453,Female,47.5,1.5,21.11111111111111,Urban Resident,69-79,False,False,Normal
+831234,Male,50.0,1.6,19.531249999999996,Urban Resident,69-79,False,False,Normal
+856881,Female,49.0,1.5,21.77777777777778,Urban Resident,69-79,False,False,Normal
+865886,Female,49.0,1.48,22.37034331628926,Urban Resident,69-79,False,False,Normal
+809342,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+832341,Female,55.0,1.45,26.159334126040427,Urban Resident,69-79,False,False,Overweight
+746487,Female,45.0,1.5,20.0,Farmer,69-79,False,False,Normal
+775628,Male,77.0,1.68,27.281746031746035,Urban Resident,79-89,False,False,Overweight
+784970,Female,41.0,1.5,18.22222222222222,Urban Resident,59-69,False,False,Underweight
+863059,Female,49.5,1.5,22.0,Farmer,69-79,False,False,Normal
+825989,Female,65.0,1.6,25.390624999999996,Urban Resident,69-79,False,False,Overweight
+852273,Female,46.0,1.55,19.14672216441207,Urban Resident,59-69,False,False,Normal
+837061,Female,48.5,1.45,23.067776456599287,Urban Resident,79-89,False,False,Normal
+864183,Female,47.0,1.55,19.562955254942764,Urban Resident,59-69,False,False,Normal
+821846,Male,53.0,1.6,20.703124999999996,Urban Resident,69-79,False,False,Normal
+789866,Male,50.0,1.7,17.301038062283737,Urban Resident,59-69,False,False,Underweight
+739187,Female,60.0,1.48,27.39225712198685,Urban Resident,69-79,False,False,Overweight
+726943,Female,45.0,1.55,18.730489073881373,Farmer,69-79,False,False,Normal
+740494,Male,62.5,1.72,21.12628447809627,Urban Resident,79-89,False,False,Normal
+816440,Female,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+803641,Female,78.0,1.6,30.468749999999993,Urban Resident,49-59,False,False,Obese
+765343,Male,45.0,1.65,16.528925619834713,Others,79-89,False,False,Underweight
+836826,Male,55.0,1.7,19.031141868512112,Farmer,69-79,False,False,Normal
+836569,Female,35.0,1.5,15.555555555555555,Urban Resident,49-59,False,False,Underweight
+779848,Female,36.0,1.45,17.122473246135552,Urban Resident,69-79,False,False,Underweight
+761822,Male,74.0,1.7,25.605536332179934,Urban Resident,79-89,False,False,Overweight
+778958,Male,50.0,1.62,19.05197378448407,Urban Resident,69-79,False,False,Normal
+833857,Female,42.0,1.5,18.666666666666668,Urban Resident,89-110,False,False,Normal
+824564,Male,70.0,1.65,25.71166207529844,Urban Resident,49-59,False,False,Overweight
+812653,Male,55.0,1.7,19.031141868512112,Urban Resident,59-69,False,False,Normal
+814415,Male,48.0,1.65,17.63085399449036,Urban Resident,89-110,False,False,Underweight
+860246,Female,47.5,1.5,21.11111111111111,Urban Resident,59-69,False,False,Normal
+827193,Male,60.0,1.5,26.666666666666668,Urban Resident,59-69,False,False,Overweight
+800421,Male,55.0,1.6,21.484374999999996,Urban Resident,79-89,False,False,Normal
+799605,Female,65.0,1.56,26.709401709401707,Urban Resident,69-79,False,False,Overweight
+786783,Female,53.0,1.5,23.555555555555557,Urban Resident,89-110,False,False,Normal
+770137,Female,40.0,1.6,15.624999999999996,Farmer,69-79,False,False,Underweight
+726418,Male,80.0,1.7,27.68166089965398,Urban Resident,69-79,False,False,Overweight
+838794,Female,49.0,1.6,19.140624999999996,Urban Resident,59-69,False,False,Normal
+740278,Female,55.0,1.56,22.600262984878366,Urban Resident,59-69,False,False,Normal
+760934,Male,59.0,1.6,23.046874999999996,Urban Resident,69-79,False,False,Normal
+745986,Female,50.0,1.5,22.22222222222222,Farmer,69-79,False,False,Normal
+804262,Male,40.0,1.65,14.692378328741967,Urban Resident,69-79,False,False,Underweight
+768627,Male,65.0,1.65,23.875114784205696,Urban Resident,59-69,False,False,Normal
+806025,Male,42.0,1.52,18.178670360110804,Urban Resident,69-79,False,False,Underweight
+826708,Female,45.0,1.55,18.730489073881373,Urban Resident,69-79,False,False,Normal
+831436,Male,50.0,1.55,20.811654526534856,Urban Resident,79-89,False,False,Normal
+780313,Female,36.0,1.5,16.0,Urban Resident,69-79,False,False,Underweight
+734408,Female,42.0,1.5,18.666666666666668,Urban Resident,79-89,False,False,Normal
+745004,Male,56.0,1.6,21.874999999999996,Farmer,79-89,False,False,Normal
+780212,Male,60.0,1.65,22.03856749311295,Urban Resident,69-79,False,False,Normal
+731472,Female,45.0,1.58,18.02595737862522,Urban Resident,79-89,False,False,Underweight
+801575,Female,50.0,1.56,20.5456936226167,Urban Resident,79-89,False,False,Normal
+807994,Male,65.0,1.67,23.306680053067517,Urban Resident,79-89,False,False,Normal
+857036,Female,47.5,1.56,19.518408941485863,Urban Resident,79-89,False,False,Normal
+817601,Male,70.0,1.65,25.71166207529844,Urban Resident,59-69,False,False,Overweight
+780543,Female,42.0,1.56,17.258382642998026,Urban Resident,69-79,False,False,Underweight
+835198,Male,41.0,1.72,13.858842617631153,Urban Resident,69-79,False,False,Underweight
+857705,Male,47.5,1.7,16.435986159169552,Urban Resident,69-79,False,False,Underweight
+833118,Female,44.0,1.58,17.625380547989103,Urban Resident,59-69,False,False,Underweight
+812256,Male,55.0,1.65,20.202020202020204,Urban Resident,79-89,False,False,Normal
+796478,Male,80.0,1.6,31.249999999999993,Urban Resident,39-49,False,False,Obese
+761934,Female,40.0,1.58,16.023073225444637,Urban Resident,79-89,False,False,Underweight
+809338,Male,50.0,1.68,17.71541950113379,Urban Resident,79-89,False,False,Underweight
+835988,Female,48.5,1.53,20.71852706224102,Farmer,49-59,False,False,Normal
+780982,Female,48.0,1.55,19.979188345473464,Urban Resident,69-79,False,False,Normal
+841896,Male,48.5,1.65,17.814508723599634,Urban Resident,49-59,False,False,Underweight
+800427,Female,42.0,1.55,17.48178980228928,Urban Resident,79-89,False,False,Underweight
+773028,Male,71.0,1.71,24.280975342840534,Urban Resident,49-59,False,False,Normal
+798882,Female,45.0,1.45,21.40309155766944,Urban Resident,79-89,False,False,Normal
+801519,Female,41.0,1.45,19.500594530321045,Urban Resident,79-89,False,False,Normal
+832681,Male,50.0,1.55,20.811654526534856,Unspecified,69-79,False,False,Normal
+817920,Male,51.0,1.55,21.227887617065555,Unspecified,69-79,False,False,Normal
+803405,Male,50.0,1.7,17.301038062283737,Urban Resident,59-69,False,False,Underweight
+761989,Female,45.0,1.52,19.47714681440443,Urban Resident,79-89,False,False,Normal
+785957,Female,50.0,1.5,22.22222222222222,Urban Resident,89-110,False,False,Normal
+789354,Female,42.0,1.5,18.666666666666668,Urban Resident,79-89,False,False,Normal
+805555,Female,46.0,1.46,21.580033777444175,Urban Resident,59-69,False,False,Normal
+800700,Male,45.0,1.55,18.730489073881373,Urban Resident,89-110,False,False,Normal
+734273,Female,42.0,1.55,17.48178980228928,Urban Resident,49-59,False,False,Underweight
+834979,Female,44.0,1.55,18.314255983350673,Urban Resident,59-69,False,False,Underweight
+833694,Male,40.0,1.55,16.649323621227886,Urban Resident,89-110,False,False,Underweight
+758866,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+803219,Male,60.0,1.7,20.761245674740486,Urban Resident,79-89,False,False,Normal
+859969,Female,49.0,1.43,23.96205193407991,Urban Resident,39-49,False,False,Normal
+752305,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+830832,Female,47.0,1.5,20.88888888888889,Urban Resident,79-89,False,False,Normal
+774448,Female,45.0,1.6,17.578124999999996,Urban Resident,69-79,False,False,Underweight
+812856,Female,60.0,1.48,27.39225712198685,Urban Resident,69-79,False,False,Overweight
+830009,Male,55.0,1.58,22.031725684986377,Urban Resident,79-89,False,False,Normal
+739403,Female,46.0,1.55,19.14672216441207,Urban Resident,39-49,False,False,Normal
+739415,Female,50.0,1.56,20.5456936226167,Urban Resident,79-89,False,False,Normal
+777533,Male,45.0,1.65,16.528925619834713,Urban Resident,69-79,False,False,Underweight
+837966,Female,49.0,1.5,21.77777777777778,Urban Resident,69-79,False,False,Normal
+825231,Female,45.0,1.38,23.629489603024577,Urban Resident,79-89,False,False,Normal
+832154,Male,55.0,1.65,20.202020202020204,Urban Resident,59-69,False,False,Normal
+765396,Female,60.0,1.56,24.654832347140037,Urban Resident,79-89,False,False,Normal
+869243,Female,48.5,1.45,23.067776456599287,Urban Resident,79-89,False,False,Normal
+773313,Male,58.0,1.68,20.549886621315196,Urban Resident,79-89,False,False,Normal
+814048,Male,59.0,1.6,23.046874999999996,Urban Resident,59-69,False,False,Normal
+827372,Female,50.0,1.5,22.22222222222222,Urban Resident,79-89,False,False,Normal
+833271,Female,48.0,1.55,19.979188345473464,Urban Resident,59-69,False,False,Normal
+794476,Female,45.0,1.42,22.317000595120017,Others,79-89,False,False,Normal
+764959,Male,52.0,1.64,19.333729922665082,Urban Resident,69-79,False,False,Normal
+802586,Female,45.0,1.52,19.47714681440443,Farmer,79-89,False,False,Normal
+778820,Female,45.0,1.64,16.731112433075552,Urban Resident,69-79,False,False,Underweight
+772987,Female,46.5,1.58,18.62682262457939,Urban Resident,21-29,False,False,Normal
+741318,Male,60.0,1.6,23.437499999999996,Farmer,69-79,False,False,Normal
+774652,Male,60.0,1.6,23.437499999999996,Urban Resident,79-89,False,False,Normal
+739173,Female,52.0,1.52,22.506925207756233,Others,49-59,False,False,Normal
+828945,Male,60.0,1.7,20.761245674740486,Urban Resident,79-89,False,False,Normal
+861489,Female,49.0,1.5,21.77777777777778,Urban Resident,39-49,False,False,Normal
+798994,Male,52.0,1.56,21.367521367521366,Urban Resident,69-79,False,False,Normal
+776879,Female,32.0,1.55,13.319458896982308,Farmer,59-69,False,False,Underweight
+744531,Male,50.0,1.64,18.590124925639504,Urban Resident,69-79,False,False,Normal
+756843,Female,45.0,1.53,19.223375624759708,Farmer,49-59,False,False,Normal
+746519,Female,55.0,1.58,22.031725684986377,Urban Resident,69-79,False,False,Normal
+757288,Male,70.0,1.6,27.343749999999996,Urban Resident,69-79,False,False,Overweight
+770406,Female,40.0,1.53,17.087444999786406,Urban Resident,69-79,False,False,Underweight
+780247,Female,65.0,1.68,23.030045351473927,Urban Resident,69-79,False,False,Normal
+743278,Male,43.0,1.5,19.11111111111111,Urban Resident,59-69,False,False,Normal
+816228,Female,49.5,1.6,19.335937499999996,Farmer,69-79,False,False,Normal
+844736,Male,60.0,1.59,23.73323840037973,Urban Resident,49-59,False,False,Normal
+814966,Male,48.0,1.62,18.289894833104707,Urban Resident,69-79,False,False,Underweight
+863281,Male,60.0,1.56,24.654832347140037,Urban Resident,69-79,False,False,Normal
+775639,Female,42.0,1.44,20.25462962962963,Urban Resident,69-79,False,False,Normal
+791017,Female,48.5,1.5,21.555555555555557,Urban Resident,69-79,False,False,Normal
+840567,Male,48.5,1.6,18.945312499999996,Farmer,59-69,False,False,Normal
+838987,Female,49.0,1.58,19.62826470116968,Urban Resident,59-69,False,False,Normal
+851611,Male,57.0,1.4,29.081632653061227,Urban Resident,69-79,False,False,Overweight
+810379,Female,46.5,1.55,19.354838709677416,Urban Resident,59-69,False,False,Normal
+756619,Female,65.0,1.55,27.055150884495315,Farmer,69-79,False,False,Overweight
+793811,Female,40.0,1.4,20.408163265306126,Urban Resident,59-69,False,False,Normal
+786568,Female,55.0,1.5,24.444444444444443,Others,89-110,False,False,Normal
+789255,Female,51.0,1.5,22.666666666666668,Urban Resident,79-89,False,False,Normal
+801011,Female,65.0,1.7,22.49134948096886,Urban Resident,59-69,False,False,Normal
+753262,Male,49.0,1.66,17.78197125852809,Urban Resident,69-79,False,False,Underweight
+787809,Male,48.5,1.5,21.555555555555557,Urban Resident,69-79,False,False,Normal
+840550,Female,46.0,1.55,19.14672216441207,Urban Resident,79-89,False,False,Normal
+797666,Female,40.0,1.5,17.77777777777778,Urban Resident,59-69,False,False,Underweight
+736827,Female,60.0,1.5,26.666666666666668,Urban Resident,69-79,False,False,Overweight
+732244,Female,48.0,1.58,19.227687870533565,Urban Resident,79-89,False,False,Normal
+746375,Male,60.0,1.5,26.666666666666668,Urban Resident,69-79,False,False,Overweight
+813275,Female,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+799530,Female,55.0,1.5,24.444444444444443,Urban Resident,59-69,False,False,Normal
+732216,Female,60.0,1.6,23.437499999999996,Urban Resident,49-59,False,False,Normal
+766536,Male,34.0,1.45,16.171224732461354,Urban Resident,69-79,False,False,Underweight
+817905,Female,47.5,1.5,21.11111111111111,Farmer,79-89,False,False,Normal
+841263,Female,46.0,1.6,17.968749999999996,Urban Resident,69-79,False,False,Underweight
+724385,Male,49.0,1.56,20.134779750164363,Urban Resident,69-79,False,False,Normal
+839952,Female,70.0,1.7,24.221453287197235,Urban Resident,59-69,False,False,Normal
+738153,Male,53.0,1.62,20.195092211553114,Others,49-59,False,False,Normal
+816185,Male,45.0,1.5,20.0,Urban Resident,79-89,False,False,Normal
+751256,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+823223,Female,47.5,1.5,21.11111111111111,Urban Resident,49-59,False,False,Normal
+865742,Female,43.0,1.48,19.631117604090576,Urban Resident,69-79,False,False,Normal
+827576,Female,48.5,1.68,17.183956916099778,Urban Resident,69-79,False,False,Underweight
+847584,Male,40.0,1.45,19.024970273483948,Urban Resident,69-79,False,False,Normal
+794681,Female,49.0,1.6,19.140624999999996,Urban Resident,59-69,False,False,Normal
+836877,Female,50.0,1.65,18.36547291092746,Urban Resident,79-89,False,False,Underweight
+828678,Male,62.0,1.6,24.218749999999996,Unspecified,69-79,False,False,Normal
+796480,Male,60.0,1.65,22.03856749311295,Farmer,69-79,False,False,Normal
+817591,Male,70.0,1.68,24.801587301587304,Urban Resident,69-79,False,False,Normal
+771460,Male,49.0,1.54,20.66115702479339,Urban Resident,59-69,False,False,Normal
+869267,Female,43.0,1.55,17.898022892819977,Others,69-79,False,False,Underweight
+795781,Female,49.0,1.55,20.39542143600416,Urban Resident,59-69,False,False,Normal
+811783,Female,58.0,1.54,24.456063417102378,Urban Resident,79-89,False,False,Normal
+788528,Female,49.0,1.7,16.955017301038065,Farmer,59-69,False,False,Underweight
+861125,Male,40.0,1.45,19.024970273483948,Urban Resident,59-69,False,False,Normal
+818003,Male,60.0,1.6,23.437499999999996,Urban Resident,79-89,False,False,Normal
+725815,Female,52.0,1.62,19.81405273586343,Urban Resident,59-69,False,False,Normal
+817964,Male,47.5,1.55,19.771071800208116,Urban Resident,79-89,False,False,Normal
+846158,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+794740,Female,55.0,1.57,22.313278429145196,Urban Resident,69-79,False,False,Normal
+748025,Female,44.0,1.55,18.314255983350673,Urban Resident,49-59,False,False,Underweight
+788372,Female,45.0,1.5,20.0,Urban Resident,59-69,False,False,Normal
+810604,Female,50.0,1.55,20.811654526534856,Unspecified,89-110,False,False,Normal
+777934,Male,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+831603,Female,70.0,1.45,33.29369797859691,Urban Resident,89-110,False,False,Obese
+816358,Female,49.0,1.5,21.77777777777778,Urban Resident,69-79,False,False,Normal
+735414,Female,55.0,1.6,21.484374999999996,Urban Resident,79-89,False,False,Normal
+798220,Female,60.0,1.58,24.034609838166958,Urban Resident,69-79,False,False,Normal
+829332,Female,40.0,1.55,16.649323621227886,Urban Resident,79-89,False,False,Underweight
+749038,Female,47.5,1.48,21.685536888239593,Others,79-89,False,False,Normal
+863656,Female,51.0,1.5,22.666666666666668,Urban Resident,69-79,False,False,Normal
+834546,Female,40.0,1.5,17.77777777777778,Urban Resident,59-69,False,False,Underweight
+833216,Female,60.0,1.5,26.666666666666668,Urban Resident,79-89,False,False,Overweight
+799145,Female,35.0,1.5,15.555555555555555,Urban Resident,69-79,False,False,Underweight
+781648,Female,40.0,1.5,17.77777777777778,Urban Resident,49-59,False,False,Underweight
+773722,Male,60.0,1.68,21.258503401360546,Urban Resident,69-79,False,False,Normal
+829108,Male,45.0,1.58,18.02595737862522,Urban Resident,79-89,False,False,Underweight
+759672,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+809274,Female,48.0,1.5,21.333333333333332,Officer,59-69,False,False,Normal
+861450,Female,48.0,1.45,22.829964328180736,Urban Resident,79-89,False,False,Normal
+870258,Female,40.0,1.5,17.77777777777778,Urban Resident,89-110,False,False,Underweight
+744206,Female,60.0,1.71,20.519134092541297,Farmer,79-89,False,False,Normal
+779742,Male,56.0,1.57,22.7189744005842,Urban Resident,79-89,False,False,Normal
+778059,Female,45.0,1.58,18.02595737862522,Urban Resident,79-89,False,False,Underweight
+756420,Female,46.0,1.55,19.14672216441207,Farmer,69-79,False,False,Normal
+829366,Female,50.0,1.65,18.36547291092746,Farmer,69-79,False,False,Underweight
+767282,Male,50.0,1.45,23.781212841854934,Urban Resident,69-79,False,False,Normal
+807856,Female,47.0,1.7,16.262975778546714,Urban Resident,69-79,False,False,Underweight
+838577,Male,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+741476,Female,49.0,1.6,19.140624999999996,Urban Resident,79-89,False,False,Normal
+847021,Male,75.0,1.52,32.46191135734072,Farmer,29-39,False,False,Obese
+795289,Female,48.5,1.6,18.945312499999996,Urban Resident,79-89,False,False,Normal
+859121,Male,60.0,1.62,22.86236854138088,Urban Resident,79-89,False,False,Normal
+769863,Male,45.0,1.53,19.223375624759708,Farmer,69-79,False,False,Normal
+786087,Female,48.0,1.52,20.775623268698062,Urban Resident,79-89,False,False,Normal
+850686,Female,64.0,1.75,20.897959183673468,Urban Resident,69-79,False,False,Normal
+781145,Male,49.0,1.5,21.77777777777778,Urban Resident,59-69,False,False,Normal
+849715,Female,60.0,1.55,24.97398543184183,Urban Resident,79-89,False,False,Overweight
+734101,Female,66.0,1.55,27.47138397502601,Urban Resident,59-69,False,False,Overweight
+831377,Male,40.0,1.6,15.624999999999996,Urban Resident,69-79,False,False,Underweight
+821445,Female,50.0,1.65,18.36547291092746,Urban Resident,59-69,False,False,Underweight
+822437,Female,50.0,1.46,23.45655845374367,Urban Resident,79-89,False,False,Normal
+789851,Female,60.0,1.6,23.437499999999996,Farmer,79-89,False,False,Normal
+787733,Male,65.0,1.65,23.875114784205696,Urban Resident,69-79,False,False,Normal
+785562,Male,48.0,1.6,18.749999999999996,Urban Resident,59-69,False,False,Normal
+848104,Female,40.0,1.5,17.77777777777778,Urban Resident,59-69,False,False,Underweight
+815191,Female,48.0,1.45,22.829964328180736,Urban Resident,79-89,False,False,Normal
+852141,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+772873,Female,40.0,1.4,20.408163265306126,Farmer,69-79,False,False,Normal
+834316,Female,45.0,1.53,19.223375624759708,Urban Resident,79-89,False,False,Normal
+820402,Female,51.0,1.52,22.07409972299169,Urban Resident,79-89,False,False,Normal
+802271,Female,65.0,1.4,33.163265306122454,Urban Resident,79-89,False,False,Obese
+759975,Female,45.0,1.64,16.731112433075552,Urban Resident,89-110,False,False,Underweight
+810319,Female,52.0,1.65,19.100091827364558,Urban Resident,69-79,False,False,Normal
+751016,Male,45.0,1.66,16.330381768036002,Urban Resident,79-89,False,False,Underweight
+810396,Male,65.0,1.58,26.037493991347535,Farmer,69-79,False,False,Overweight
+789308,Male,55.0,1.65,20.202020202020204,Urban Resident,69-79,False,False,Normal
+799954,Male,49.0,1.65,17.99816345270891,Urban Resident,39-49,False,False,Underweight
+859690,Male,47.5,1.7,16.435986159169552,Urban Resident,69-79,False,False,Underweight
+839946,Male,73.0,1.6,28.515624999999993,Urban Resident,69-79,False,False,Overweight
+743801,Male,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+729846,Female,48.0,1.65,17.63085399449036,Farmer,79-89,False,False,Underweight
+848476,Male,45.0,1.5,20.0,Urban Resident,59-69,False,False,Normal
+827580,Female,45.0,1.65,16.528925619834713,Urban Resident,79-89,False,False,Underweight
+737926,Male,53.0,1.58,21.230572023714146,Urban Resident,69-79,False,False,Normal
+742142,Female,51.0,1.52,22.07409972299169,Farmer,79-89,False,False,Normal
+740128,Female,52.0,1.68,18.42403628117914,Urban Resident,59-69,False,False,Underweight
+775739,Male,47.5,1.56,19.518408941485863,Urban Resident,79-89,False,False,Normal
+865107,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+805093,Male,44.0,1.5,19.555555555555557,Urban Resident,39-49,False,False,Normal
+741530,Female,50.0,1.58,20.028841531805796,Urban Resident,79-89,False,False,Normal
+736558,Female,54.0,1.46,25.333083130043164,Farmer,79-89,False,False,Overweight
+771678,Female,32.0,1.38,16.803192606595257,Urban Resident,69-79,False,False,Underweight
+794598,Female,60.0,1.55,24.97398543184183,Urban Resident,49-59,False,False,Overweight
+738255,Female,47.0,1.5,20.88888888888889,Urban Resident,49-59,False,False,Normal
+836224,Female,55.0,1.6,21.484374999999996,Urban Resident,79-89,False,False,Normal
+798060,Female,37.0,1.4,18.877551020408166,Urban Resident,49-59,False,False,Normal
+752220,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+739624,Female,65.0,1.53,27.76709812465291,Urban Resident,69-79,False,False,Overweight
+770551,Female,48.0,1.48,21.91380569758948,Urban Resident,69-79,False,False,Normal
+849079,Female,58.0,1.72,19.60519199567334,Urban Resident,79-89,False,False,Normal
+785102,Male,55.0,1.6,21.484374999999996,Urban Resident,59-69,False,False,Normal
+764564,Male,42.0,1.4,21.42857142857143,Urban Resident,59-69,False,False,Normal
+858961,Female,67.0,1.72,22.647376960519203,Urban Resident,79-89,False,False,Normal
+743496,Male,35.0,1.55,14.5681581685744,Worker,29-39,False,False,Underweight
+834253,Female,34.0,1.5,15.11111111111111,Urban Resident,79-89,False,False,Underweight
+805612,Female,52.0,1.52,22.506925207756233,Farmer,59-69,False,False,Normal
+808130,Female,62.0,1.6,24.218749999999996,Urban Resident,69-79,False,False,Normal
+764036,Female,44.5,1.5,19.77777777777778,Others,59-69,False,False,Normal
+836371,Male,65.0,1.72,21.971335857220122,Urban Resident,39-49,False,False,Normal
+797995,Male,62.0,1.69,21.707923392038097,Urban Resident,79-89,False,False,Normal
+745442,Male,65.0,1.67,23.306680053067517,Urban Resident,29-39,False,False,Normal
+793609,Male,50.0,1.57,20.28479857195018,Urban Resident,49-59,False,False,Normal
+767664,Female,55.0,1.5,24.444444444444443,Urban Resident,69-79,False,False,Normal
+787198,Female,60.0,1.62,22.86236854138088,Urban Resident,69-79,False,False,Normal
+737962,Female,50.0,1.7,17.301038062283737,Urban Resident,79-89,False,False,Underweight
+746707,Male,45.0,1.55,18.730489073881373,Others,59-69,False,False,Normal
+734474,Female,68.0,1.69,23.80869017191275,Farmer,69-79,False,False,Normal
+729460,Male,30.0,1.4,15.306122448979593,Farmer,39-49,False,False,Underweight
+824859,Female,50.0,1.7,17.301038062283737,Urban Resident,79-89,False,False,Underweight
+808133,Male,64.0,1.63,24.088223117166624,Urban Resident,69-79,False,False,Normal
+744582,Male,50.0,1.65,18.36547291092746,Urban Resident,59-69,False,False,Underweight
+799667,Male,50.0,1.65,18.36547291092746,Urban Resident,79-89,False,False,Underweight
+746599,Male,84.0,1.8,25.925925925925924,Urban Resident,79-89,False,False,Overweight
+865563,Female,44.0,1.48,20.08765522279036,Unspecified,69-79,False,False,Normal
+833670,Female,47.5,1.5,21.11111111111111,Urban Resident,69-79,False,False,Normal
+836855,Female,55.0,1.75,17.959183673469386,Urban Resident,69-79,False,False,Underweight
+795353,Male,60.0,1.65,22.03856749311295,Urban Resident,59-69,False,False,Normal
+757711,Male,65.0,1.55,27.055150884495315,Urban Resident,89-110,False,False,Overweight
+734813,Female,65.0,1.55,27.055150884495315,Urban Resident,69-79,False,False,Overweight
+824988,Female,58.0,1.64,21.564544913741823,Urban Resident,79-89,False,False,Normal
+762840,Male,49.0,1.5,21.77777777777778,Urban Resident,59-69,False,False,Normal
+839142,Female,49.0,1.58,19.62826470116968,Farmer,79-89,False,False,Normal
+763206,Male,48.0,1.6,18.749999999999996,Urban Resident,69-79,False,False,Normal
+799188,Male,60.0,1.59,23.73323840037973,Urban Resident,39-49,False,False,Normal
+863098,Female,38.0,1.54,16.02293810086018,Urban Resident,69-79,False,False,Underweight
+787694,Male,55.0,1.6,21.484374999999996,Farmer,59-69,False,False,Normal
+782694,Female,63.0,1.55,26.22268470343392,Urban Resident,69-79,False,False,Overweight
+739619,Female,49.0,1.55,20.39542143600416,Urban Resident,69-79,False,False,Normal
+842218,Female,45.0,1.54,18.974531961544947,Urban Resident,79-89,False,False,Normal
+759844,Female,62.0,1.54,26.14268848035082,Farmer,59-69,False,False,Overweight
+741054,Female,65.0,1.78,20.515086478979924,Others,59-69,False,False,Normal
+730284,Male,51.0,1.55,21.227887617065555,Urban Resident,79-89,False,False,Normal
+765627,Male,51.0,1.55,21.227887617065555,Urban Resident,79-89,False,False,Normal
+801003,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+753878,Female,60.0,1.52,25.969529085872576,Urban Resident,79-89,False,False,Overweight
+793558,Female,65.0,1.72,21.971335857220122,Urban Resident,69-79,False,False,Normal
+753613,Female,69.0,1.64,25.654372397382513,Farmer,59-69,False,False,Overweight
+762205,Male,45.0,1.65,16.528925619834713,Urban Resident,69-79,False,False,Underweight
+732084,Male,75.0,1.7,25.95155709342561,Urban Resident,79-89,False,False,Overweight
+812475,Male,52.0,1.56,21.367521367521366,Urban Resident,69-79,False,False,Normal
+758441,Male,52.0,1.56,21.367521367521366,Urban Resident,69-79,False,False,Normal
+729983,Female,49.0,1.7,16.955017301038065,Urban Resident,79-89,False,False,Underweight
+852088,Male,60.0,1.7,20.761245674740486,Urban Resident,49-59,False,False,Normal
+813438,Female,47.0,1.55,19.562955254942764,Others,69-79,False,False,Normal
+869958,Male,60.0,1.55,24.97398543184183,Urban Resident,79-89,False,False,Overweight
+819598,Female,80.0,1.68,28.344671201814062,Urban Resident,59-69,False,False,Overweight
+822113,Male,63.0,1.59,24.919900320398717,Urban Resident,69-79,False,False,Overweight
+773700,Male,55.0,1.6,21.484374999999996,Urban Resident,69-79,False,False,Normal
+820204,Female,48.0,1.66,17.419073885905068,Urban Resident,69-79,False,False,Underweight
+856493,Male,50.0,1.5,22.22222222222222,Urban Resident,69-79,False,False,Normal
+742126,Female,40.0,1.6,15.624999999999996,Others,59-69,False,False,Underweight
+825758,Female,60.0,1.7,20.761245674740486,Farmer,59-69,False,False,Normal
+791880,Male,60.0,1.55,24.97398543184183,Urban Resident,89-110,False,False,Overweight
+792613,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+807862,Male,49.0,1.6,19.140624999999996,Urban Resident,59-69,False,False,Normal
+860820,Male,54.0,1.64,20.077334919690664,Urban Resident,79-89,False,False,Normal
+752477,Male,62.0,1.62,23.624447492760247,Urban Resident,69-79,False,False,Normal
+735274,Male,70.0,1.7,24.221453287197235,Urban Resident,69-79,False,False,Normal
+810832,Male,72.0,1.55,29.968782518210194,Urban Resident,69-79,False,False,Obese
+751935,Female,72.0,1.5,32.0,Urban Resident,79-89,False,False,Obese
+749775,Female,60.0,1.58,24.034609838166958,Others,69-79,False,False,Normal
+742960,Male,70.0,1.56,28.763971071663377,Urban Resident,49-59,False,False,Overweight
+834911,Female,59.0,1.72,19.94321254732288,Urban Resident,59-69,False,False,Normal
+804069,Male,59.0,1.72,19.94321254732288,Urban Resident,79-89,False,False,Normal
+780515,Female,47.0,1.55,19.562955254942764,Urban Resident,69-79,False,False,Normal
+773799,Male,50.0,1.56,20.5456936226167,Urban Resident,79-89,False,False,Normal
+755233,Female,40.0,1.5,17.77777777777778,Urban Resident,59-69,False,False,Underweight
+828042,Male,51.0,1.65,18.73278236914601,Urban Resident,79-89,False,False,Normal
+794937,Female,48.0,1.56,19.72386587771203,Urban Resident,69-79,False,False,Normal
+842291,Female,49.0,1.69,17.15626203564301,Urban Resident,49-59,False,False,Underweight
+869705,Male,85.0,1.63,31.992171327486922,Urban Resident,49-59,False,False,Obese
+822488,Male,46.0,1.65,16.896235078053262,Urban Resident,59-69,False,False,Underweight
+835754,Male,47.5,1.55,19.771071800208116,Urban Resident,69-79,False,False,Normal
+867980,Female,60.0,1.55,24.97398543184183,Urban Resident,69-79,False,False,Overweight
+802445,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+805563,Female,47.0,1.53,20.07774787474903,Urban Resident,79-89,False,False,Normal
+865166,Female,58.0,1.6,22.656249999999996,Urban Resident,79-89,False,False,Normal
+794784,Male,49.5,1.65,18.181818181818183,Urban Resident,69-79,False,False,Underweight
+863148,Male,60.0,1.65,22.03856749311295,Urban Resident,59-69,False,False,Normal
+756417,Female,47.5,1.65,17.447199265381087,Urban Resident,79-89,False,False,Underweight
+866641,Male,54.0,1.5,24.0,Urban Resident,69-79,False,False,Normal
+758654,Female,60.0,1.65,22.03856749311295,Farmer,59-69,False,False,Normal
+740531,Male,65.0,1.7,22.49134948096886,Urban Resident,79-89,False,False,Normal
+820984,Male,45.0,1.58,18.02595737862522,Urban Resident,49-59,False,False,Underweight
+729910,Female,45.0,1.58,18.02595737862522,Farmer,69-79,False,False,Underweight
+795692,Female,44.0,1.49,19.818927075356967,Urban Resident,59-69,False,False,Normal
+796434,Female,67.0,1.55,27.887617065556707,Urban Resident,69-79,False,False,Overweight
+756563,Female,52.0,1.7,17.99307958477509,Urban Resident,79-89,False,False,Underweight
+806617,Male,60.0,1.6,23.437499999999996,Urban Resident,79-89,False,False,Normal
+817574,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+865713,Male,47.5,1.7,16.435986159169552,Others,79-89,False,False,Underweight
+782485,Male,65.0,1.68,23.030045351473927,Urban Resident,69-79,False,False,Normal
+861817,Female,48.5,1.55,20.18730489073881,Urban Resident,79-89,False,False,Normal
+815803,Female,50.0,1.55,20.811654526534856,Farmer,59-69,False,False,Normal
+756036,Female,59.0,1.57,23.93606231490121,Urban Resident,39-49,False,False,Normal
+856978,Male,48.5,1.56,19.929322813938196,Urban Resident,69-79,False,False,Normal
+748910,Male,65.0,1.66,23.588329220496444,Urban Resident,69-79,False,False,Normal
+837275,Male,70.0,1.73,23.38868655818771,Worker,29-39,False,False,Normal
+791517,Male,45.0,1.6,17.578124999999996,Urban Resident,39-49,False,False,Underweight
+856025,Female,47.5,1.5,21.11111111111111,Urban Resident,69-79,False,False,Normal
+825278,Female,50.0,1.46,23.45655845374367,Urban Resident,79-89,False,False,Normal
+795498,Female,45.0,1.45,21.40309155766944,Urban Resident,69-79,False,False,Normal
+863622,Male,48.0,1.7,16.60899653979239,Urban Resident,59-69,False,False,Underweight
+747510,Male,53.0,1.6,20.703124999999996,Others,69-79,False,False,Normal
+772260,Female,54.0,1.56,22.189349112426033,Urban Resident,69-79,False,False,Normal
+820920,Female,56.0,1.62,21.338210638622158,Urban Resident,79-89,False,False,Normal
+818858,Female,49.0,1.68,17.361111111111114,Farmer,79-89,False,False,Underweight
+770003,Male,48.0,1.53,20.504933999743688,Urban Resident,69-79,False,False,Normal
+798132,Male,55.0,1.68,19.48696145124717,Urban Resident,69-79,False,False,Normal
+816812,Female,58.0,1.54,24.456063417102378,Urban Resident,69-79,False,False,Normal
+852904,Female,47.0,1.56,19.312952005259696,Urban Resident,39-49,False,False,Normal
+820239,Male,50.0,1.7,17.301038062283737,Urban Resident,69-79,False,False,Underweight
+779519,Male,51.0,1.67,18.286779733945284,Urban Resident,39-49,False,False,Underweight
+773281,Female,45.0,1.45,21.40309155766944,Urban Resident,69-79,False,False,Normal
+815851,Male,51.0,1.58,20.429418362441915,Urban Resident,59-69,False,False,Normal
+797002,Male,55.0,1.65,20.202020202020204,Urban Resident,79-89,False,False,Normal
+798983,Female,45.0,1.5,20.0,Urban Resident,79-89,False,False,Normal
+768711,Female,40.0,1.55,16.649323621227886,Urban Resident,89-110,False,False,Underweight
+866473,Female,36.0,1.45,17.122473246135552,Urban Resident,69-79,False,False,Underweight
+825113,Female,55.0,1.6,21.484374999999996,Worker,69-79,False,False,Normal
+866474,Male,49.0,1.65,17.99816345270891,Urban Resident,49-59,False,False,Underweight
+866520,Female,40.0,1.53,17.087444999786406,Urban Resident,69-79,False,False,Underweight
+813173,Male,53.0,1.51,23.244594535327398,Worker,29-39,False,False,Normal
+789094,Female,45.0,1.5,20.0,Urban Resident,79-89,False,False,Normal
+804843,Female,54.0,1.65,19.834710743801654,Urban Resident,39-49,False,False,Normal
+850176,Female,43.0,1.5,19.11111111111111,Urban Resident,79-89,False,False,Normal
+798133,Female,60.0,1.47,27.76620852422602,Urban Resident,69-79,False,False,Overweight
+790929,Female,56.0,1.45,26.634958382877528,Others,59-69,False,False,Overweight
+865935,Female,55.0,1.48,25.10956902848795,Urban Resident,79-89,False,False,Overweight
+770792,Male,56.0,1.6,21.874999999999996,Urban Resident,79-89,False,False,Normal
+818938,Female,40.0,1.55,16.649323621227886,Urban Resident,79-89,False,False,Underweight
+752462,Female,43.0,1.53,18.369003374770386,Urban Resident,69-79,False,False,Underweight
+734672,Female,56.0,1.56,23.011176857330703,Others,69-79,False,False,Normal
+819977,Female,37.5,1.45,17.8359096313912,Urban Resident,79-89,False,False,Underweight
+752772,Female,55.0,1.55,22.892819979188342,Farmer,69-79,False,False,Normal
+828529,Female,55.0,1.75,17.959183673469386,Urban Resident,79-89,False,False,Underweight
+866294,Female,48.5,1.5,21.555555555555557,Urban Resident,59-69,False,False,Normal
+784516,Male,60.0,1.6,23.437499999999996,Farmer,69-79,False,False,Normal
+802046,Female,40.0,1.55,16.649323621227886,Urban Resident,69-79,False,False,Underweight
+793768,Female,55.0,1.6,21.484374999999996,Urban Resident,69-79,False,False,Normal
+867885,Male,48.0,1.68,17.006802721088437,Others,59-69,False,False,Underweight
+861979,Female,48.0,1.55,19.979188345473464,Urban Resident,69-79,False,False,Normal
+773604,Female,41.0,1.56,16.847468770545692,Urban Resident,79-89,False,False,Underweight
+811076,Male,45.0,1.68,15.94387755102041,Urban Resident,59-69,False,False,Underweight
+740062,Female,44.0,1.4,22.44897959183674,Farmer,79-89,False,False,Normal
+745777,Female,45.0,1.5,20.0,Others,79-89,False,False,Normal
+825298,Female,35.0,1.55,14.5681581685744,Urban Resident,69-79,False,False,Underweight
+770965,Male,60.0,1.7,20.761245674740486,Urban Resident,69-79,False,False,Normal
+869314,Female,49.0,1.5,21.77777777777778,Urban Resident,79-89,False,False,Normal
+789694,Male,50.0,1.6,19.531249999999996,Urban Resident,59-69,False,False,Normal
+762878,Female,68.0,1.55,28.303850156087407,Urban Resident,79-89,False,False,Overweight
+807402,Female,60.0,1.56,24.654832347140037,Urban Resident,69-79,False,False,Normal
+868748,Female,46.5,1.5,20.666666666666668,Urban Resident,79-89,False,False,Normal
+737842,Male,60.0,1.7,20.761245674740486,Urban Resident,79-89,False,False,Normal
+863168,Male,47.5,1.7,16.435986159169552,Urban Resident,89-110,False,False,Underweight
+766457,Female,50.0,1.65,18.36547291092746,Urban Resident,69-79,False,False,Underweight
+833068,Female,33.0,1.5,14.666666666666666,Urban Resident,49-59,False,False,Underweight
+864584,Male,49.0,1.63,18.442545824080696,Urban Resident,79-89,False,False,Underweight
+864040,Male,48.0,1.7,16.60899653979239,Urban Resident,59-69,False,False,Underweight
+782121,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+863233,Female,48.5,1.5,21.555555555555557,Urban Resident,59-69,False,False,Normal
+736222,Female,48.0,1.5,21.333333333333332,Others,79-89,False,False,Normal
+820579,Male,50.0,1.55,20.811654526534856,Farmer,59-69,False,False,Normal
+754836,Male,45.0,1.58,18.02595737862522,Farmer,79-89,False,False,Underweight
+802000,Female,62.0,1.5,27.555555555555557,Urban Resident,79-89,False,False,Overweight
+857381,Male,47.5,1.6,18.554687499999996,Urban Resident,79-89,False,False,Normal
+831344,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+780976,Female,48.0,1.42,23.804800634794685,Urban Resident,79-89,False,False,Normal
+795361,Male,77.5,1.58,31.044704374298984,Urban Resident,89-110,False,False,Obese
+860847,Female,48.5,1.5,21.555555555555557,Urban Resident,79-89,False,False,Normal
+856372,Female,48.0,1.5,21.333333333333332,Urban Resident,69-79,False,False,Normal
+752868,Female,64.0,1.58,25.63691716071142,Urban Resident,69-79,False,False,Overweight
+745198,Male,45.0,1.58,18.02595737862522,Urban Resident,69-79,False,False,Underweight
+749015,Female,40.0,1.55,16.649323621227886,Urban Resident,79-89,False,False,Underweight
+769791,Female,45.0,1.56,18.49112426035503,Urban Resident,69-79,False,False,Underweight
+831820,Female,49.0,1.6,19.140624999999996,Urban Resident,69-79,False,False,Normal
+816658,Female,69.0,1.45,32.81807372175981,Urban Resident,69-79,False,False,Obese
+800403,Female,60.0,1.52,25.969529085872576,Urban Resident,79-89,False,False,Overweight
+815415,Female,50.0,1.62,19.05197378448407,Urban Resident,59-69,False,False,Normal
+756179,Male,42.0,1.6,16.406249999999996,Farmer,69-79,False,False,Underweight
+798084,Female,33.0,1.45,15.695600475624257,Urban Resident,89-110,False,False,Underweight
+839579,Male,49.5,1.79,15.44895602509285,Urban Resident,69-79,False,False,Underweight
+833841,Male,60.0,1.65,22.03856749311295,Worker,69-79,False,False,Normal
+767532,Male,61.0,1.61,23.533042706685695,Urban Resident,69-79,False,False,Normal
+743033,Female,61.0,1.6,23.828124999999996,Urban Resident,89-110,False,False,Normal
+817918,Female,55.0,1.48,25.10956902848795,Urban Resident,79-89,False,False,Overweight
+810186,Male,60.0,1.63,22.582709172343712,Urban Resident,69-79,False,False,Normal
+726938,Female,40.0,1.57,16.227838857560144,Farmer,69-79,False,False,Underweight
+775387,Female,55.0,1.55,22.892819979188342,Urban Resident,59-69,False,False,Normal
+853406,Female,42.0,1.45,19.976218787158146,Urban Resident,79-89,False,False,Normal
+770777,Female,52.0,1.58,20.82999519307803,Farmer,79-89,False,False,Normal
+755943,Male,80.0,1.68,28.344671201814062,Urban Resident,79-89,False,False,Overweight
+736116,Female,70.0,1.52,30.297783933518005,Urban Resident,69-79,False,False,Obese
+787836,Male,75.0,1.7,25.95155709342561,Urban Resident,39-49,False,False,Overweight
+800457,Female,55.0,1.5,24.444444444444443,Urban Resident,59-69,False,False,Normal
+822524,Male,44.0,1.64,16.359309934562763,Urban Resident,59-69,False,False,Underweight
+766692,Female,35.0,1.5,15.555555555555555,Urban Resident,59-69,False,False,Underweight
+851858,Female,49.0,1.58,19.62826470116968,Urban Resident,59-69,False,False,Normal
+823038,Female,60.0,1.56,24.654832347140037,Urban Resident,69-79,False,False,Normal
+862739,Male,47.0,1.72,15.886965927528395,Urban Resident,69-79,False,False,Underweight
+812102,Female,43.0,1.45,20.451843043995243,Urban Resident,79-89,False,False,Normal
+832159,Male,92.0,1.76,29.700413223140497,Urban Resident,29-39,False,False,Overweight
+810924,Female,42.0,1.75,13.714285714285714,Urban Resident,69-79,False,False,Underweight
+810058,Female,47.0,1.54,19.81784449316917,Worker,59-69,False,False,Normal
+744459,Male,52.0,1.66,18.870663376397157,Urban Resident,79-89,False,False,Normal
+772931,Male,46.0,1.7,15.91695501730104,Urban Resident,69-79,False,False,Underweight
+785477,Female,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+869257,Female,49.0,1.5,21.77777777777778,Urban Resident,79-89,False,False,Normal
+757333,Male,40.0,1.5,17.77777777777778,Urban Resident,59-69,False,False,Underweight
+791308,Female,48.0,1.52,20.775623268698062,Urban Resident,69-79,False,False,Normal
+726780,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+784471,Female,40.0,1.4,20.408163265306126,Urban Resident,69-79,False,False,Normal
+783249,Female,38.0,1.4,19.38775510204082,Urban Resident,89-110,False,False,Normal
+824513,Female,35.0,1.4,17.85714285714286,Urban Resident,69-79,False,False,Underweight
+826446,Female,35.0,1.5,15.555555555555555,Urban Resident,69-79,False,False,Underweight
+815969,Male,61.0,1.59,24.128792373719392,Urban Resident,79-89,False,False,Normal
+849266,Male,46.5,1.68,16.475340136054424,Urban Resident,69-79,False,False,Underweight
+858068,Female,49.0,1.53,20.932120124738347,Urban Resident,89-110,False,False,Normal
+802827,Female,40.0,1.5,17.77777777777778,Urban Resident,79-89,False,False,Underweight
+836984,Female,47.5,1.5,21.11111111111111,Urban Resident,69-79,False,False,Normal
+854186,Female,48.5,1.5,21.555555555555557,Urban Resident,79-89,False,False,Normal
+862875,Female,40.0,1.4,20.408163265306126,Others,59-69,False,False,Normal
+866007,Male,49.5,1.65,18.181818181818183,Urban Resident,79-89,False,False,Underweight
+850290,Male,67.0,1.7,23.18339100346021,Urban Resident,59-69,False,False,Normal
+810267,Male,59.0,1.7,20.41522491349481,Urban Resident,69-79,False,False,Normal
+737932,Female,40.0,1.45,19.024970273483948,Others,69-79,False,False,Normal
+867601,Female,58.0,1.48,26.47918188458729,Urban Resident,59-69,False,False,Overweight
+841176,Female,49.5,1.5,22.0,Urban Resident,69-79,False,False,Normal
+751866,Male,55.0,1.66,19.959355494266223,Farmer,49-59,False,False,Normal
+806020,Male,60.0,1.6,23.437499999999996,Urban Resident,39-49,False,False,Normal
+765605,Female,57.0,1.5,25.333333333333332,Urban Resident,79-89,False,False,Overweight
+865501,Female,48.5,1.5,21.555555555555557,Urban Resident,79-89,False,False,Normal
+863353,Female,35.0,1.46,16.419590917620567,Urban Resident,59-69,False,False,Underweight
+868161,Male,49.5,1.7,17.128027681660903,Urban Resident,79-89,False,False,Underweight
+826879,Male,52.0,1.65,19.100091827364558,Urban Resident,79-89,False,False,Normal
+859236,Female,58.0,1.6,22.656249999999996,Urban Resident,79-89,False,False,Normal
+774352,Female,49.0,1.39,25.3610061591015,Urban Resident,69-79,False,False,Overweight
+738248,Male,55.0,1.65,20.202020202020204,Urban Resident,79-89,False,False,Normal
+731189,Male,60.0,1.65,22.03856749311295,Urban Resident,59-69,False,False,Normal
+747390,Female,46.0,1.54,19.396188227357058,Urban Resident,79-89,False,False,Normal
+858135,Male,50.0,1.65,18.36547291092746,Urban Resident,69-79,False,False,Underweight
+809124,Female,60.0,1.6,23.437499999999996,Urban Resident,59-69,False,False,Normal
+866706,Male,47.5,1.6,18.554687499999996,Urban Resident,69-79,False,False,Normal
+752849,Male,65.0,1.75,21.224489795918366,Urban Resident,69-79,False,False,Normal
+854121,Male,49.0,1.7,16.955017301038065,Urban Resident,79-89,False,False,Underweight
+855080,Female,49.5,1.5,22.0,Urban Resident,79-89,False,False,Normal
+775683,Male,47.0,1.65,17.263544536271812,Urban Resident,69-79,False,False,Underweight
+829141,Female,31.0,1.45,14.74435196195006,Urban Resident,89-110,False,False,Underweight
+834219,Male,55.0,1.65,20.202020202020204,Urban Resident,49-59,False,False,Normal
+766882,Male,51.0,1.58,20.429418362441915,Urban Resident,69-79,False,False,Normal
+732800,Female,70.0,1.56,28.763971071663377,Urban Resident,69-79,False,False,Overweight
+807047,Female,56.0,1.46,26.27134546819291,Urban Resident,69-79,False,False,Overweight
+742227,Male,54.0,1.55,22.476586888657646,Urban Resident,79-89,False,False,Normal
+811765,Male,52.0,1.6,20.312499999999996,Urban Resident,69-79,False,False,Normal
+830868,Female,40.0,1.5,17.77777777777778,Others,79-89,False,False,Underweight
+819538,Female,40.0,1.5,17.77777777777778,Urban Resident,59-69,False,False,Underweight
+773152,Female,40.0,1.6,15.624999999999996,Urban Resident,69-79,False,False,Underweight
+765103,Female,35.0,1.5,15.555555555555555,Urban Resident,79-89,False,False,Underweight
+766820,Male,69.0,1.68,24.44727891156463,Urban Resident,39-49,False,False,Normal
+851708,Male,48.5,1.6,18.945312499999996,Farmer,89-110,False,False,Normal
+839624,Male,48.5,1.6,18.945312499999996,Urban Resident,49-59,False,False,Normal
+739672,Male,60.0,1.7,20.761245674740486,Urban Resident,79-89,False,False,Normal
+796834,Male,75.0,1.7,25.95155709342561,Urban Resident,79-89,False,False,Overweight
+783949,Male,60.0,1.68,21.258503401360546,Urban Resident,69-79,False,False,Normal
+811809,Male,57.0,1.66,20.685150239512268,Officer,69-79,False,False,Normal
+801954,Female,36.0,1.58,14.420765902900174,Urban Resident,69-79,False,False,Underweight
+811150,Male,82.0,1.65,30.119375573921033,Urban Resident,69-79,False,False,Obese
+810913,Female,55.0,1.62,20.957171162932475,Urban Resident,89-110,False,False,Normal
+742228,Female,55.0,1.62,20.957171162932475,Urban Resident,79-89,False,False,Normal
+857850,Female,38.0,1.45,18.07372175980975,Urban Resident,69-79,False,False,Underweight
+734121,Male,45.0,1.65,16.528925619834713,Urban Resident,79-89,False,False,Underweight
+816754,Female,72.0,1.52,31.16343490304709,Farmer,59-69,False,False,Obese
+810915,Female,52.0,1.56,21.367521367521366,Urban Resident,69-79,False,False,Normal
+832928,Female,40.0,1.38,21.003990758244072,Urban Resident,69-79,False,False,Normal
+771807,Male,62.0,1.65,22.77318640955005,Urban Resident,89-110,False,False,Normal
+793054,Female,57.5,1.5,25.555555555555557,Urban Resident,69-79,False,False,Overweight
+797672,Female,40.0,1.55,16.649323621227886,Urban Resident,89-110,False,False,Underweight
+865953,Female,45.0,1.46,21.110902608369305,Urban Resident,69-79,False,False,Normal
+837883,Female,49.5,1.63,18.63073506718356,Urban Resident,69-79,False,False,Normal
+739577,Female,50.0,1.5,22.22222222222222,Farmer,79-89,False,False,Normal
+794527,Female,55.0,1.5,24.444444444444443,Urban Resident,79-89,False,False,Normal
+740120,Male,50.0,1.57,20.28479857195018,Urban Resident,59-69,False,False,Normal
+783021,Male,60.0,1.73,20.04744562130375,Urban Resident,69-79,False,False,Normal
+793272,Female,44.0,1.5,19.555555555555557,Farmer,59-69,False,False,Normal
+734788,Female,40.0,1.55,16.649323621227886,Farmer,49-59,False,False,Underweight
+753570,Male,66.0,1.63,24.840980089578082,Urban Resident,59-69,False,False,Normal
+728235,Female,50.0,1.55,20.811654526534856,Farmer,69-79,False,False,Normal
+788974,Female,68.0,1.56,27.94214332675871,Urban Resident,79-89,False,False,Overweight
+781892,Male,75.0,1.55,31.217481789802285,Urban Resident,79-89,False,False,Obese
+733392,Male,54.0,1.52,23.372576177285318,Urban Resident,59-69,False,False,Normal
+731362,Female,46.0,1.56,18.902038132807363,Urban Resident,79-89,False,False,Normal
+788017,Female,40.0,1.44,19.290123456790123,Urban Resident,69-79,False,False,Normal
+829782,Female,60.0,1.45,28.53745541022592,Urban Resident,59-69,False,False,Overweight
+807316,Male,60.0,1.68,21.258503401360546,Urban Resident,69-79,False,False,Normal
+858443,Male,48.0,1.55,19.979188345473464,Urban Resident,69-79,False,False,Normal
+787726,Male,60.0,1.6,23.437499999999996,Urban Resident,79-89,False,False,Normal
+736334,Female,50.0,1.56,20.5456936226167,Urban Resident,69-79,False,False,Normal
+755618,Male,47.0,1.6,18.359374999999996,Urban Resident,79-89,False,False,Underweight
+831651,Female,36.0,1.51,15.788781193807289,Urban Resident,69-79,False,False,Underweight
+794914,Male,64.0,1.65,23.507805325987146,Urban Resident,59-69,False,False,Normal
+809897,Female,50.0,1.5,22.22222222222222,Urban Resident,79-89,False,False,Normal
+847822,Male,49.0,1.63,18.442545824080696,Urban Resident,79-89,False,False,Underweight
+831043,Female,55.0,1.55,22.892819979188342,Urban Resident,49-59,False,False,Normal
+754546,Male,68.0,1.68,24.092970521541954,Farmer,59-69,False,False,Normal
+780587,Female,42.5,1.45,20.214030915576693,Urban Resident,59-69,False,False,Normal
+770977,Male,45.0,1.6,17.578124999999996,Urban Resident,79-89,False,False,Underweight
+744263,Female,40.0,1.5,17.77777777777778,Farmer,79-89,False,False,Underweight
+865270,Male,48.5,1.73,16.2050185438872,Urban Resident,59-69,False,False,Underweight
+806289,Female,40.0,1.53,17.087444999786406,Urban Resident,69-79,False,False,Underweight
+774776,Female,40.0,1.5,17.77777777777778,Urban Resident,59-69,False,False,Underweight
+843309,Male,49.5,1.64,18.404223676383108,Farmer,39-49,False,False,Underweight
+837083,Male,47.5,1.6,18.554687499999996,Farmer,69-79,False,False,Normal
+803948,Female,60.0,1.6,23.437499999999996,Urban Resident,89-110,False,False,Normal
+743141,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+783454,Male,51.0,1.64,18.961927424152293,Farmer,49-59,False,False,Normal
+793116,Female,35.0,1.55,14.5681581685744,Farmer,79-89,False,False,Underweight
+734777,Male,60.0,1.6,23.437499999999996,Farmer,69-79,False,False,Normal
+823297,Male,55.0,1.75,17.959183673469386,Urban Resident,59-69,False,False,Underweight
+743350,Male,58.0,1.52,25.10387811634349,Urban Resident,79-89,False,False,Overweight
+774763,Female,55.0,1.55,22.892819979188342,Urban Resident,59-69,False,False,Normal
+744828,Female,45.0,1.5,20.0,Urban Resident,79-89,False,False,Normal
+763848,Male,53.0,1.55,22.060353798126947,Urban Resident,69-79,False,False,Normal
+860599,Female,49.0,1.55,20.39542143600416,Others,79-89,False,False,Normal
+789667,Female,40.0,1.55,16.649323621227886,Urban Resident,89-110,False,False,Underweight
+861260,Female,49.5,1.5,22.0,Urban Resident,79-89,False,False,Normal
+816934,Female,60.0,1.55,24.97398543184183,Urban Resident,69-79,False,False,Overweight
+805611,Male,60.0,1.7,20.761245674740486,Urban Resident,79-89,False,False,Normal
+797927,Male,65.0,1.67,23.306680053067517,Urban Resident,79-89,False,False,Normal
+757414,Female,70.0,1.5,31.11111111111111,Urban Resident,59-69,False,False,Obese
+861704,Female,49.5,1.5,22.0,Urban Resident,79-89,False,False,Normal
+726373,Female,73.0,1.5,32.44444444444444,Urban Resident,69-79,False,False,Obese
+847157,Male,50.0,1.7,17.301038062283737,Urban Resident,49-59,False,False,Underweight
+726428,Male,65.0,1.62,24.76756591982929,Urban Resident,69-79,False,False,Normal
+773886,Male,60.0,1.67,21.513858510523864,Farmer,59-69,False,False,Normal
+789682,Female,45.0,1.56,18.49112426035503,Urban Resident,69-79,False,False,Underweight
+744018,Female,52.0,1.5,23.11111111111111,Others,59-69,False,False,Normal
+855364,Male,48.5,1.65,17.814508723599634,Urban Resident,49-59,False,False,Underweight
+828407,Female,47.0,1.53,20.07774787474903,Urban Resident,69-79,False,False,Normal
+865672,Male,48.0,1.67,17.21108680841909,Urban Resident,39-49,False,False,Underweight
+822518,Male,62.5,1.65,22.956841138659325,Urban Resident,79-89,False,False,Normal
+764369,Female,46.0,1.5,20.444444444444443,Farmer,79-89,False,False,Normal
+741731,Female,46.0,1.57,18.662014686194166,Urban Resident,69-79,False,False,Normal
+840472,Male,47.0,1.78,14.833985607877793,Urban Resident,79-89,False,False,Underweight
+852340,Male,57.0,1.55,23.725286160249738,Urban Resident,59-69,False,False,Normal
+733983,Male,76.0,1.68,26.92743764172336,Urban Resident,59-69,False,False,Overweight
+807802,Female,66.0,1.58,26.43807082198365,Urban Resident,69-79,False,False,Overweight
+778740,Female,43.0,1.5,19.11111111111111,Urban Resident,89-110,False,False,Normal
+865149,Male,60.0,1.68,21.258503401360546,Others,59-69,False,False,Normal
+831231,Female,55.0,1.6,21.484374999999996,Urban Resident,69-79,False,False,Normal
+746231,Female,60.0,1.55,24.97398543184183,Urban Resident,79-89,False,False,Overweight
+854969,Female,35.0,1.4,17.85714285714286,Urban Resident,79-89,False,False,Underweight
+828281,Female,35.0,1.48,15.97881665449233,Urban Resident,79-89,False,False,Underweight
+732175,Male,80.0,1.72,27.041644131963228,Urban Resident,39-49,False,False,Overweight
+753065,Female,45.0,1.55,18.730489073881373,Urban Resident,69-79,False,False,Normal
+812630,Female,33.0,1.48,15.065741417092768,Farmer,69-79,False,False,Underweight
+737646,Male,70.0,1.5,31.11111111111111,Farmer,59-69,False,False,Obese
+737462,Male,65.0,1.55,27.055150884495315,Urban Resident,49-59,False,False,Overweight
+737365,Male,62.0,1.7,21.453287197231838,Urban Resident,79-89,False,False,Normal
+729083,Female,52.0,1.51,22.806017279943863,Urban Resident,69-79,False,False,Normal
+822670,Female,40.0,1.55,16.649323621227886,Urban Resident,89-110,False,False,Underweight
+796524,Female,45.0,1.45,21.40309155766944,Others,59-69,False,False,Normal
+802242,Male,55.0,1.68,19.48696145124717,Urban Resident,69-79,False,False,Normal
+761283,Female,39.0,1.5,17.333333333333332,Others,59-69,False,False,Underweight
+761654,Male,57.0,1.54,24.034407151290267,Urban Resident,69-79,False,False,Normal
+749778,Male,82.0,1.8,25.30864197530864,Urban Resident,79-89,False,False,Overweight
+817871,Female,30.0,1.4,15.306122448979593,Urban Resident,69-79,False,False,Underweight
+855773,Female,49.0,1.46,22.987427284668797,Urban Resident,69-79,False,False,Normal
+745485,Female,70.0,1.5,31.11111111111111,Urban Resident,59-69,False,False,Obese
+809541,Male,78.0,1.72,26.365603028664147,Urban Resident,69-79,False,False,Overweight
+729704,Male,43.0,1.55,17.898022892819977,Urban Resident,69-79,False,False,Underweight
+729068,Male,46.0,1.55,19.14672216441207,Urban Resident,21-29,False,False,Normal
+791660,Female,60.0,1.53,25.63116749967961,Others,79-89,False,False,Overweight
+752968,Female,45.0,1.55,18.730489073881373,Farmer,69-79,False,False,Normal
+860041,Male,48.0,1.6,18.749999999999996,Urban Resident,79-89,False,False,Normal
+801381,Female,45.0,1.5,20.0,Urban Resident,69-79,False,False,Normal
+805880,Male,50.0,1.5,22.22222222222222,Unspecified,59-69,False,False,Normal
+805475,Male,50.0,1.69,17.506389832288786,Urban Resident,59-69,False,False,Underweight
+812656,Female,46.0,1.56,18.902038132807363,Urban Resident,59-69,False,False,Normal
+779573,Female,60.0,1.6,23.437499999999996,Urban Resident,89-110,False,False,Normal
+863901,Female,49.0,1.5,21.77777777777778,Urban Resident,69-79,False,False,Normal
+765507,Male,68.0,1.65,24.977043158861342,Urban Resident,69-79,False,False,Overweight
+730028,Male,65.0,1.7,22.49134948096886,Farmer,69-79,False,False,Normal
+868166,Female,45.5,1.5,20.22222222222222,Others,79-89,False,False,Normal
+815735,Female,65.0,1.55,27.055150884495315,Urban Resident,69-79,False,False,Overweight
+834500,Female,44.0,1.56,18.080210387902692,Urban Resident,79-89,False,False,Underweight
+828595,Female,45.0,1.56,18.49112426035503,Unspecified,79-89,False,False,Underweight
+812759,Female,45.0,1.55,18.730489073881373,Unspecified,79-89,False,False,Normal
+852240,Female,47.5,1.61,18.324910304386403,Urban Resident,69-79,False,False,Underweight
+798458,Female,52.0,1.55,21.64412070759625,Urban Resident,69-79,False,False,Normal
+848832,Male,48.5,1.72,16.393996755002707,Urban Resident,79-89,False,False,Underweight
+842846,Female,49.0,1.52,21.208448753462605,Urban Resident,79-89,False,False,Normal
+747320,Female,47.0,1.58,18.82711103989745,Farmer,69-79,False,False,Normal
+795904,Female,55.0,1.6,21.484374999999996,Urban Resident,69-79,False,False,Normal
+866996,Female,48.0,1.4,24.48979591836735,Urban Resident,79-89,False,False,Normal
+846667,Female,48.0,1.48,21.91380569758948,Urban Resident,79-89,False,False,Normal
+808622,Female,33.0,1.4,16.836734693877553,Urban Resident,69-79,False,False,Underweight
+790648,Female,57.0,1.55,23.725286160249738,Urban Resident,69-79,False,False,Normal
+859912,Female,45.5,1.45,21.64090368608799,Urban Resident,79-89,False,False,Normal
+744819,Female,50.0,1.58,20.028841531805796,Urban Resident,89-110,False,False,Normal
+791351,Female,48.0,1.55,19.979188345473464,Urban Resident,59-69,False,False,Normal
+736498,Male,55.0,1.54,23.19109461966605,Urban Resident,39-49,False,False,Normal
+738276,Female,53.0,1.5,23.555555555555557,Urban Resident,69-79,False,False,Normal
+838934,Male,46.5,1.6,18.164062499999996,Urban Resident,69-79,False,False,Underweight
+737639,Male,55.0,1.67,19.721036967980208,Urban Resident,69-79,False,False,Normal
+741248,Male,62.0,1.65,22.77318640955005,Farmer,69-79,False,False,Normal
+816764,Female,42.0,1.51,18.420244726108503,Urban Resident,69-79,False,False,Underweight
+807921,Female,31.5,1.42,15.621900416584012,Urban Resident,79-89,False,False,Underweight
+837395,Female,52.0,1.68,18.42403628117914,Urban Resident,69-79,False,False,Underweight
+825046,Male,44.0,1.58,17.625380547989103,Urban Resident,69-79,False,False,Underweight
+745203,Male,65.0,1.55,27.055150884495315,Farmer,79-89,False,False,Overweight
+807093,Male,70.0,1.65,25.71166207529844,Urban Resident,39-49,False,False,Overweight
+792214,Female,33.0,1.4,16.836734693877553,Urban Resident,79-89,False,False,Underweight
+857717,Female,47.5,1.54,20.028672626075224,Urban Resident,69-79,False,False,Normal
+864327,Male,46.0,1.65,16.896235078053262,Urban Resident,79-89,False,False,Underweight
+773035,Female,43.0,1.54,18.13121942992073,Urban Resident,79-89,False,False,Underweight
+860602,Male,49.0,1.67,17.569651116927822,Urban Resident,59-69,False,False,Underweight
+793094,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+827137,Female,35.0,1.45,16.646848989298455,Urban Resident,79-89,False,False,Underweight
+772119,Male,60.0,1.7,20.761245674740486,Urban Resident,69-79,False,False,Normal
+856407,Male,48.5,1.57,19.676254614791674,Others,59-69,False,False,Normal
+736143,Female,50.0,1.5,22.22222222222222,Others,59-69,False,False,Normal
+851657,Female,47.5,1.5,21.11111111111111,Urban Resident,69-79,False,False,Normal
+860022,Female,48.0,1.4,24.48979591836735,Urban Resident,59-69,False,False,Normal
+866745,Female,48.5,1.42,24.052767308073797,Urban Resident,69-79,False,False,Normal
+774663,Male,65.0,1.7,22.49134948096886,Urban Resident,69-79,False,False,Normal
+851534,Female,49.5,1.57,20.08195058623068,Others,69-79,False,False,Normal
+803856,Female,65.0,1.59,25.71100826707804,Urban Resident,79-89,False,False,Overweight
+770008,Female,35.0,1.25,22.4,Urban Resident,69-79,False,False,Normal
+862511,Female,49.0,1.64,18.218322427126715,Urban Resident,79-89,False,False,Underweight
+845703,Male,48.0,1.55,19.979188345473464,Urban Resident,69-79,False,False,Normal
+839289,Female,46.0,1.58,18.426534209261334,Urban Resident,69-79,False,False,Underweight
+823018,Female,52.0,1.55,21.64412070759625,Urban Resident,79-89,False,False,Normal
+835187,Female,45.0,1.5,20.0,Urban Resident,59-69,False,False,Normal
+859571,Female,48.0,1.55,19.979188345473464,Urban Resident,69-79,False,False,Normal
+828982,Female,55.0,1.6,21.484374999999996,Urban Resident,89-110,False,False,Normal
+833436,Male,60.0,1.65,22.03856749311295,Urban Resident,69-79,False,False,Normal
+786843,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+838532,Male,45.5,1.63,17.125221122360646,Urban Resident,69-79,False,False,Underweight
+767909,Female,40.0,1.42,19.837333862328904,Urban Resident,79-89,False,False,Normal
+763452,Female,48.0,1.52,20.775623268698062,Others,69-79,False,False,Normal
+757006,Female,40.0,1.52,17.31301939058172,Farmer,79-89,False,False,Underweight
+736744,Male,82.5,1.72,27.886695511087076,Urban Resident,49-59,False,False,Overweight
+818458,Male,58.0,1.6,22.656249999999996,Urban Resident,79-89,False,False,Normal
+784500,Male,60.0,1.7,20.761245674740486,Urban Resident,89-110,False,False,Normal
+755720,Male,65.0,1.62,24.76756591982929,Urban Resident,59-69,False,False,Normal
+865447,Male,49.0,1.6,19.140624999999996,Urban Resident,79-89,False,False,Normal
+772351,Male,66.0,1.6,25.781249999999996,Farmer,49-59,False,False,Overweight
+746016,Female,30.0,1.5,13.333333333333334,Farmer,69-79,False,False,Underweight
+784421,Male,65.0,1.7,22.49134948096886,Urban Resident,79-89,False,False,Normal
+842942,Female,49.5,1.56,20.34023668639053,Urban Resident,79-89,False,False,Normal
+843892,Female,48.0,1.4,24.48979591836735,Urban Resident,89-110,False,False,Normal
+782956,Male,80.0,1.75,26.122448979591837,Urban Resident,79-89,False,False,Overweight
+815717,Female,40.0,1.48,18.261504747991236,Urban Resident,79-89,False,False,Underweight
+804484,Female,80.0,1.6,31.249999999999993,Urban Resident,69-79,False,False,Obese
+727734,Female,36.0,1.5,16.0,Farmer,69-79,False,False,Underweight
+765688,Female,36.0,1.5,16.0,Urban Resident,69-79,False,False,Underweight
+736630,Female,40.0,1.62,15.241579027587255,Farmer,59-69,False,False,Underweight
+799795,Male,63.0,1.6,24.609374999999996,Urban Resident,49-59,False,False,Normal
+813910,Male,50.0,1.56,20.5456936226167,Urban Resident,89-110,False,False,Normal
+790132,Male,55.0,1.7,19.031141868512112,Urban Resident,39-49,False,False,Normal
+802949,Female,53.0,1.59,20.964360587002094,Urban Resident,59-69,False,False,Normal
+753466,Female,63.0,1.53,26.91272587466359,Urban Resident,79-89,False,False,Overweight
+794904,Female,39.0,1.5,17.333333333333332,Urban Resident,69-79,False,False,Underweight
+791183,Female,42.0,1.55,17.48178980228928,Urban Resident,69-79,False,False,Underweight
+780109,Female,45.0,1.44,21.70138888888889,Urban Resident,59-69,False,False,Normal
+799600,Male,50.0,1.58,20.028841531805796,Urban Resident,79-89,False,False,Normal
+799957,Female,39.0,1.55,16.23309053069719,Urban Resident,79-89,False,False,Underweight
+789663,Male,85.0,1.65,31.22130394857668,Urban Resident,49-59,False,False,Obese
+825468,Female,53.0,1.53,22.64086462471699,Urban Resident,59-69,False,False,Normal
+846828,Female,47.5,1.52,20.55921052631579,Urban Resident,69-79,False,False,Normal
+731581,Female,48.0,1.51,21.051708258409718,Urban Resident,69-79,False,False,Normal
+802524,Male,50.0,1.5,22.22222222222222,Urban Resident,69-79,False,False,Normal
+762438,Female,49.0,1.4,25.000000000000004,Urban Resident,79-89,False,False,Overweight
+820600,Female,38.0,1.5,16.88888888888889,Urban Resident,59-69,False,False,Underweight
+786994,Male,55.0,1.56,22.600262984878366,Urban Resident,59-69,False,False,Normal
+774063,Male,65.0,1.7,22.49134948096886,Urban Resident,59-69,False,False,Normal
+757601,Male,74.0,1.68,26.218820861678008,Worker,69-79,False,False,Overweight
+792460,Female,50.0,1.5,22.22222222222222,Urban Resident,79-89,False,False,Normal
+860035,Female,46.5,1.5,20.666666666666668,Urban Resident,79-89,False,False,Normal
+801155,Male,60.0,1.6,23.437499999999996,Urban Resident,69-79,False,False,Normal
+777237,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+732617,Male,50.0,1.6,19.531249999999996,Urban Resident,79-89,False,False,Normal
+841113,Male,48.0,1.65,17.63085399449036,Farmer,79-89,False,False,Underweight
+744424,Female,50.0,1.5,22.22222222222222,Urban Resident,79-89,False,False,Normal
+797397,Female,75.0,1.55,31.217481789802285,Urban Resident,79-89,False,False,Obese
+848903,Female,49.5,1.58,19.82855311648774,Urban Resident,79-89,False,False,Normal
+739217,Female,61.0,1.55,25.390218522372525,Others,59-69,False,False,Overweight
+852097,Female,47.0,1.53,20.07774787474903,Urban Resident,79-89,False,False,Normal
+861442,Male,47.5,1.6,18.554687499999996,Urban Resident,79-89,False,False,Normal
+776559,Female,50.0,1.5,22.22222222222222,Urban Resident,69-79,False,False,Normal
+859366,Male,49.0,1.6,19.140624999999996,Urban Resident,59-69,False,False,Normal
+759370,Female,50.0,1.57,20.28479857195018,Urban Resident,79-89,False,False,Normal
+829624,Male,70.0,1.74,23.120623596247853,Officer,49-59,False,False,Normal
+807293,Male,80.0,1.68,28.344671201814062,Urban Resident,69-79,False,False,Overweight
+805610,Male,70.0,1.7,24.221453287197235,Urban Resident,79-89,False,False,Normal
+740274,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+729142,Female,41.0,1.5,18.22222222222222,Urban Resident,69-79,False,False,Underweight
+733199,Male,43.0,1.68,15.235260770975058,Farmer,69-79,False,False,Underweight
+816947,Male,46.5,1.5,20.666666666666668,Urban Resident,69-79,False,False,Normal
+823534,Female,62.0,1.52,26.83518005540166,Urban Resident,69-79,False,False,Overweight
+732742,Female,50.0,1.55,20.811654526534856,Farmer,39-49,False,False,Normal
+750447,Male,60.0,1.68,21.258503401360546,Urban Resident,79-89,False,False,Normal
+818185,Female,42.0,1.4,21.42857142857143,Urban Resident,79-89,False,False,Normal
+804209,Female,40.0,1.55,16.649323621227886,Urban Resident,89-110,False,False,Underweight
+756045,Female,40.0,1.5,17.77777777777778,Urban Resident,69-79,False,False,Underweight
+726701,Male,60.0,1.6,23.437499999999996,Urban Resident,79-89,False,False,Normal
+754589,Female,52.5,1.53,22.42727156221966,Urban Resident,69-79,False,False,Normal
+740689,Female,35.0,1.5,15.555555555555555,Others,79-89,False,False,Underweight
+734280,Female,50.0,1.55,20.811654526534856,Urban Resident,79-89,False,False,Normal
+781004,Male,75.0,1.7,25.95155709342561,Urban Resident,39-49,False,False,Overweight
+744870,Male,40.0,1.5,17.77777777777778,Urban Resident,49-59,False,False,Underweight
+791864,Female,45.0,1.55,18.730489073881373,Urban Resident,79-89,False,False,Normal
