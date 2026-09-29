@@ -24,7 +24,7 @@ The project follows the complete data-analysis workflow:
 | Member | Role |
 |---|---|
 | Sudha Dubey | Data Analysis / Python |
-|| Data Analysis |
+| Priyankha | Data Analysis |
 | Priya Annamalai | Data Visualization |
 | Kokila Thanukumar | Machine Learning |
 | Priyankha Kumar | Documentation |
