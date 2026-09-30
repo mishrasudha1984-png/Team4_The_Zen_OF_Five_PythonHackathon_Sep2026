@@ -130,10 +130,11 @@ def drill(fig, h=360, name=""):
 def hdr(t): st.markdown(f'<div class="hdr">{t}</div>', unsafe_allow_html=True)
 
 def card(title, reason):
-    import re; m = re.match(r"^\s*([DPQ]\d+|[A-Z]\d+)", title)
+    import re; m = re.match(r"^\s*([DPQ]\d+|[A-Z]\d+)\.?\s*", title)
     aid = m.group(1).lower() if m else None
     anch = f'<div id="{aid}" class="anch"></div>' if aid else ""
-    st.markdown(f'{anch}<div class="card"><h4>{title}</h4><p>{reason}</p></div>',
+    display_title = title[m.end():] if m else title
+    st.markdown(f'{anch}<div class="card"><h4>{display_title}</h4><p>{reason}</p></div>',
                 unsafe_allow_html=True)
 
 def ins(t): st.markdown(f'<div class="ins"><b>💡 Insight:</b> {t}</div>', unsafe_allow_html=True)
@@ -240,7 +241,6 @@ tabs = st.tabs(["📊 Descriptive","💡 Prescriptive","🔮 Predictive","📋 S
 # ══════════════════════════════════════════════════════════════════════════════
 with tabs[0]:
     hdr("📊 Descriptive Analysis — What does the data show?")
-    toc([(f"d{i}",f"D{i}") for i in range(1,7)])
 
     k = st.columns(5)
     k[0].metric("Patients", f"{len(df):,}")
@@ -422,7 +422,6 @@ with tabs[0]:
 # ══════════════════════════════════════════════════════════════════════════════
 with tabs[1]:
     hdr("💡 Prescriptive Analysis — What should we do about it?")
-    toc([(f"p{i}",f"P{i}") for i in range(1,9)])
 
     on_bb_s  = ((df["rx_metoprolol_succinate_sustained-release_tablet"]==1)|
                 (df["rx_metoprolol_tartrate_injection"]==1))
@@ -763,24 +762,6 @@ with tabs[2]:
     ins(f"Readmission rises from {tr.iloc[0]:.1f}% (Low) to {tr.iloc[-1]:.1f}% (High). "
         "Recommended action: 2-week follow-up call for High tier; standard 4-6 week for Low tier.")
 
-    st.subheader("All 7 predictive questions — summary")
-    pq=pd.DataFrame([
-        {"#":"Q1","Target":"6-month readmission","Best AUC":"0.640 (GBM)","Chosen":"Logistic Regression",
-         "Why":"Best recall — catches more high-risk patients (preventive care priority)"},
-        {"#":"Q2","Target":"Discharge destination (home vs. facility)","Best AUC":"0.650","Chosen":"Logistic Regression",
-         "Why":"Real signal (p=0.02); triggers day-1 social-work consult"},
-        {"#":"Q3","Target":"HF type (Left/Right/Both — multiclass)","Best AUC":"Macro F1","Chosen":"Random Forest",
-         "Why":"COPD history & occupation only significant predictors; Right class n=51 — limited"},
-        {"#":"Q4","Target":"Need for supplemental oxygen","Best AUC":"AUC-ranked","Chosen":"Random Forest",
-         "Why":"Age & COPD strongest; useful for pre-allocating respiratory equipment"},
-        {"#":"Q5","Target":"Most predictable outcome from admission data","Best AUC":"80-98% (diagnoses)","Chosen":"LR",
-         "Why":"Short-term mortality predicts well; readmission/ED-return harder (~67%)"},
-        {"#":"Q6","Target":"Length of stay (continuous vs. binary)","Best AUC":"R²=0.16 / AUC=0.752","Chosen":"RF binary flag",
-         "Why":"Binary 'long stay' flag far more useful than exact LOS for bed planning"},
-        {"#":"Q7","Target":"Need for IV inotropic support","Best AUC":"~0.73","Chosen":"Random Forest",
-         "Why":"BNP, urea, troponin, creatinine, GFR are top predictors"},
-    ])
-    st.dataframe(pq,hide_index=True,use_container_width=True)
 
 # ══════════════════════════════════════════════════════════════════════════════
 # TAB 4 – SUMMARY
@@ -805,14 +786,6 @@ with tabs[3]:
 - CKD ({pct((DF_ALL['moderate_to_severe_chronic_kidney_disease']==1).mean())}) and diabetes ({pct((DF_ALL['diabetes']==1).mean())}) dominate comorbidities — each affects ~1 in 4 patients.
 """)
 
-    st.subheader("🟡 Predictive — What are the model findings?")
-    st.markdown(f"""
-- **H₀ rejected** across all 4 models (all AUC > 0.5) — admission data carries real predictive signal.
-- Best AUC = **{mdf['AUC'].max():.3f}** (Gradient Boosting); best recall/F1 = Logistic Regression → **chosen for preventive care**.
-- Readmission rises from **{tr.iloc[0]:.1f}%** (Low tier) to **{tr.iloc[-1]:.1f}%** (High tier) using model-predicted risk.
-- Diagnoses and 28-day mortality predict well (AUC 80–98%); readmission and ED-return are harder (~67%) — need post-discharge data to improve.
-""")
-
     st.subheader("🔴 Prescriptive — Top 5 quick-win actions")
     hfref2=DF_ALL[DF_ALL.get("lvef",pd.Series(dtype=float))<=40] if "lvef" in DF_ALL.columns else pd.DataFrame()
     gdmt2=hfref2[mk_flags(hfref2)["gdmt_count"]<3] if len(hfref2)>0 else pd.DataFrame()
@@ -825,6 +798,14 @@ with tabs[3]:
 | 🟡 3 | **Follow-up risk score** — flag score ≥ 2 for 7-14 day post-discharge call | Flagging ~45% of patients captures ~79% of 6-month deaths |
 | 🟡 4 | **Albumin nutrition consult** — automatic referral for albumin < 37.3 g/L | 2× the 6-month mortality below the cut-off; AUC 0.60 |
 | 🟡 5 | **Statin audit** — mandatory pharmacy review for LDL >2.6 + no statin | 53% of poorly-controlled-LDL patients not on statin; 3.5× lower mortality on statin |
+""")
+
+    st.subheader("🟡 Predictive — What are the model findings?")
+    st.markdown(f"""
+- **H₀ rejected** across all 4 models (all AUC > 0.5) — admission data carries real predictive signal.
+- Best AUC = **{mdf['AUC'].max():.3f}** (Gradient Boosting); best recall/F1 = Logistic Regression → **chosen for preventive care**.
+- Readmission rises from **{tr.iloc[0]:.1f}%** (Low tier) to **{tr.iloc[-1]:.1f}%** (High tier) using model-predicted risk.
+- Diagnoses and 28-day mortality predict well (AUC 80–98%); readmission and ED-return are harder (~67%) — need post-discharge data to improve.
 """)
 
     st.success("**Bottom line:** This is an advanced-disease cohort with clear, fixable gaps "
